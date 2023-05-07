@@ -36,7 +36,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 28;male;36.4;1;yes;southwest; R$ 5.119.455.914,00 ; R$ 511.945,59 
 19;male;20.425;0;no;northwest; R$ 162.543.375,00 ; R$ 16.254,34 
 62;female;32.965;3;no;northwest; R$ 1.561.219.335,00 ; R$ 156.121,93 
-26;male;20.8;0;no;southwest; 2302.3 ;#VALOR!
+26;male;20.8;0;no;southwest; R$ 2.302.330,00 ; R$ 230,23 
 35;male;36.67;1;yes;northeast; R$ 397.742.763,00 ; R$ 39.774,28 
 60;male;39.9;0;yes;southwest; R$ 48.173.361,00 ; R$ 4.817,34 
 24;female;26.6;0;no;northeast; R$ 3.046.062,00 ; R$ 304,61 
@@ -95,7 +95,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 35;male;34.77;2;no;northwest; R$ 57.290.053,00 ; R$ 5.729,01 
 64;female;31.3;2;yes;southwest; R$ 47.291.055,00 ; R$ 4.729,11 
 28;female;37.62;1;no;southeast; R$ 37.668.838,00 ; R$ 3.766,88 
-54;female;30.8;3;no;southwest; 12105.32 ;#VALOR!
+54;female;30.8;3;no;southwest; R$ 12.105.320,00 ; R$ 1.210,53 
 55;male;38.28;0;no;southeast; R$ 102.262.842,00 ; R$ 10.226,28 
 56;male;19.95;0;yes;northeast; R$ 224.126.485,00 ; R$ 22.412,65 
 38;male;19.3;0;yes;southwest; R$ 15.820.699,00 ; R$ 1.582,07 
@@ -125,7 +125,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 44;male;31.35;1;yes;northeast; R$ 395.564.945,00 ; R$ 39.556,49 
 47;female;33.915;3;no;northwest; R$ 1.011.500.885,00 ; R$ 101.150,09 
 26;female;28.785;0;no;northeast; R$ 338.539.915,00 ; R$ 33.853,99 
-19;female;28.3;0;yes;southwest; 17081.08 ;#VALOR!
+19;female;28.3;0;yes;southwest; R$ 1.708.108,00 ; R$ 170,81 
 52;female;37.4;0;no;southwest; R$ 9.634.538,00 ; R$ 963,45 
 32;female;17.765;2;yes;northwest; R$ 327.341.863,00 ; R$ 32.734,19 
 38;male;34.7;2;no;southwest; R$ 6.082.405,00 ; R$ 608,24 
@@ -165,16 +165,16 @@ age;sex;bmi;children;smoker;region; charges ; charges
 32;female;29.8;2;no;southwest; R$ 5.152.134,00 ; R$ 515,21 
 37;male;29.64;0;no;northwest; R$ 50.281.466,00 ; R$ 5.028,15 
 47;male;28.215;4;no;northeast; R$ 1.040.708.585,00 ; R$ 104.070,86 
-20;female;37;5;no;southwest; 4830.63 ;#VALOR!
+20;female;37;5;no;southwest; R$ 4.830.630,00 ; R$ 483,06 
 32;female;33.155;3;no;northwest; R$ 612.879.745,00 ; R$ 61.287,97 
 19;female;31.825;1;no;northwest; R$ 271.927.975,00 ; R$ 27.192,80 
 27;male;18.905;3;no;northeast; R$ 482.790.495,00 ; R$ 48.279,05 
 63;male;41.47;0;no;southeast; R$ 134.053.903,00 ; R$ 13.405,39 
-49;male;30.3;0;no;southwest; 8116.68 ;#VALOR!
+49;male;30.3;0;no;southwest; R$ 8.116.680,00 ; R$ 811,67 
 18;male;15.96;0;no;northeast; R$ 16.947.964,00 ; R$ 1.694,80 
 35;female;34.8;1;no;southwest; R$ 5.246.047,00 ; R$ 524,60 
 24;female;33.345;0;no;northwest; R$ 285.543.755,00 ; R$ 28.554,38 
-63;female;37.7;0;yes;southwest; 48824.45 ;#VALOR!
+63;female;37.7;0;yes;southwest; R$ 4.882.445,00 ; R$ 488,24 
 38;male;27.835;2;no;northwest; R$ 645.586.265,00 ; R$ 64.558,63 
 54;male;29.2;1;no;southwest; R$ 10.436.096,00 ; R$ 1.043,61 
 46;female;28.9;2;no;southwest; R$ 8.823.279,00 ; R$ 882,33 
@@ -209,7 +209,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 35;male;27.74;2;yes;northeast; R$ 209.840.936,00 ; R$ 20.984,09 
 63;female;31.8;0;no;southwest; R$ 13.880.949,00 ; R$ 1.388,09 
 40;male;41.23;1;no;northeast; R$ 66.101.097,00 ; R$ 6.610,11 
-20;male;33;1;no;southwest; 1980.07 ;#VALOR!
+20;male;33;1;no;southwest; R$ 1.980.070,00 ; R$ 198,01 
 40;male;30.875;4;no;northwest; R$ 816.271.625,00 ; R$ 81.627,16 
 24;male;28.5;2;no;northwest; R$ 3.537.703,00 ; R$ 353,77 
 34;female;26.73;1;no;southeast; R$ 50.027.827,00 ; R$ 5.002,78 
@@ -259,7 +259,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 38;female;40.15;0;no;southeast; R$ 54.009.805,00 ; R$ 5.400,98 
 51;male;24.415;4;no;northwest; R$ 1.152.009.985,00 ; R$ 115.201,00 
 19;male;31.92;0;yes;northwest; R$ 337.502.918,00 ; R$ 33.750,29 
-58;female;25.2;0;no;southwest; 11837.16 ;#VALOR!
+58;female;25.2;0;no;southwest; R$ 1.183.716,00 ; R$ 118,37 
 20;female;26.84;1;yes;southeast; R$ 170.852.676,00 ; R$ 17.085,27 
 52;male;24.32;3;yes;northeast; R$ 248.698.368,00 ; R$ 24.869,84 
 19;male;36.955;0;yes;northwest; R$ 3.621.940.545,00 ; R$ 362.194,05 
@@ -283,7 +283,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 54;male;40.565;3;yes;northeast; R$ 4.854.917.835,00 ; R$ 485.491,78 
 30;male;27.645;1;no;northeast; R$ 423.712.655,00 ; R$ 42.371,27 
 55;female;32.395;1;no;northeast; R$ 1.187.910.405,00 ; R$ 118.791,04 
-52;female;31.2;0;no;southwest; 9625.92 ;#VALOR!
+52;female;31.2;0;no;southwest; R$ 962.592,00 ; R$ 96,26 
 46;male;26.62;1;no;southeast; R$ 77.421.098,00 ; R$ 7.742,11 
 46;female;48.07;2;no;northeast; R$ 94.329.253,00 ; R$ 9.432,93 
 63;female;26.22;0;no;northwest; R$ 142.561.928,00 ; R$ 14.256,19 
@@ -321,13 +321,13 @@ age;sex;bmi;children;smoker;region; charges ; charges
 32;male;37.335;1;no;northeast; R$ 466.760.765,00 ; R$ 46.676,08 
 34;male;25.27;1;no;northwest; R$ 48.947.533,00 ; R$ 4.894,75 
 26;female;29.64;4;no;northeast; R$ 2.467.166.334,00 ; R$ 246.716,63 
-34;male;30.8;0;yes;southwest; 35491.64 ;#VALOR!
+34;male;30.8;0;yes;southwest; R$ 3.549.164,00 ; R$ 354,92 
 57;male;40.945;0;no;northeast; R$ 1.156.630.055,00 ; R$ 115.663,01 
 29;male;27.2;0;no;southwest; R$ 2.866.091,00 ; R$ 286,61 
 40;male;34.105;1;no;northeast; R$ 660.020.595,00 ; R$ 66.002,06 
 27;female;23.21;1;no;southeast; R$ 35.618.889,00 ; R$ 3.561,89 
 45;male;36.48;2;yes;northwest; R$ 427.605.022,00 ; R$ 42.760,50 
-64;female;33.8;1;yes;southwest; 47928.03 ;#VALOR!
+64;female;33.8;1;yes;southwest; R$ 4.792.803,00 ; R$ 479,28 
 52;male;36.7;0;no;southwest; R$ 9.144.565,00 ; R$ 914,46 
 61;female;36.385;1;yes;northeast; R$ 4.851.756.315,00 ; R$ 485.175,63 
 52;male;27.36;0;yes;northwest; R$ 243.936.224,00 ; R$ 24.393,62 
@@ -360,7 +360,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 23;male;41.91;0;no;southeast; R$ 18.372.819,00 ; R$ 1.837,28 
 18;female;20.79;0;no;southeast; R$ 16.075.101,00 ; R$ 1.607,51 
 48;female;32.3;2;no;northeast; R$ 10.043.249,00 ; R$ 1.004,32 
-35;male;30.5;1;no;southwest; 4751.07 ;#VALOR!
+35;male;30.5;1;no;southwest; R$ 4.751.070,00 ; R$ 475,11 
 19;female;21.7;0;yes;southwest; R$ 13.844.506,00 ; R$ 1.384,45 
 21;female;26.4;1;no;southwest; R$ 2.597.779,00 ; R$ 259,78 
 21;female;21.89;2;no;southeast; R$ 31.805.101,00 ; R$ 3.180,51 
@@ -402,7 +402,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 51;female;20.6;0;no;southwest; R$ 9.264.797,00 ; R$ 926,48 
 47;male;47.52;1;no;southeast; R$ 80.839.198,00 ; R$ 8.083,92 
 64;female;32.965;0;no;northwest; R$ 1.469.266.935,00 ; R$ 146.926,69 
-49;male;32.3;3;no;northwest; 10269.46 ;#VALOR!
+49;male;32.3;3;no;northwest; R$ 1.026.946,00 ; R$ 102,69 
 31;male;20.4;0;no;southwest; R$ 3.260.199,00 ; R$ 326,02 
 52;female;38.38;2;no;northeast; R$ 113.969.002,00 ; R$ 11.396,90 
 33;female;24.31;0;no;southeast; R$ 41.850.979,00 ; R$ 4.185,10 
@@ -423,7 +423,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 61;male;35.86;0;yes;southeast; R$ 465.991.084,00 ; R$ 46.599,11 
 40;male;32.775;1;yes;northeast; R$ 3.912.533.225,00 ; R$ 391.253,32 
 25;male;30.59;0;no;northeast; R$ 27.273.951,00 ; R$ 2.727,40 
-48;male;30.2;2;no;southwest; 8968.33 ;#VALOR!
+48;male;30.2;2;no;southwest; R$ 8.968.303,00 ; R$ 896,83 
 45;male;24.31;5;no;southeast; R$ 97.888.659,00 ; R$ 9.788,87 
 38;female;27.265;1;no;northeast; R$ 655.507.035,00 ; R$ 65.550,70 
 18;female;29.165;0;no;northeast; R$ 7.323.734.819,00 ; R$ 732.373,48 
@@ -458,7 +458,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 55;female;30.14;2;no;southeast; R$ 118.819.696,00 ; R$ 11.881,97 
 57;female;30.495;0;no;northwest; R$ 1.184.077.505,00 ; R$ 118.407,75 
 56;male;39.6;0;no;southwest; R$ 10.601.412,00 ; R$ 1.060,14 
-40;female;33;3;no;southeast; 7682.67 ;#VALOR!
+40;female;33;3;no;southeast; R$ 7.682.670,00 ; R$ 768,27 
 49;female;36.63;3;no;southeast; R$ 103.814.787,00 ; R$ 10.381,48 
 42;male;30;0;yes;southwest; R$ 22.144.032,00 ; R$ 2.214,40 
 62;female;38.095;2;no;northeast; R$ 1.523.032.405,00 ; R$ 152.303,24 
@@ -498,7 +498,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 31;female;23.6;2;no;southwest; R$ 4.931.647,00 ; R$ 493,16 
 45;male;28.7;2;no;southwest; R$ 8.027.968,00 ; R$ 802,80 
 44;female;23.98;2;no;southeast; R$ 82.111.002,00 ; R$ 8.211,10 
-62;female;39.2;0;no;southwest; 13470.86 ;#VALOR!
+62;female;39.2;0;no;southwest; R$ 1.347.086,00 ; R$ 134,71 
 29;male;34.4;0;yes;southwest; R$ 36.197.699,00 ; R$ 3.619,77 
 43;male;26.03;0;no;northeast; R$ 68.373.687,00 ; R$ 6.837,37 
 51;male;23.21;1;yes;southeast; R$ 222.181.149,00 ; R$ 22.218,11 
@@ -508,12 +508,12 @@ age;sex;bmi;children;smoker;region; charges ; charges
 22;male;31.35;1;no;northwest; R$ 26.432.685,00 ; R$ 2.643,27 
 21;male;23.75;2;no;northwest; R$ 30.770.955,00 ; R$ 3.077,10 
 24;female;25.27;0;no;northeast; R$ 30.442.133,00 ; R$ 3.044,21 
-57;female;28.7;0;no;southwest; 11455.28 ;#VALOR!
+57;female;28.7;0;no;southwest; R$ 1.145.528,00 ; R$ 114,55 
 56;male;32.11;1;no;northeast; R$ 117.630.009,00 ; R$ 11.763,00 
 27;male;33.66;0;no;southeast; R$ 24.984.144,00 ; R$ 2.498,41 
 51;male;22.42;0;no;northeast; R$ 93.613.268,00 ; R$ 9.361,33 
 19;male;30.4;0;no;southwest; R$ 1.256.299,00 ; R$ 125,63 
-39;male;28.3;1;yes;southwest; 21082.16 ;#VALOR!
+39;male;28.3;1;yes;southwest; R$ 2.108.216,00 ; R$ 210,82 
 58;male;35.7;0;no;southwest; R$ 11.362.755,00 ; R$ 1.136,28 
 20;male;35.31;1;no;southeast; R$ 2.772.428.875,00 ; R$ 277.242,89 
 45;male;30.495;2;no;northwest; R$ 841.346.305,00 ; R$ 84.134,63 
@@ -577,7 +577,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 58;female;27.17;0;no;northwest; R$ 122.228.983,00 ; R$ 12.222,90 
 22;male;26.84;0;no;southeast; R$ 16.649.996,00 ; R$ 1.665,00 
 31;female;38.095;1;yes;northeast; R$ 5.857.107.448,00 ; R$ 585.710,74 
-52;male;30.2;1;no;southwest; 9724.53 ;#VALOR!
+52;male;30.2;1;no;southwest; R$ 9.724.530,00 ; R$ 972,45 
 25;female;23.465;0;no;northeast; R$ 320.649.135,00 ; R$ 32.064,91 
 59;male;25.46;1;no;northeast; R$ 129.139.924,00 ; R$ 12.913,99 
 19;male;30.59;0;no;northwest; R$ 16.395.631,00 ; R$ 1.639,56 
@@ -613,7 +613,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 38;female;34.8;2;no;southwest; R$ 6.571.544,00 ; R$ 657,15 
 18;female;33.155;0;no;northeast; R$ 220.769.745,00 ; R$ 22.076,97 
 34;female;19;3;no;northeast; R$ 6.753.038,00 ; R$ 675,30 
-20;female;33;0;no;southeast; 1880.07 ;#VALOR!
+20;female;33;0;no;southeast; R$ 1.880.070,00 ; R$ 188,01 
 47;female;36.63;1;yes;southeast; R$ 429.698.527,00 ; R$ 42.969,85 
 56;female;28.595;0;no;northeast; R$ 1.165.811.505,00 ; R$ 116.581,15 
 49;male;25.6;2;yes;southwest; R$ 23.306.547,00 ; R$ 2.330,65 
@@ -621,7 +621,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 55;female;37.1;0;no;southwest; R$ 10.713.644,00 ; R$ 1.071,36 
 30;male;31.4;1;no;southwest; R$ 3.659.346,00 ; R$ 365,93 
 37;male;34.1;4;yes;southwest; R$ 40.182.246,00 ; R$ 4.018,22 
-49;female;21.3;1;no;southwest; 9182.17 ;#VALOR!
+49;female;21.3;1;no;southwest; R$ 9.182.170,00 ; R$ 918,22 
 18;male;33.535;0;yes;northeast; R$ 3.461.784.065,00 ; R$ 346.178,41 
 59;male;28.785;0;no;northwest; R$ 1.212.961.415,00 ; R$ 121.296,14 
 29;female;26.03;0;no;northwest; R$ 37.364.647,00 ; R$ 3.736,46 
@@ -680,8 +680,8 @@ age;sex;bmi;children;smoker;region; charges ; charges
 56;male;36.1;3;no;southwest; R$ 12.363.547,00 ; R$ 1.236,35 
 49;female;23.18;2;no;northwest; R$ 101.567.832,00 ; R$ 10.156,78 
 21;female;17.4;1;no;southwest; R$ 2.585.269,00 ; R$ 258,53 
-19;male;20.3;0;no;southwest; 1242.26 ;#VALOR!
-39;male;35.3;2;yes;southwest; 40103.89 ;#VALOR!
+19;male;20.3;0;no;southwest; R$ 1.242.260,00 ; R$ 124,23 
+39;male;35.3;2;yes;southwest; R$ 40.103.890,00 ; R$ 4.010,39 
 53;male;24.32;0;no;northwest; R$ 98.634.718,00 ; R$ 9.863,47 
 33;female;18.5;1;no;southwest; R$ 4.766.022,00 ; R$ 476,60 
 53;male;26.41;2;no;northeast; R$ 112.443.769,00 ; R$ 11.244,38 
@@ -709,7 +709,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 49;male;28.69;3;no;northwest; R$ 102.644.421,00 ; R$ 10.264,44 
 31;female;30.495;3;no;northeast; R$ 611.323.105,00 ; R$ 61.132,31 
 36;female;27.74;0;no;northeast; R$ 54.690.066,00 ; R$ 5.469,01 
-18;male;35.2;1;no;southeast; 1727.54 ;#VALOR!
+18;male;35.2;1;no;southeast; R$ 1.727.540,00 ; R$ 172,75 
 50;female;23.54;2;no;southeast; R$ 101.072.206,00 ; R$ 10.107,22 
 43;female;30.685;2;no;northwest; R$ 831.083.915,00 ; R$ 83.108,39 
 20;male;40.47;0;no;northeast; R$ 19.844.533,00 ; R$ 1.984,45 
@@ -770,7 +770,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 64;female;39.7;0;no;southwest; R$ 14.319.031,00 ; R$ 1.431,90 
 38;female;19.475;2;no;northwest; R$ 693.324.225,00 ; R$ 69.332,42 
 61;male;36.1;3;no;southwest; R$ 2.794.128.758,00 ; R$ 279.412,88 
-53;female;26.7;2;no;southwest; 11150.78 ;#VALOR!
+53;female;26.7;2;no;southwest; R$ 11.150.780,00 ; R$ 1.115,08 
 44;female;36.48;0;no;northeast; R$ 1.279.720.962,00 ; R$ 127.972,10 
 19;female;28.88;0;yes;northwest; R$ 177.485.062,00 ; R$ 17.748,51 
 41;male;34.2;2;no;northwest; R$ 7.261.741,00 ; R$ 726,17 
@@ -801,7 +801,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 33;male;24.795;0;yes;northeast; R$ 1.790.452.705,00 ; R$ 179.045,27 
 42;female;26.18;1;no;southeast; R$ 70.467.222,00 ; R$ 7.046,72 
 64;female;35.97;0;no;southeast; R$ 143.138.463,00 ; R$ 14.313,85 
-21;male;22.3;1;no;southwest; 2103.08 ;#VALOR!
+21;male;22.3;1;no;southwest; R$ 2.103.080,00 ; R$ 210,31 
 18;female;42.24;0;yes;southeast; R$ 387.926.856,00 ; R$ 38.792,69 
 23;male;26.51;0;no;southeast; R$ 18.158.759,00 ; R$ 1.815,88 
 45;female;35.815;0;no;northwest; R$ 773.185.785,00 ; R$ 77.318,58 
@@ -809,7 +809,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 19;female;36.575;0;no;northwest; R$ 213.688.225,00 ; R$ 21.368,82 
 18;male;30.14;0;no;southeast; R$ 11.315.066,00 ; R$ 1.131,51 
 25;male;25.84;1;no;northeast; R$ 33.097.926,00 ; R$ 3.309,79 
-46;female;30.8;3;no;southwest; 9414.92 ;#VALOR!
+46;female;30.8;3;no;southwest; R$ 9.414.920,00 ; R$ 941,49 
 33;female;42.94;3;no;northwest; R$ 63.609.936,00 ; R$ 6.360,99 
 54;male;21.01;2;no;southeast; R$ 110.137.119,00 ; R$ 11.013,71 
 28;male;22.515;2;no;northeast; R$ 442.888.785,00 ; R$ 44.288,88 
@@ -850,7 +850,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 27;female;24.1;0;no;southwest; R$ 2.974.126,00 ; R$ 297,41 
 55;male;32.775;0;no;northwest; R$ 1.060.163.225,00 ; R$ 106.016,32 
 37;female;30.78;0;yes;northeast; R$ 372.701.512,00 ; R$ 37.270,15 
-61;male;32.3;2;no;northwest; 14119.62 ;#VALOR!
+61;male;32.3;2;no;northwest; R$ 1.411.962,00 ; R$ 141,20 
 46;female;35.53;0;yes;northeast; R$ 421.116.647,00 ; R$ 42.111,66 
 53;female;23.75;2;no;northeast; R$ 117.296.795,00 ; R$ 11.729,68 
 49;female;23.845;3;yes;northeast; R$ 2.410.691.255,00 ; R$ 241.069,13 
@@ -866,7 +866,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 51;male;25.4;0;no;southwest; R$ 8.782.469,00 ; R$ 878,25 
 40;male;29.9;2;no;southwest; R$ 6.600.361,00 ; R$ 660,04 
 18;male;37.29;0;no;southeast; R$ 11.414.451,00 ; R$ 1.141,45 
-57;male;43.7;1;no;southwest; 11576.13 ;#VALOR!
+57;male;43.7;1;no;southwest; R$ 11.576.130,00 ; R$ 1.157,61 
 61;male;23.655;0;no;northeast; R$ 1.312.960.345,00 ; R$ 131.296,03 
 25;female;24.3;3;no;southwest; R$ 4.391.652,00 ; R$ 439,17 
 50;male;36.2;0;no;southwest; R$ 8.457.818,00 ; R$ 845,78 
@@ -920,7 +920,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 61;female;28.2;0;no;southwest; R$ 13.041.921,00 ; R$ 1.304,19 
 35;female;34.21;1;no;southeast; R$ 52.452.269,00 ; R$ 5.245,23 
 62;female;25;0;no;southwest; R$ 13.451.122,00 ; R$ 1.345,11 
-62;female;33.2;0;no;southwest; 13462.52 ;#VALOR!
+62;female;33.2;0;no;southwest; R$ 1.346.252,00 ; R$ 134,63 
 38;male;31;1;no;southwest; R$ 5.488.262,00 ; R$ 548,83 
 34;male;35.815;0;no;northwest; R$ 432.041.085,00 ; R$ 43.204,11 
 43;male;23.2;0;no;southwest; R$ 6.250.435,00 ; R$ 625,04 
@@ -931,7 +931,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 41;male;34.21;1;no;southeast; R$ 62.897.549,00 ; R$ 6.289,75 
 26;male;46.53;1;no;southeast; R$ 29.270.647,00 ; R$ 2.927,06 
 39;female;32.5;1;no;southwest; R$ 6.238.298,00 ; R$ 623,83 
-46;male;25.8;5;no;southwest; 10096.97 ;#VALOR!
+46;male;25.8;5;no;southwest; R$ 1.009.697,00 ; R$ 100,97 
 45;female;35.3;0;no;southwest; R$ 7.348.142,00 ; R$ 734,81 
 32;male;37.18;2;no;southeast; R$ 46.733.922,00 ; R$ 4.673,39 
 59;female;27.5;0;no;southwest; R$ 12.233.828,00 ; R$ 1.223,38 
@@ -944,7 +944,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 18;female;40.185;0;no;northeast; R$ 221.746.915,00 ; R$ 22.174,69 
 19;male;22.61;0;no;northwest; R$ 16.284.709,00 ; R$ 1.628,47 
 62;male;39.93;0;no;southeast; R$ 129.828.747,00 ; R$ 12.982,87 
-56;female;35.8;1;no;southwest; 11674.13 ;#VALOR!
+56;female;35.8;1;no;southwest; R$ 11.674.130,00 ; R$ 1.167,41 
 42;male;35.8;2;no;southwest; R$ 7.160.094,00 ; R$ 716,01 
 37;male;34.2;1;yes;northeast; R$ 39.047.285,00 ; R$ 3.904,73 
 42;male;31.255;0;no;northwest; R$ 635.877.645,00 ; R$ 63.587,76 
@@ -955,7 +955,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 44;male;30.2;2;yes;southwest; R$ 38.998.546,00 ; R$ 3.899,85 
 34;male;27.835;1;yes;northwest; R$ 2.000.963.365,00 ; R$ 200.096,34 
 31;male;39.49;1;no;southeast; R$ 38.757.341,00 ; R$ 3.875,73 
-54;male;30.8;1;yes;southeast; 41999.52 ;#VALOR!
+54;male;30.8;1;yes;southeast; R$ 4.199.952,00 ; R$ 420,00 
 24;male;26.79;1;no;northwest; R$ 1.260.988.702,00 ; R$ 126.098,87 
 43;male;34.96;1;yes;northeast; R$ 410.342.214,00 ; R$ 41.034,22 
 48;male;36.67;1;no;northwest; R$ 2.846.891.901,00 ; R$ 284.689,19 
@@ -984,12 +984,12 @@ age;sex;bmi;children;smoker;region; charges ; charges
 31;male;25.9;3;yes;southwest; R$ 19.199.944,00 ; R$ 1.919,99 
 27;female;30.59;1;no;northeast; R$ 1.679.641.194,00 ; R$ 167.964,12 
 20;male;30.115;5;no;northeast; R$ 491.505.985,00 ; R$ 49.150,60 
-44;female;25.8;1;no;southwest; 7624.63 ;#VALOR!
+44;female;25.8;1;no;southwest; R$ 7.624.630,00 ; R$ 762,46 
 43;male;30.115;3;no;northwest; R$ 841.004.685,00 ; R$ 84.100,47 
 45;female;27.645;1;no;northwest; R$ 2.834.018.885,00 ; R$ 283.401,89 
 34;male;34.675;0;no;northeast; R$ 451.882.625,00 ; R$ 45.188,26 
 24;female;20.52;0;yes;northeast; R$ 145.718.908,00 ; R$ 14.571,89 
-26;female;19.8;1;no;southwest; 3378.91 ;#VALOR!
+26;female;19.8;1;no;southwest; R$ 3.378.910,00 ; R$ 337,89 
 38;female;27.835;2;no;northeast; R$ 714.486.265,00 ; R$ 71.448,63 
 50;female;31.6;2;no;southwest; R$ 10.118.424,00 ; R$ 1.011,84 
 38;male;28.27;1;no;southeast; R$ 54.844.673,00 ; R$ 5.484,47 
@@ -1001,7 +1001,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 36;female;26.885;0;no;northwest; R$ 526.781.815,00 ; R$ 52.678,18 
 30;male;22.99;2;yes;northwest; R$ 173.617.661,00 ; R$ 17.361,77 
 24;male;32.7;0;yes;southwest; R$ 34.472.841,00 ; R$ 3.447,28 
-24;male;25.8;0;no;southwest; 1972.95 ;#VALOR!
+24;male;25.8;0;no;southwest; R$ 1.972.950,00 ; R$ 197,30 
 48;male;29.6;0;no;southwest; R$ 2.123.218.226,00 ; R$ 212.321,82 
 47;male;19.19;1;no;northeast; R$ 86.275.411,00 ; R$ 8.627,54 
 29;male;31.73;2;no;northwest; R$ 44.333.877,00 ; R$ 4.433,39 
@@ -1044,7 +1044,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 20;male;30.685;0;yes;northeast; R$ 3.347.581.715,00 ; R$ 334.758,17 
 28;female;25.8;0;no;southwest; R$ 3.161.454,00 ; R$ 316,15 
 55;male;35.245;1;no;northeast; R$ 1.139.406.555,00 ; R$ 113.940,66 
-43;female;24.7;2;yes;northwest; 21880.82 ;#VALOR!
+43;female;24.7;2;yes;northwest; R$ 2.188.082,00 ; R$ 218,81 
 43;female;25.08;0;no;northeast; R$ 73.250.482,00 ; R$ 7.325,05 
 22;male;52.58;1;yes;southeast; R$ 445.013.982,00 ; R$ 44.501,40 
 25;female;22.515;1;no;northwest; R$ 359.417.085,00 ; R$ 35.941,71 
@@ -1084,14 +1084,14 @@ age;sex;bmi;children;smoker;region; charges ; charges
 38;male;19.95;1;no;northwest; R$ 58.559.025,00 ; R$ 5.855,90 
 32;male;31.5;1;no;southwest; R$ 4.076.497,00 ; R$ 407,65 
 62;female;30.495;2;no;northwest; R$ 1.501.976.005,00 ; R$ 150.197,60 
-39;female;18.3;5;yes;southwest; 19023.26 ;#VALOR!
+39;female;18.3;5;yes;southwest; R$ 1.902.326,00 ; R$ 190,23 
 55;male;28.975;0;no;northeast; R$ 1.079.635.025,00 ; R$ 107.963,50 
 57;male;31.54;0;no;northwest; R$ 113.532.276,00 ; R$ 11.353,23 
 52;male;47.74;1;no;southeast; R$ 97.489.106,00 ; R$ 9.748,91 
 56;male;22.1;0;no;southwest; R$ 10.577.087,00 ; R$ 1.057,71 
 47;male;36.19;0;yes;southeast; R$ 416.760.811,00 ; R$ 41.676,08 
 55;female;29.83;0;no;northeast; R$ 112.865.387,00 ; R$ 11.286,54 
-23;male;32.7;3;no;southwest; 3591.48 ;#VALOR!
+23;male;32.7;3;no;southwest; R$ 3.591.480,00 ; R$ 359,15 
 22;female;30.4;0;yes;northwest; R$ 33.907.548,00 ; R$ 3.390,75 
 50;female;33.7;4;no;southwest; R$ 11.299.343,00 ; R$ 1.129,93 
 18;female;31.35;4;no;northeast; R$ 45.611.885,00 ; R$ 4.561,19 
@@ -1147,7 +1147,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 52;male;32.775;3;no;northwest; R$ 1.128.910.925,00 ; R$ 112.891,09 
 60;male;32.8;0;yes;southwest; R$ 5.259.082.939,00 ; R$ 525.908,29 
 20;female;31.92;0;no;northwest; R$ 22.615.688,00 ; R$ 2.261,57 
-55;male;21.5;1;no;southwest; 10791.96 ;#VALOR!
+55;male;21.5;1;no;southwest; R$ 1.079.196,00 ; R$ 107,92 
 42;male;34.1;0;no;southwest; R$ 5.979.731,00 ; R$ 597,97 
 18;female;30.305;0;no;northeast; R$ 220.373.595,00 ; R$ 22.037,36 
 58;female;36.48;0;no;northwest; R$ 122.358.392,00 ; R$ 12.235,84 
@@ -1167,10 +1167,10 @@ age;sex;bmi;children;smoker;region; charges ; charges
 35;female;26.125;0;no;northeast; R$ 522.798.875,00 ; R$ 52.279,89 
 57;male;40.37;0;no;southeast; R$ 109.825.013,00 ; R$ 10.982,50 
 29;female;24.6;2;no;southwest; R$ 4.529.477,00 ; R$ 452,95 
-32;male;35.2;2;no;southwest; 4670.64 ;#VALOR!
+32;male;35.2;2;no;southwest; R$ 4.670.640,00 ; R$ 467,06 
 37;female;34.105;1;no;northwest; R$ 611.235.295,00 ; R$ 61.123,53 
 18;male;27.36;1;yes;northeast; R$ 171.786.824,00 ; R$ 17.178,68 
-43;female;26.7;2;yes;southwest; 22478.6 ;#VALOR!
+43;female;26.7;2;yes;southwest; R$ 2.247.860,00 ; R$ 224,79 
 56;female;41.91;0;no;southeast; R$ 110.936.229,00 ; R$ 11.093,62 
 38;male;29.26;2;no;northwest; R$ 64.578.434,00 ; R$ 6.457,84 
 29;male;32.11;2;no;northwest; R$ 44.339.159,00 ; R$ 4.433,92 
@@ -1202,7 +1202,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 37;male;24.32;2;no;northwest; R$ 61.987.518,00 ; R$ 6.198,75 
 46;male;40.375;2;no;northwest; R$ 873.322.925,00 ; R$ 87.332,29 
 22;male;32.11;0;no;northwest; R$ 20.553.249,00 ; R$ 2.055,32 
-51;male;32.3;1;no;northeast; 9964.06 ;#VALOR!
+51;male;32.3;1;no;northeast; R$ 9.964.067,00 ; R$ 996,41 
 18;female;27.28;3;yes;southeast; R$ 182.234.512,00 ; R$ 18.223,45 
 35;male;17.86;1;no;northwest; R$ 51.165.004,00 ; R$ 5.116,50 
 59;female;34.8;2;no;southwest; R$ 3.691.060.803,00 ; R$ 369.106,08 
@@ -1265,16 +1265,16 @@ age;sex;bmi;children;smoker;region; charges ; charges
 43;female;29.9;1;no;southwest; R$ 7.337.748,00 ; R$ 733,77 
 49;female;33.345;2;no;northeast; R$ 1.037.091.255,00 ; R$ 103.709,13 
 64;male;23.76;0;yes;southeast; R$ 269.265.144,00 ; R$ 26.926,51 
-55;female;30.5;0;no;southwest; 10704.47 ;#VALOR!
+55;female;30.5;0;no;southwest; R$ 10.704.470,00 ; R$ 1.070,45 
 24;male;31.065;0;yes;northeast; R$ 3.425.405.335,00 ; R$ 342.540,53 
 20;female;33.3;0;no;southwest; R$ 1.880.487,00 ; R$ 188,05 
-45;male;27.5;3;no;southwest; 8615.3 ;#VALOR!
+45;male;27.5;3;no;southwest; R$ 1.861.533,00 ; R$ 186,15 
 26;male;33.915;1;no;northwest; R$ 329.252.985,00 ; R$ 32.925,30 
 25;female;34.485;0;no;northwest; R$ 302.180.915,00 ; R$ 30.218,09 
 43;male;25.52;5;no;southeast; R$ 1.447.833.015,00 ; R$ 144.783,30 
 35;male;27.61;1;no;southeast; R$ 47.470.529,00 ; R$ 4.747,05 
 26;male;27.06;0;yes;southeast; R$ 170.433.414,00 ; R$ 17.043,34 
-57;male;23.7;0;no;southwest; 10959.33 ;#VALOR!
+57;male;23.7;0;no;southwest; R$ 1.095.933,00 ; R$ 109,59 
 22;female;30.4;0;no;northeast; R$ 2.741.948,00 ; R$ 274,19 
 32;female;29.735;0;no;northwest; R$ 435.704.365,00 ; R$ 43.570,44 
 39;male;29.925;1;yes;northeast; R$ 2.246.204.375,00 ; R$ 224.620,44 
@@ -1283,7 +1283,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 47;female;27.645;2;yes;northwest; R$ 2.453.569.855,00 ; R$ 245.356,99 
 18;female;21.66;0;yes;northeast; R$ 142.834.594,00 ; R$ 14.283,46 
 18;male;30.03;1;no;southeast; R$ 17.203.537,00 ; R$ 1.720,35 
-61;male;36.3;1;yes;southwest; 47403.88 ;#VALOR!
+61;male;36.3;1;yes;southwest; R$ 4.740.300,88 ; R$ 474,03 
 47;female;24.32;0;no;northeast; R$ 85.346.718,00 ; R$ 8.534,67 
 28;female;17.29;0;no;northeast; R$ 37.326.251,00 ; R$ 3.732,63 
 36;female;25.9;1;no;southwest; R$ 5.472.449,00 ; R$ 547,24 
@@ -1294,7 +1294,7 @@ age;sex;bmi;children;smoker;region; charges ; charges
 21;male;23.21;0;no;southeast; R$ 15.153.449,00 ; R$ 1.515,34 
 46;male;25.745;3;no;northwest; R$ 930.189.355,00 ; R$ 93.018,94 
 58;male;25.175;0;no;northeast; R$ 1.193.112.525,00 ; R$ 119.311,25 
-20;male;22;1;no;southwest; 1964.78 ;#VALOR!
+20;male;22;1;no;southwest; R$ 1.960.478,00 ; R$ 196,05 
 18;male;26.125;0;no;northeast; R$ 170.892.575,00 ; R$ 17.089,26 
 28;female;26.51;2;no;southeast; R$ 43.404.409,00 ; R$ 4.340,44 
 33;male;27.455;2;no;northwest; R$ 526.146.945,00 ; R$ 52.614,69 
