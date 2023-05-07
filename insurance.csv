@@ -1,1339 +1,1339 @@
-age;sex;bmi;children;smoker;region; charges ; charges 
-19;female;27.9;0;yes;southwest; R$ 1.688.492,40 ; R$ 168,85 
-18;male;33.77;1;no;southeast; R$ 17.255.523,00 ; R$ 1.725,55 
-28;male;33;3;no;southeast; R$ 4.449.462,00 ; R$ 444,95 
-33;male;22.705;0;no;northwest; R$ 2.198.447.061,00 ; R$ 219.844,71 
-32;male;28.88;0;no;northwest; R$ 38.668.552,00 ; R$ 3.866,86 
-31;female;25.74;0;no;southeast; R$ 37.566.216,00 ; R$ 3.756,62 
-46;female;33.44;1;no;southeast; R$ 82.405.896,00 ; R$ 8.240,59 
-37;female;27.74;3;no;northwest; R$ 72.815.056,00 ; R$ 7.281,51 
-37;male;29.83;2;no;northeast; R$ 64.064.107,00 ; R$ 6.406,41 
-60;female;25.84;0;no;northwest; R$ 2.892.313.692,00 ; R$ 289.231,37 
-25;male;26.22;0;no;northeast; R$ 27.213.208,00 ; R$ 2.721,32 
-62;female;26.29;0;yes;southeast; R$ 278.087.251,00 ; R$ 27.808,73 
-23;male;34.4;0;no;southwest; R$ 1.826.843,00 ; R$ 182,68 
-56;female;39.82;0;no;southeast; R$ 110.907.178,00 ; R$ 11.090,72 
-27;male;42.13;0;yes;southeast; R$ 396.117.577,00 ; R$ 39.611,76 
-19;male;24.6;1;no;southwest; R$ 1.837.237,00 ; R$ 183,72 
-52;female;30.78;1;no;northeast; R$ 107.973.362,00 ; R$ 10.797,34 
-23;male;23.845;0;no;northeast; R$ 239.517.155,00 ; R$ 23.951,72 
-56;male;40.3;0;no;southwest; R$ 10.602.385,00 ; R$ 1.060,24 
-30;male;35.3;0;yes;southwest; R$ 36.837.467,00 ; R$ 3.683,75 
-60;female;36.005;0;no;northeast; R$ 1.322.884.695,00 ; R$ 132.288,47 
-30;female;32.4;1;no;southwest; R$ 4.149.736,00 ; R$ 414,97 
-18;male;34.1;0;no;southeast; R$ 1.137.011,00 ; R$ 113,70 
-34;female;31.92;1;yes;northeast; R$ 377.018.768,00 ; R$ 37.701,88 
-37;male;28.025;2;no;northwest; R$ 620.390.175,00 ; R$ 62.039,02 
-59;female;27.72;3;no;southeast; R$ 140.011.338,00 ; R$ 14.001,13 
-63;female;23.085;0;no;northeast; R$ 1.445.183.515,00 ; R$ 144.518,35 
-55;female;32.775;2;no;northwest; R$ 1.226.863.225,00 ; R$ 122.686,32 
-23;male;17.385;1;no;northwest; R$ 277.519.215,00 ; R$ 27.751,92 
-31;male;36.3;2;yes;southwest; R$ 38.711,00 ; R$ 3,87 
-22;male;35.6;0;yes;southwest; R$ 35.585.576,00 ; R$ 3.558,56 
-18;female;26.315;0;no;northeast; R$ 219.818.985,00 ; R$ 21.981,90 
-19;female;28.6;5;no;southwest; R$ 4.687.797,00 ; R$ 468,78 
-63;male;28.31;0;no;northwest; R$ 137.700.979,00 ; R$ 13.770,10 
-28;male;36.4;1;yes;southwest; R$ 5.119.455.914,00 ; R$ 511.945,59 
-19;male;20.425;0;no;northwest; R$ 162.543.375,00 ; R$ 16.254,34 
-62;female;32.965;3;no;northwest; R$ 1.561.219.335,00 ; R$ 156.121,93 
-26;male;20.8;0;no;southwest; R$ 2.302.330,00 ; R$ 230,23 
-35;male;36.67;1;yes;northeast; R$ 397.742.763,00 ; R$ 39.774,28 
-60;male;39.9;0;yes;southwest; R$ 48.173.361,00 ; R$ 4.817,34 
-24;female;26.6;0;no;northeast; R$ 3.046.062,00 ; R$ 304,61 
-31;female;36.63;2;no;southeast; R$ 49.497.587,00 ; R$ 4.949,76 
-41;male;21.78;1;no;southeast; R$ 62.724.772,00 ; R$ 6.272,48 
-37;female;30.8;2;no;southeast; R$ 6.313.759,00 ; R$ 631,38 
-38;male;37.05;1;no;northeast; R$ 60.796.715,00 ; R$ 6.079,67 
-55;male;37.3;0;no;southwest; R$ 2.063.028.351,00 ; R$ 206.302,84 
-18;female;38.665;2;no;northeast; R$ 339.335.635,00 ; R$ 33.933,56 
-28;female;34.77;0;no;northwest; R$ 35.569.223,00 ; R$ 3.556,92 
-60;female;24.53;0;no;southeast; R$ 126.298.967,00 ; R$ 12.629,90 
-36;male;35.2;1;yes;southeast; R$ 38.709.176,00 ; R$ 3.870,92 
-18;female;35.625;0;no;northeast; R$ 221.113.075,00 ; R$ 22.111,31 
-21;female;33.63;2;no;northwest; R$ 35.798.287,00 ; R$ 3.579,83 
-48;male;28;1;yes;southwest; R$ 23.568.272,00 ; R$ 2.356,83 
-36;male;34.43;0;yes;southeast; R$ 377.425.757,00 ; R$ 37.742,58 
-40;female;28.69;3;no;northwest; R$ 80.596.791,00 ; R$ 8.059,68 
-58;male;36.955;2;yes;northwest; R$ 4.749.649.445,00 ; R$ 474.964,94 
-58;female;31.825;2;no;northeast; R$ 1.360.736.875,00 ; R$ 136.073,69 
-18;male;31.68;2;yes;southeast; R$ 343.031.672,00 ; R$ 34.303,17 
-53;female;22.88;1;yes;southeast; R$ 232.447.902,00 ; R$ 23.244,79 
-34;female;37.335;2;no;northwest; R$ 598.952.365,00 ; R$ 59.895,24 
-43;male;27.36;3;no;northeast; R$ 86.062.174,00 ; R$ 8.606,22 
-25;male;33.66;4;no;southeast; R$ 45.046.624,00 ; R$ 4.504,66 
-64;male;24.7;1;no;northwest; R$ 3.016.661.817,00 ; R$ 301.666,18 
-28;female;25.935;1;no;northwest; R$ 413.364.165,00 ; R$ 41.336,42 
-20;female;22.42;0;yes;northwest; R$ 147.117.438,00 ; R$ 14.711,74 
-19;female;28.9;0;no;southwest; R$ 1.743.214,00 ; R$ 174,32 
-61;female;39.1;2;no;southwest; R$ 14.235.072,00 ; R$ 1.423,51 
-40;male;26.315;1;no;northwest; R$ 638.937.785,00 ; R$ 63.893,78 
-40;female;36.19;0;no;southeast; R$ 59.201.041,00 ; R$ 5.920,10 
-28;male;23.98;3;yes;southeast; R$ 176.631.442,00 ; R$ 17.663,14 
-27;female;24.75;0;yes;southeast; R$ 165.777.795,00 ; R$ 16.577,78 
-31;male;28.5;5;no;northeast; R$ 6.799.458,00 ; R$ 679,95 
-53;female;28.1;3;no;southwest; R$ 11.741.726,00 ; R$ 1.174,17 
-58;male;32.01;1;no;southeast; R$ 119.466.259,00 ; R$ 11.946,63 
-44;male;27.4;2;no;southwest; R$ 7.726.854,00 ; R$ 772,69 
-57;male;34.01;0;no;northwest; R$ 113.566.609,00 ; R$ 11.356,66 
-29;female;29.59;1;no;southeast; R$ 39.474.131,00 ; R$ 3.947,41 
-21;male;35.53;0;no;southeast; R$ 15.324.697,00 ; R$ 1.532,47 
-22;female;39.805;0;no;northeast; R$ 275.502.095,00 ; R$ 27.550,21 
-41;female;32.965;0;no;northwest; R$ 657.102.435,00 ; R$ 65.710,24 
-31;male;26.885;1;no;northeast; R$ 444.121.315,00 ; R$ 44.412,13 
-45;female;38.285;0;no;northeast; R$ 793.529.115,00 ; R$ 79.352,91 
-22;male;37.62;1;yes;southeast; R$ 371.651.638,00 ; R$ 37.165,16 
-48;female;41.23;4;no;northwest; R$ 110.336.617,00 ; R$ 11.033,66 
-37;female;34.8;2;yes;southwest; R$ 39.836.519,00 ; R$ 3.983,65 
-45;male;22.895;2;yes;northwest; R$ 2.109.855.405,00 ; R$ 210.985,54 
-57;female;31.16;0;yes;northwest; R$ 435.789.394,00 ; R$ 43.578,94 
-56;female;27.2;0;no;southwest; R$ 11.073.176,00 ; R$ 1.107,32 
-46;female;27.74;0;no;northwest; R$ 80.266.666,00 ; R$ 8.026,67 
-55;female;26.98;0;no;northwest; R$ 110.825.772,00 ; R$ 11.082,58 
-21;female;39.49;0;no;southeast; R$ 20.269.741,00 ; R$ 2.026,97 
-53;female;24.795;1;no;northwest; R$ 1.094.213.205,00 ; R$ 109.421,32 
-59;male;29.83;3;yes;northeast; R$ 301.849.367,00 ; R$ 30.184,94 
-35;male;34.77;2;no;northwest; R$ 57.290.053,00 ; R$ 5.729,01 
-64;female;31.3;2;yes;southwest; R$ 47.291.055,00 ; R$ 4.729,11 
-28;female;37.62;1;no;southeast; R$ 37.668.838,00 ; R$ 3.766,88 
-54;female;30.8;3;no;southwest; R$ 12.105.320,00 ; R$ 1.210,53 
-55;male;38.28;0;no;southeast; R$ 102.262.842,00 ; R$ 10.226,28 
-56;male;19.95;0;yes;northeast; R$ 224.126.485,00 ; R$ 22.412,65 
-38;male;19.3;0;yes;southwest; R$ 15.820.699,00 ; R$ 1.582,07 
-41;female;31.6;0;no;southwest; R$ 6.186.127,00 ; R$ 618,61 
-30;male;25.46;0;no;northeast; R$ 36.450.894,00 ; R$ 3.645,09 
-18;female;30.115;0;no;northeast; R$ 213.448.467,00 ; R$ 21.344,85 
-61;female;29.92;3;yes;southeast; R$ 309.421.918,00 ; R$ 30.942,19 
-34;female;27.5;1;no;southwest; R$ 5.003.853,00 ; R$ 500,39 
-20;male;28.025;1;yes;northwest; R$ 1.756.037.975,00 ; R$ 175.603,80 
-19;female;28.4;1;no;southwest; R$ 2.331.519,00 ; R$ 233,15 
-26;male;30.875;2;no;northwest; R$ 387.730.425,00 ; R$ 38.773,04 
-29;male;27.94;0;no;southeast; R$ 28.671.196,00 ; R$ 2.867,12 
-63;male;35.09;0;yes;southeast; R$ 470.555.321,00 ; R$ 47.055,53 
-54;male;33.63;1;no;northwest; R$ 108.252.537,00 ; R$ 10.825,25 
-55;female;29.7;2;no;southwest; R$ 11.881.358,00 ; R$ 1.188,14 
-37;male;30.8;0;no;southwest; R$ 4.646.759,00 ; R$ 464,68 
-21;female;35.72;0;no;northwest; R$ 24.047.338,00 ; R$ 2.404,73 
-52;male;32.205;3;no;northeast; R$ 1.148.831.695,00 ; R$ 114.883,17 
-60;male;28.595;0;no;northeast; R$ 3.025.999.556,00 ; R$ 302.599,96 
-58;male;49.06;0;no;southeast; R$ 113.813.254,00 ; R$ 11.381,33 
-29;female;27.94;1;yes;southeast; R$ 191.077.796,00 ; R$ 19.107,78 
-49;female;27.17;0;no;southeast; R$ 86.013.293,00 ; R$ 8.601,33 
-37;female;23.37;2;no;northwest; R$ 66.864.313,00 ; R$ 6.686,43 
-44;male;37.1;2;no;southwest; R$ 7.740.337,00 ; R$ 774,03 
-18;male;23.75;0;no;northeast; R$ 17.056.245,00 ; R$ 1.705,62 
-20;female;28.975;0;no;northwest; R$ 225.747.525,00 ; R$ 22.574,75 
-44;male;31.35;1;yes;northeast; R$ 395.564.945,00 ; R$ 39.556,49 
-47;female;33.915;3;no;northwest; R$ 1.011.500.885,00 ; R$ 101.150,09 
-26;female;28.785;0;no;northeast; R$ 338.539.915,00 ; R$ 33.853,99 
-19;female;28.3;0;yes;southwest; R$ 1.708.108,00 ; R$ 170,81 
-52;female;37.4;0;no;southwest; R$ 9.634.538,00 ; R$ 963,45 
-32;female;17.765;2;yes;northwest; R$ 327.341.863,00 ; R$ 32.734,19 
-38;male;34.7;2;no;southwest; R$ 6.082.405,00 ; R$ 608,24 
-59;female;26.505;0;no;northeast; R$ 1.281.544.495,00 ; R$ 128.154,45 
-61;female;22.04;0;no;northeast; R$ 136.163.586,00 ; R$ 13.616,36 
-53;female;35.9;2;no;southwest; R$ 11.163.568,00 ; R$ 1.116,36 
-19;male;25.555;0;no;northwest; R$ 163.256.445,00 ; R$ 16.325,64 
-20;female;28.785;0;no;northeast; R$ 245.721.115,00 ; R$ 24.572,11 
-22;female;28.05;0;no;southeast; R$ 21.556.815,00 ; R$ 2.155,68 
-19;male;34.1;0;no;southwest; R$ 1.261.442,00 ; R$ 126,14 
-22;male;25.175;0;no;northwest; R$ 204.568.525,00 ; R$ 20.456,85 
-54;female;31.9;3;no;southeast; R$ 2.732.273.386,00 ; R$ 273.227,34 
-22;female;36;0;no;southwest; R$ 2.166.732,00 ; R$ 216,67 
-34;male;22.42;2;no;northeast; R$ 2.737.590.478,00 ; R$ 273.759,05 
-26;male;32.49;1;no;northeast; R$ 34.905.491,00 ; R$ 3.490,55 
-34;male;25.3;2;yes;southeast; R$ 18.972.495,00 ; R$ 1.897,25 
-29;male;29.735;2;no;northwest; R$ 18.157.876,00 ; R$ 1.815,79 
-30;male;28.69;3;yes;northwest; R$ 207.459.891,00 ; R$ 20.745,99 
-29;female;38.83;3;no;southeast; R$ 51.382.567,00 ; R$ 5.138,26 
-46;male;30.495;3;yes;northwest; R$ 4.072.055.105,00 ; R$ 407.205,51 
-51;female;37.73;1;no;southeast; R$ 98.776.077,00 ; R$ 9.877,61 
-53;female;37.43;1;no;northwest; R$ 109.596.947,00 ; R$ 10.959,69 
-19;male;28.4;1;no;southwest; R$ 1.842.519,00 ; R$ 184,25 
-35;male;24.13;1;no;northwest; R$ 51.252.157,00 ; R$ 5.125,22 
-48;male;29.7;0;no;southeast; R$ 7.789.635,00 ; R$ 778,96 
-32;female;37.145;3;no;northeast; R$ 633.434.355,00 ; R$ 63.343,44 
-42;female;23.37;0;yes;northeast; R$ 199.647.463,00 ; R$ 19.964,75 
-40;female;25.46;1;no;northeast; R$ 70.771.894,00 ; R$ 7.077,19 
-44;male;39.52;0;no;northwest; R$ 69.487.008,00 ; R$ 6.948,70 
-48;male;24.42;0;yes;southeast; R$ 212.236.758,00 ; R$ 21.223,68 
-18;male;25.175;0;yes;northeast; R$ 1.551.818.025,00 ; R$ 155.181,80 
-30;male;35.53;0;yes;southeast; R$ 369.502.567,00 ; R$ 36.950,26 
-50;female;27.83;3;no;southeast; R$ 1.974.938.338,00 ; R$ 197.493,83 
-42;female;26.6;0;yes;northwest; R$ 21.348.706,00 ; R$ 2.134,87 
-18;female;36.85;0;yes;southeast; R$ 361.494.835,00 ; R$ 36.149,48 
-54;male;39.6;1;no;southwest; R$ 10.450.552,00 ; R$ 1.045,06 
-32;female;29.8;2;no;southwest; R$ 5.152.134,00 ; R$ 515,21 
-37;male;29.64;0;no;northwest; R$ 50.281.466,00 ; R$ 5.028,15 
-47;male;28.215;4;no;northeast; R$ 1.040.708.585,00 ; R$ 104.070,86 
-20;female;37;5;no;southwest; R$ 4.830.630,00 ; R$ 483,06 
-32;female;33.155;3;no;northwest; R$ 612.879.745,00 ; R$ 61.287,97 
-19;female;31.825;1;no;northwest; R$ 271.927.975,00 ; R$ 27.192,80 
-27;male;18.905;3;no;northeast; R$ 482.790.495,00 ; R$ 48.279,05 
-63;male;41.47;0;no;southeast; R$ 134.053.903,00 ; R$ 13.405,39 
-49;male;30.3;0;no;southwest; R$ 8.116.680,00 ; R$ 811,67 
-18;male;15.96;0;no;northeast; R$ 16.947.964,00 ; R$ 1.694,80 
-35;female;34.8;1;no;southwest; R$ 5.246.047,00 ; R$ 524,60 
-24;female;33.345;0;no;northwest; R$ 285.543.755,00 ; R$ 28.554,38 
-63;female;37.7;0;yes;southwest; R$ 4.882.445,00 ; R$ 488,24 
-38;male;27.835;2;no;northwest; R$ 645.586.265,00 ; R$ 64.558,63 
-54;male;29.2;1;no;southwest; R$ 10.436.096,00 ; R$ 1.043,61 
-46;female;28.9;2;no;southwest; R$ 8.823.279,00 ; R$ 882,33 
-41;female;33.155;3;no;northeast; R$ 853.828.845,00 ; R$ 85.382,88 
-58;male;28.595;0;no;northwest; R$ 1.173.587.905,00 ; R$ 117.358,79 
-18;female;38.28;0;no;southeast; R$ 16.318.212,00 ; R$ 1.631,82 
-22;male;19.95;3;no;northeast; R$ 40.054.225,00 ; R$ 4.005,42 
-44;female;26.41;0;no;northwest; R$ 74.194.779,00 ; R$ 7.419,48 
-44;male;30.69;2;no;southeast; R$ 77.314.271,00 ; R$ 7.731,43 
-36;male;41.895;3;yes;northeast; R$ 4.375.333.705,00 ; R$ 437.533,37 
-26;female;29.92;2;no;southeast; R$ 39.819.768,00 ; R$ 3.981,98 
-30;female;30.9;3;no;southwest; R$ 5.325.651,00 ; R$ 532,57 
-41;female;32.2;1;no;southwest; R$ 6.775.961,00 ; R$ 677,60 
-29;female;32.11;2;no;northwest; R$ 49.229.159,00 ; R$ 4.922,92 
-61;male;31.57;0;no;southeast; R$ 125.576.053,00 ; R$ 12.557,61 
-36;female;26.2;0;no;southwest; R$ 4.883.866,00 ; R$ 488,39 
-25;male;25.74;0;no;southeast; R$ 21.376.536,00 ; R$ 2.137,65 
-56;female;26.6;1;no;northwest; R$ 12.044.342,00 ; R$ 1.204,43 
-18;male;34.43;0;no;southeast; R$ 11.374.697,00 ; R$ 1.137,47 
-19;male;30.59;0;no;northwest; R$ 16.395.631,00 ; R$ 1.639,56 
-39;female;32.8;0;no;southwest; R$ 5.649.715,00 ; R$ 564,97 
-45;female;28.6;2;no;southeast; R$ 8.516.829,00 ; R$ 851,68 
-51;female;18.05;0;no;northwest; R$ 96.442.525,00 ; R$ 9.644,25 
-64;female;39.33;0;no;northeast; R$ 149.015.167,00 ; R$ 14.901,52 
-19;female;32.11;0;no;northwest; R$ 21.306.759,00 ; R$ 2.130,68 
-48;female;32.23;1;no;southeast; R$ 88.711.517,00 ; R$ 8.871,15 
-60;female;24.035;0;no;northwest; R$ 1.301.220.865,00 ; R$ 130.122,09 
-27;female;36.08;0;yes;southeast; R$ 371.338.982,00 ; R$ 37.133,90 
-46;male;22.3;0;no;southwest; R$ 7.147.105,00 ; R$ 714,71 
-28;female;28.88;1;no;northeast; R$ 43.377.352,00 ; R$ 4.337,74 
-59;male;26.4;0;no;southeast; R$ 11.743.299,00 ; R$ 1.174,33 
-35;male;27.74;2;yes;northeast; R$ 209.840.936,00 ; R$ 20.984,09 
-63;female;31.8;0;no;southwest; R$ 13.880.949,00 ; R$ 1.388,09 
-40;male;41.23;1;no;northeast; R$ 66.101.097,00 ; R$ 6.610,11 
-20;male;33;1;no;southwest; R$ 1.980.070,00 ; R$ 198,01 
-40;male;30.875;4;no;northwest; R$ 816.271.625,00 ; R$ 81.627,16 
-24;male;28.5;2;no;northwest; R$ 3.537.703,00 ; R$ 353,77 
-34;female;26.73;1;no;southeast; R$ 50.027.827,00 ; R$ 5.002,78 
-45;female;30.9;2;no;southwest; R$ 8.520.026,00 ; R$ 852,00 
-41;female;37.1;2;no;southwest; R$ 7.371.772,00 ; R$ 737,18 
-53;female;26.6;0;no;northwest; R$ 10.355.641,00 ; R$ 1.035,56 
-27;male;23.1;0;no;southeast; R$ 2.483.736,00 ; R$ 248,37 
-26;female;29.92;1;no;southeast; R$ 33.929.768,00 ; R$ 3.392,98 
-24;female;23.21;0;no;southeast; R$ 2.508.176.784,00 ; R$ 250.817,68 
-34;female;33.7;1;no;southwest; R$ 5.012.471,00 ; R$ 501,25 
-53;female;33.25;0;no;northeast; R$ 105.648.845,00 ; R$ 10.564,88 
-32;male;30.8;3;no;southwest; R$ 5.253.524,00 ; R$ 525,35 
-19;male;34.8;0;yes;southwest; R$ 34.779.615,00 ; R$ 3.477,96 
-42;male;24.64;0;yes;southeast; R$ 195.155.416,00 ; R$ 19.515,54 
-55;male;33.88;3;no;southeast; R$ 119.871.682,00 ; R$ 11.987,17 
-28;male;38.06;0;no;southeast; R$ 26.894.954,00 ; R$ 2.689,50 
-58;female;41.91;0;no;southeast; R$ 2.422.733.724,00 ; R$ 242.273,37 
-41;female;31.635;1;no;northeast; R$ 735.817.565,00 ; R$ 73.581,76 
-47;male;25.46;2;no;northeast; R$ 92.252.564,00 ; R$ 9.225,26 
-42;female;36.195;1;no;northwest; R$ 744.364.305,00 ; R$ 74.436,43 
-59;female;27.83;3;no;southeast; R$ 140.012.867,00 ; R$ 14.001,29 
-19;female;17.8;0;no;southwest; R$ 1.727.785,00 ; R$ 172,78 
-59;male;27.5;1;no;southwest; R$ 12.333.828,00 ; R$ 1.233,38 
-39;male;24.51;2;no;northwest; R$ 67.101.919,00 ; R$ 6.710,19 
-40;female;22.22;2;yes;southeast; R$ 194.442.658,00 ; R$ 19.444,27 
-18;female;26.73;0;no;southeast; R$ 16.157.667,00 ; R$ 1.615,77 
-31;male;38.39;2;no;southeast; R$ 44.632.051,00 ; R$ 4.463,21 
-19;male;29.07;0;yes;northwest; R$ 173.526.803,00 ; R$ 17.352,68 
-44;male;38.06;1;no;southeast; R$ 71.526.714,00 ; R$ 7.152,67 
-23;female;36.67;2;yes;northeast; R$ 385.116.283,00 ; R$ 38.511,63 
-33;female;22.135;1;no;northeast; R$ 535.407.465,00 ; R$ 53.540,75 
-55;female;26.8;1;no;southwest; R$ 3.516.013.457,00 ; R$ 351.601,35 
-40;male;35.3;3;no;southwest; R$ 7.196.867,00 ; R$ 719,69 
-63;female;27.74;0;yes;northeast; R$ 295.231.656,00 ; R$ 29.523,17 
-54;male;30.02;0;no;northwest; R$ 2.447.647.851,00 ; R$ 244.764,79 
-60;female;38.06;0;no;southeast; R$ 126.487.034,00 ; R$ 12.648,70 
-24;male;35.86;0;no;southeast; R$ 19.869.334,00 ; R$ 1.986,93 
-19;male;20.9;1;no;southwest; R$ 1.832.094,00 ; R$ 183,21 
-29;male;28.975;1;no;northeast; R$ 404.055.825,00 ; R$ 40.405,58 
-18;male;17.29;2;yes;northeast; R$ 128.294.551,00 ; R$ 12.829,46 
-63;female;32.2;2;yes;southwest; R$ 47.305.305,00 ; R$ 4.730,53 
-54;male;34.21;2;yes;southeast; R$ 442.607.499,00 ; R$ 44.260,75 
-27;male;30.3;3;no;southwest; R$ 4.260.744,00 ; R$ 426,07 
-50;male;31.825;0;yes;northeast; R$ 4.109.716.175,00 ; R$ 410.971,62 
-55;female;25.365;3;no;northeast; R$ 1.304.733.235,00 ; R$ 130.473,32 
-56;male;33.63;0;yes;northwest; R$ 439.211.837,00 ; R$ 43.921,18 
-38;female;40.15;0;no;southeast; R$ 54.009.805,00 ; R$ 5.400,98 
-51;male;24.415;4;no;northwest; R$ 1.152.009.985,00 ; R$ 115.201,00 
-19;male;31.92;0;yes;northwest; R$ 337.502.918,00 ; R$ 33.750,29 
-58;female;25.2;0;no;southwest; R$ 1.183.716,00 ; R$ 118,37 
-20;female;26.84;1;yes;southeast; R$ 170.852.676,00 ; R$ 17.085,27 
-52;male;24.32;3;yes;northeast; R$ 248.698.368,00 ; R$ 24.869,84 
-19;male;36.955;0;yes;northwest; R$ 3.621.940.545,00 ; R$ 362.194,05 
-53;female;38.06;3;no;southeast; R$ 2.046.299.766,00 ; R$ 204.629,98 
-46;male;42.35;3;yes;southeast; R$ 461.511.245,00 ; R$ 46.151,12 
-40;male;19.8;1;yes;southeast; R$ 17.179.522,00 ; R$ 1.717,95 
-59;female;32.395;3;no;northeast; R$ 1.459.063.205,00 ; R$ 145.906,32 
-45;male;30.2;1;no;southwest; R$ 7.441.053,00 ; R$ 744,11 
-49;male;25.84;1;no;northeast; R$ 92.824.806,00 ; R$ 9.282,48 
-18;male;29.37;1;no;southeast; R$ 17.194.363,00 ; R$ 1.719,44 
-50;male;34.2;2;yes;southwest; R$ 42.856.838,00 ; R$ 4.285,68 
-41;male;37.05;2;no;northwest; R$ 72.657.025,00 ; R$ 7.265,70 
-50;male;27.455;1;no;northeast; R$ 961.766.245,00 ; R$ 96.176,62 
-25;male;27.55;0;no;northwest; R$ 25.231.695,00 ; R$ 2.523,17 
-47;female;26.6;2;no;northeast; R$ 9.715.841,00 ; R$ 971,58 
-19;male;20.615;2;no;northwest; R$ 280.369.785,00 ; R$ 28.036,98 
-22;female;24.3;0;no;southwest; R$ 2.150.469,00 ; R$ 215,05 
-59;male;31.79;2;no;southeast; R$ 129.287.911,00 ; R$ 12.928,79 
-51;female;21.56;1;no;southeast; R$ 98.551.314,00 ; R$ 9.855,13 
-40;female;28.12;1;yes;northeast; R$ 223.315.668,00 ; R$ 22.331,57 
-54;male;40.565;3;yes;northeast; R$ 4.854.917.835,00 ; R$ 485.491,78 
-30;male;27.645;1;no;northeast; R$ 423.712.655,00 ; R$ 42.371,27 
-55;female;32.395;1;no;northeast; R$ 1.187.910.405,00 ; R$ 118.791,04 
-52;female;31.2;0;no;southwest; R$ 962.592,00 ; R$ 96,26 
-46;male;26.62;1;no;southeast; R$ 77.421.098,00 ; R$ 7.742,11 
-46;female;48.07;2;no;northeast; R$ 94.329.253,00 ; R$ 9.432,93 
-63;female;26.22;0;no;northwest; R$ 142.561.928,00 ; R$ 14.256,19 
-59;female;36.765;1;yes;northeast; R$ 4.789.679.135,00 ; R$ 478.967,91 
-52;male;26.4;3;no;southeast; R$ 2.599.282.104,00 ; R$ 259.928,21 
-28;female;33.4;0;no;southwest; R$ 3.172.018,00 ; R$ 317,20 
-29;male;29.64;1;no;northeast; R$ 2.027.780.751,00 ; R$ 202.778,08 
-25;male;45.54;2;yes;southeast; R$ 421.122.356,00 ; R$ 42.112,24 
-22;female;28.82;0;no;southeast; R$ 21.567.518,00 ; R$ 2.156,75 
-25;male;26.8;3;no;southwest; R$ 3.906.127,00 ; R$ 390,61 
-18;male;22.99;0;no;northeast; R$ 17.045.681,00 ; R$ 1.704,57 
-19;male;27.7;0;yes;southwest; R$ 16.297.846,00 ; R$ 1.629,78 
-47;male;25.41;1;yes;southeast; R$ 219.786.769,00 ; R$ 21.978,68 
-31;male;34.39;3;yes;northwest; R$ 387.463.551,00 ; R$ 38.746,36 
-48;female;28.88;1;no;northwest; R$ 92.494.952,00 ; R$ 9.249,50 
-36;male;27.55;3;no;northeast; R$ 67.467.425,00 ; R$ 6.746,74 
-53;female;22.61;3;yes;northeast; R$ 248.733.849,00 ; R$ 24.873,38 
-56;female;37.51;2;no;southeast; R$ 122.655.069,00 ; R$ 12.265,51 
-28;female;33;2;no;southeast; R$ 4.349.462,00 ; R$ 434,95 
-57;female;38;2;no;southwest; R$ 12.646.207,00 ; R$ 1.264,62 
-29;male;33.345;2;no;northwest; R$ 194.423.535,00 ; R$ 19.442,35 
-28;female;27.5;2;no;southwest; R$ 2.017.767.113,00 ; R$ 201.776,71 
-30;female;33.33;1;no;southeast; R$ 41.510.287,00 ; R$ 4.151,03 
-58;male;34.865;0;no;northeast; R$ 1.194.459.435,00 ; R$ 119.445,94 
-41;female;33.06;2;no;northwest; R$ 77.491.564,00 ; R$ 7.749,16 
-50;male;26.6;0;no;southwest; R$ 8.444.474,00 ; R$ 844,45 
-19;female;24.7;0;no;southwest; R$ 1.737.376,00 ; R$ 173,74 
-43;male;35.97;3;yes;southeast; R$ 421.245.153,00 ; R$ 42.124,52 
-49;male;35.86;0;no;southeast; R$ 81.244.084,00 ; R$ 8.124,41 
-27;female;31.4;0;yes;southwest; R$ 34.838.873,00 ; R$ 3.483,89 
-52;male;33.25;0;no;northeast; R$ 97.227.695,00 ; R$ 9.722,77 
-50;male;32.205;0;no;northwest; R$ 883.526.495,00 ; R$ 88.352,65 
-54;male;32.775;0;no;northeast; R$ 1.043.506.525,00 ; R$ 104.350,65 
-44;female;27.645;0;no;northwest; R$ 742.119.455,00 ; R$ 74.211,95 
-32;male;37.335;1;no;northeast; R$ 466.760.765,00 ; R$ 46.676,08 
-34;male;25.27;1;no;northwest; R$ 48.947.533,00 ; R$ 4.894,75 
-26;female;29.64;4;no;northeast; R$ 2.467.166.334,00 ; R$ 246.716,63 
-34;male;30.8;0;yes;southwest; R$ 3.549.164,00 ; R$ 354,92 
-57;male;40.945;0;no;northeast; R$ 1.156.630.055,00 ; R$ 115.663,01 
-29;male;27.2;0;no;southwest; R$ 2.866.091,00 ; R$ 286,61 
-40;male;34.105;1;no;northeast; R$ 660.020.595,00 ; R$ 66.002,06 
-27;female;23.21;1;no;southeast; R$ 35.618.889,00 ; R$ 3.561,89 
-45;male;36.48;2;yes;northwest; R$ 427.605.022,00 ; R$ 42.760,50 
-64;female;33.8;1;yes;southwest; R$ 4.792.803,00 ; R$ 479,28 
-52;male;36.7;0;no;southwest; R$ 9.144.565,00 ; R$ 914,46 
-61;female;36.385;1;yes;northeast; R$ 4.851.756.315,00 ; R$ 485.175,63 
-52;male;27.36;0;yes;northwest; R$ 243.936.224,00 ; R$ 24.393,62 
-61;female;31.16;0;no;northwest; R$ 134.290.354,00 ; R$ 13.429,04 
-56;female;28.785;0;no;northeast; R$ 1.165.837.915,00 ; R$ 116.583,79 
-43;female;35.72;2;no;northeast; R$ 1.914.457.652,00 ; R$ 191.445,77 
-64;male;34.5;0;no;southwest; R$ 13.822.803,00 ; R$ 1.382,28 
-60;male;25.74;0;no;southeast; R$ 121.425.786,00 ; R$ 12.142,58 
-62;male;27.55;1;no;northwest; R$ 139.376.665,00 ; R$ 13.937,67 
-50;male;32.3;1;yes;northeast; R$ 41.919.097,00 ; R$ 4.191,91 
-46;female;27.72;1;no;southeast; R$ 82.326.388,00 ; R$ 8.232,64 
-24;female;27.6;0;no;southwest; R$ 1.895.522.017,00 ; R$ 189.552,20 
-62;male;30.02;0;no;northwest; R$ 133.520.998,00 ; R$ 13.352,10 
-60;female;27.55;0;no;northeast; R$ 132.170.945,00 ; R$ 13.217,09 
-63;male;36.765;0;no;northeast; R$ 1.398.185.035,00 ; R$ 139.818,50 
-49;female;41.47;4;no;southeast; R$ 109.772.063,00 ; R$ 10.977,21 
-34;female;29.26;3;no;southeast; R$ 61.842.994,00 ; R$ 6.184,30 
-33;male;35.75;2;no;southeast; R$ 48.899.995,00 ; R$ 4.890,00 
-46;male;33.345;1;no;northeast; R$ 833.445.755,00 ; R$ 83.344,58 
-36;female;29.92;1;no;southeast; R$ 54.780.368,00 ; R$ 5.478,04 
-19;male;27.835;0;no;northwest; R$ 163.573.365,00 ; R$ 16.357,34 
-57;female;23.18;0;no;northwest; R$ 118.306.072,00 ; R$ 11.830,61 
-50;female;25.6;0;no;southwest; R$ 8.932.084,00 ; R$ 893,21 
-30;female;27.7;0;no;southwest; R$ 3.554.203,00 ; R$ 355,42 
-33;male;35.245;0;no;northeast; R$ 124.048.791,00 ; R$ 12.404,88 
-18;female;38.28;0;no;southeast; R$ 1.413.303.775,00 ; R$ 141.330,38 
-46;male;27.6;0;no;southwest; R$ 2.460.304.837,00 ; R$ 246.030,48 
-46;male;43.89;3;no;southeast; R$ 89.441.151,00 ; R$ 8.944,12 
-47;male;29.83;3;no;northwest; R$ 96.203.307,00 ; R$ 9.620,33 
-23;male;41.91;0;no;southeast; R$ 18.372.819,00 ; R$ 1.837,28 
-18;female;20.79;0;no;southeast; R$ 16.075.101,00 ; R$ 1.607,51 
-48;female;32.3;2;no;northeast; R$ 10.043.249,00 ; R$ 1.004,32 
-35;male;30.5;1;no;southwest; R$ 4.751.070,00 ; R$ 475,11 
-19;female;21.7;0;yes;southwest; R$ 13.844.506,00 ; R$ 1.384,45 
-21;female;26.4;1;no;southwest; R$ 2.597.779,00 ; R$ 259,78 
-21;female;21.89;2;no;southeast; R$ 31.805.101,00 ; R$ 3.180,51 
-49;female;30.78;1;no;northeast; R$ 97.783.472,00 ; R$ 9.778,35 
-56;female;32.3;3;no;northeast; R$ 13.430.265,00 ; R$ 1.343,03 
-42;female;24.985;2;no;northwest; R$ 801.706.115,00 ; R$ 80.170,61 
-44;male;32.015;2;no;northwest; R$ 811.626.885,00 ; R$ 81.162,69 
-18;male;30.4;3;no;northeast; R$ 3.481.868,00 ; R$ 348,19 
-61;female;21.09;0;no;northwest; R$ 134.150.381,00 ; R$ 13.415,04 
-57;female;22.23;0;no;northeast; R$ 120.292.867,00 ; R$ 12.029,29 
-42;female;33.155;1;no;northeast; R$ 763.941.745,00 ; R$ 76.394,17 
-26;male;32.9;2;yes;southwest; R$ 36.085.219,00 ; R$ 3.608,52 
-20;male;33.33;0;no;southeast; R$ 13.915.287,00 ; R$ 1.391,53 
-23;female;28.31;0;yes;northwest; R$ 180.339.679,00 ; R$ 18.033,97 
-39;female;24.89;3;yes;northeast; R$ 216.599.301,00 ; R$ 21.659,93 
-24;male;40.15;0;yes;southeast; R$ 381.262.465,00 ; R$ 38.126,25 
-64;female;30.115;3;no;northwest; R$ 1.645.570.785,00 ; R$ 164.557,08 
-62;male;31.46;1;no;southeast; R$ 2.700.098.473,00 ; R$ 270.009,85 
-27;female;17.955;2;yes;northeast; R$ 1.500.657.945,00 ; R$ 150.065,79 
-55;male;30.685;0;yes;northeast; R$ 4.230.369.215,00 ; R$ 423.036,92 
-55;male;33;0;no;southeast; R$ 2.078.148.892,00 ; R$ 207.814,89 
-35;female;43.34;2;no;southeast; R$ 58.469.176,00 ; R$ 5.846,92 
-44;male;22.135;2;no;northeast; R$ 830.253.565,00 ; R$ 83.025,36 
-19;male;34.4;0;no;southwest; R$ 1.261.859,00 ; R$ 126,19 
-58;female;39.05;0;no;southeast; R$ 118.564.115,00 ; R$ 11.856,41 
-50;male;25.365;2;no;northwest; R$ 3.028.464.294,00 ; R$ 302.846,43 
-26;female;22.61;0;no;northwest; R$ 31.768.159,00 ; R$ 3.176,82 
-24;female;30.21;3;no;northwest; R$ 46.180.799,00 ; R$ 4.618,08 
-48;male;35.625;4;no;northeast; R$ 1.073.687.075,00 ; R$ 107.368,71 
-19;female;37.43;0;no;northwest; R$ 21.380.707,00 ; R$ 2.138,07 
-48;male;31.445;1;no;northeast; R$ 896.406.055,00 ; R$ 89.640,61 
-49;male;31.35;1;no;northeast; R$ 92.901.395,00 ; R$ 9.290,14 
-46;female;32.3;2;no;northeast; R$ 9.411.005,00 ; R$ 941,10 
-46;male;19.855;0;no;northwest; R$ 752.670.645,00 ; R$ 75.267,06 
-43;female;34.4;3;no;southwest; R$ 8.522.003,00 ; R$ 852,20 
-21;male;31.02;0;no;southeast; R$ 1.658.649.771,00 ; R$ 165.864,98 
-64;male;25.6;2;no;southwest; R$ 14.988.432,00 ; R$ 1.498,84 
-18;female;38.17;0;no;southeast; R$ 16.316.683,00 ; R$ 1.631,67 
-51;female;20.6;0;no;southwest; R$ 9.264.797,00 ; R$ 926,48 
-47;male;47.52;1;no;southeast; R$ 80.839.198,00 ; R$ 8.083,92 
-64;female;32.965;0;no;northwest; R$ 1.469.266.935,00 ; R$ 146.926,69 
-49;male;32.3;3;no;northwest; R$ 1.026.946,00 ; R$ 102,69 
-31;male;20.4;0;no;southwest; R$ 3.260.199,00 ; R$ 326,02 
-52;female;38.38;2;no;northeast; R$ 113.969.002,00 ; R$ 11.396,90 
-33;female;24.31;0;no;southeast; R$ 41.850.979,00 ; R$ 4.185,10 
-47;female;23.6;1;no;southwest; R$ 8.539.671,00 ; R$ 853,97 
-38;male;21.12;3;no;southeast; R$ 66.525.288,00 ; R$ 6.652,53 
-32;male;30.03;1;no;southeast; R$ 40.744.537,00 ; R$ 4.074,45 
-19;male;17.48;0;no;northwest; R$ 16.213.402,00 ; R$ 1.621,34 
-44;female;20.235;1;yes;northeast; R$ 1.959.480.965,00 ; R$ 195.948,10 
-26;female;17.195;2;yes;northeast; R$ 1.445.564.405,00 ; R$ 144.556,44 
-25;male;23.9;5;no;southwest; R$ 5.080.096,00 ; R$ 508,01 
-19;female;35.15;0;no;northwest; R$ 21.349.015,00 ; R$ 2.134,90 
-43;female;35.64;1;no;southeast; R$ 73.457.266,00 ; R$ 7.345,73 
-52;male;34.1;0;no;southeast; R$ 9.140.951,00 ; R$ 914,10 
-36;female;22.6;2;yes;southwest; R$ 18.608.262,00 ; R$ 1.860,83 
-64;male;39.16;1;no;southeast; R$ 144.182.804,00 ; R$ 14.418,28 
-63;female;26.98;0;yes;northwest; R$ 289.504.692,00 ; R$ 28.950,47 
-64;male;33.88;0;yes;southeast; R$ 468.892.612,00 ; R$ 46.889,26 
-61;male;35.86;0;yes;southeast; R$ 465.991.084,00 ; R$ 46.599,11 
-40;male;32.775;1;yes;northeast; R$ 3.912.533.225,00 ; R$ 391.253,32 
-25;male;30.59;0;no;northeast; R$ 27.273.951,00 ; R$ 2.727,40 
-48;male;30.2;2;no;southwest; R$ 8.968.303,00 ; R$ 896,83 
-45;male;24.31;5;no;southeast; R$ 97.888.659,00 ; R$ 9.788,87 
-38;female;27.265;1;no;northeast; R$ 655.507.035,00 ; R$ 65.550,70 
-18;female;29.165;0;no;northeast; R$ 7.323.734.819,00 ; R$ 732.373,48 
-21;female;16.815;1;no;northeast; R$ 316.745.585,00 ; R$ 31.674,56 
-27;female;30.4;3;no;northwest; R$ 188.047.524,00 ; R$ 18.804,75 
-19;male;33.1;0;no;southwest; R$ 2.308.295.533,00 ; R$ 230.829,55 
-29;female;20.235;2;no;northwest; R$ 490.640.965,00 ; R$ 49.064,10 
-42;male;26.9;0;no;southwest; R$ 5.969.723,00 ; R$ 596,97 
-60;female;30.5;0;no;southwest; R$ 12.638.195,00 ; R$ 1.263,82 
-31;male;28.595;1;no;northwest; R$ 424.359.005,00 ; R$ 42.435,90 
-60;male;33.11;3;no;southeast; R$ 139.198.229,00 ; R$ 13.919,82 
-22;male;31.73;0;no;northeast; R$ 22.547.967,00 ; R$ 2.254,80 
-35;male;28.9;3;no;southwest; R$ 5.926.846,00 ; R$ 592,68 
-52;female;46.75;5;no;southeast; R$ 125.925.345,00 ; R$ 12.592,53 
-26;male;29.45;0;no;northeast; R$ 28.973.235,00 ; R$ 2.897,32 
-31;female;32.68;1;no;northwest; R$ 47.382.682,00 ; R$ 4.738,27 
-33;female;33.5;0;yes;southwest; R$ 37.079.372,00 ; R$ 3.707,94 
-18;male;43.01;0;no;southeast; R$ 11.493.959,00 ; R$ 1.149,40 
-59;female;36.52;1;no;southeast; R$ 2.828.789.766,00 ; R$ 282.878,98 
-56;male;26.695;1;yes;northwest; R$ 2.610.932.905,00 ; R$ 261.093,29 
-45;female;33.1;0;no;southwest; R$ 7.345.084,00 ; R$ 734,51 
-60;male;29.64;0;no;northeast; R$ 127.309.996,00 ; R$ 12.731,00 
-56;female;25.65;0;no;northwest; R$ 114.540.215,00 ; R$ 11.454,02 
-40;female;29.6;0;no;southwest; R$ 5.910.944,00 ; R$ 591,09 
-35;male;38.6;1;no;southwest; R$ 4.762.329,00 ; R$ 476,23 
-39;male;29.6;4;no;southwest; R$ 7.512.267,00 ; R$ 751,23 
-30;male;24.13;1;no;northwest; R$ 40.322.407,00 ; R$ 4.032,24 
-24;male;23.4;0;no;southwest; R$ 1.969.614,00 ; R$ 196,96 
-20;male;29.735;0;no;northwest; R$ 176.953.165,00 ; R$ 17.695,32 
-32;male;46.53;2;no;southeast; R$ 46.863.887,00 ; R$ 4.686,39 
-59;male;37.4;0;no;southwest; R$ 217.970.004,00 ; R$ 21.797,00 
-55;female;30.14;2;no;southeast; R$ 118.819.696,00 ; R$ 11.881,97 
-57;female;30.495;0;no;northwest; R$ 1.184.077.505,00 ; R$ 118.407,75 
-56;male;39.6;0;no;southwest; R$ 10.601.412,00 ; R$ 1.060,14 
-40;female;33;3;no;southeast; R$ 7.682.670,00 ; R$ 768,27 
-49;female;36.63;3;no;southeast; R$ 103.814.787,00 ; R$ 10.381,48 
-42;male;30;0;yes;southwest; R$ 22.144.032,00 ; R$ 2.214,40 
-62;female;38.095;2;no;northeast; R$ 1.523.032.405,00 ; R$ 152.303,24 
-56;male;25.935;0;no;northeast; R$ 1.116.541.765,00 ; R$ 111.654,18 
-19;male;25.175;0;no;northwest; R$ 163.203.625,00 ; R$ 16.320,36 
-30;female;28.38;1;yes;southeast; R$ 195.219.682,00 ; R$ 19.521,97 
-60;female;28.7;1;no;southwest; R$ 13.224.693,00 ; R$ 1.322,47 
-56;female;33.82;2;no;northwest; R$ 126.433.778,00 ; R$ 12.643,38 
-28;female;24.32;1;no;northeast; R$ 232.889.284,00 ; R$ 23.288,93 
-18;female;24.09;1;no;southeast; R$ 22.010.971,00 ; R$ 2.201,10 
-27;male;32.67;0;no;southeast; R$ 24.970.383,00 ; R$ 2.497,04 
-18;female;30.115;0;no;northeast; R$ 220.347.185,00 ; R$ 22.034,72 
-19;female;29.8;0;no;southwest; R$ 1.744.465,00 ; R$ 174,45 
-47;female;33.345;0;no;northeast; R$ 2.087.878.443,00 ; R$ 208.787,84 
-54;male;25.1;3;yes;southwest; R$ 25.382.297,00 ; R$ 2.538,23 
-61;male;28.31;1;yes;northwest; R$ 288.686.639,00 ; R$ 28.868,66 
-24;male;28.5;0;yes;northeast; R$ 3.514.752.848,00 ; R$ 351.475,28 
-25;male;35.625;0;no;northwest; R$ 253.439.375,00 ; R$ 25.343,94 
-21;male;36.85;0;no;southeast; R$ 15.343.045,00 ; R$ 1.534,30 
-23;male;32.56;0;no;southeast; R$ 18.242.854,00 ; R$ 1.824,29 
-63;male;41.325;3;no;northwest; R$ 1.555.518.875,00 ; R$ 155.551,89 
-49;male;37.51;2;no;southeast; R$ 93.047.019,00 ; R$ 9.304,70 
-18;female;31.35;0;no;southeast; R$ 16.221.885,00 ; R$ 1.622,19 
-51;female;39.5;1;no;southwest; R$ 9.880.068,00 ; R$ 988,01 
-48;male;34.3;3;no;southwest; R$ 9.563.029,00 ; R$ 956,30 
-31;female;31.065;0;no;northeast; R$ 434.702.335,00 ; R$ 43.470,23 
-54;female;21.47;3;no;northwest; R$ 124.753.513,00 ; R$ 12.475,35 
-19;male;28.7;0;no;southwest; R$ 1.253.936,00 ; R$ 125,39 
-44;female;38.06;0;yes;southeast; R$ 4.888.513.561,00 ; R$ 488.851,36 
-53;male;31.16;1;no;northwest; R$ 104.619.794,00 ; R$ 10.461,98 
-19;female;32.9;0;no;southwest; R$ 1.748.774,00 ; R$ 174,88 
-61;female;25.08;0;no;southeast; R$ 2.451.309.126,00 ; R$ 245.130,91 
-18;female;25.08;0;no;northeast; R$ 21.964.732,00 ; R$ 2.196,47 
-61;male;43.4;0;no;southwest; R$ 12.574.049,00 ; R$ 1.257,40 
-21;male;25.7;4;yes;southwest; R$ 17.942.106,00 ; R$ 1.794,21 
-20;male;27.93;0;no;northeast; R$ 19.670.227,00 ; R$ 1.967,02 
-31;female;23.6;2;no;southwest; R$ 4.931.647,00 ; R$ 493,16 
-45;male;28.7;2;no;southwest; R$ 8.027.968,00 ; R$ 802,80 
-44;female;23.98;2;no;southeast; R$ 82.111.002,00 ; R$ 8.211,10 
-62;female;39.2;0;no;southwest; R$ 1.347.086,00 ; R$ 134,71 
-29;male;34.4;0;yes;southwest; R$ 36.197.699,00 ; R$ 3.619,77 
-43;male;26.03;0;no;northeast; R$ 68.373.687,00 ; R$ 6.837,37 
-51;male;23.21;1;yes;southeast; R$ 222.181.149,00 ; R$ 22.218,11 
-19;male;30.25;0;yes;southeast; R$ 325.483.405,00 ; R$ 32.548,34 
-38;female;28.93;1;no;southeast; R$ 59.743.847,00 ; R$ 5.974,38 
-37;male;30.875;3;no;northwest; R$ 679.686.325,00 ; R$ 67.968,63 
-22;male;31.35;1;no;northwest; R$ 26.432.685,00 ; R$ 2.643,27 
-21;male;23.75;2;no;northwest; R$ 30.770.955,00 ; R$ 3.077,10 
-24;female;25.27;0;no;northeast; R$ 30.442.133,00 ; R$ 3.044,21 
-57;female;28.7;0;no;southwest; R$ 1.145.528,00 ; R$ 114,55 
-56;male;32.11;1;no;northeast; R$ 117.630.009,00 ; R$ 11.763,00 
-27;male;33.66;0;no;southeast; R$ 24.984.144,00 ; R$ 2.498,41 
-51;male;22.42;0;no;northeast; R$ 93.613.268,00 ; R$ 9.361,33 
-19;male;30.4;0;no;southwest; R$ 1.256.299,00 ; R$ 125,63 
-39;male;28.3;1;yes;southwest; R$ 2.108.216,00 ; R$ 210,82 
-58;male;35.7;0;no;southwest; R$ 11.362.755,00 ; R$ 1.136,28 
-20;male;35.31;1;no;southeast; R$ 2.772.428.875,00 ; R$ 277.242,89 
-45;male;30.495;2;no;northwest; R$ 841.346.305,00 ; R$ 84.134,63 
-35;female;31;1;no;southwest; R$ 5.240.765,00 ; R$ 524,08 
-31;male;30.875;0;no;northeast; R$ 385.775.925,00 ; R$ 38.577,59 
-50;female;27.36;0;no;northeast; R$ 2.565.657.526,00 ; R$ 256.565,75 
-32;female;44.22;0;no;southeast; R$ 39.941.778,00 ; R$ 3.994,18 
-51;female;33.915;0;no;northeast; R$ 986.630.485,00 ; R$ 98.663,05 
-38;female;37.73;0;no;southeast; R$ 53.976.167,00 ; R$ 5.397,62 
-42;male;26.07;1;yes;southeast; R$ 3.824.559.327,00 ; R$ 382.455,93 
-18;female;33.88;0;no;southeast; R$ 1.148.263.485,00 ; R$ 114.826,35 
-19;female;30.59;2;no;northwest; R$ 2.405.968.019,00 ; R$ 240.596,80 
-51;female;25.8;1;no;southwest; R$ 9.861.025,00 ; R$ 986,10 
-46;male;39.425;1;no;northeast; R$ 834.290.875,00 ; R$ 83.429,09 
-18;male;25.46;0;no;northeast; R$ 17.080.014,00 ; R$ 1.708,00 
-57;male;42.13;1;yes;southeast; R$ 486.755.177,00 ; R$ 48.675,52 
-62;female;31.73;0;no;northeast; R$ 140.434.767,00 ; R$ 14.043,48 
-59;male;29.7;2;no;southeast; R$ 12.925.886,00 ; R$ 1.292,59 
-37;male;36.19;0;no;southeast; R$ 1.921.470.553,00 ; R$ 192.147,06 
-64;male;40.48;0;no;southeast; R$ 138.311.152,00 ; R$ 13.831,12 
-38;male;28.025;1;no;northeast; R$ 606.712.675,00 ; R$ 60.671,27 
-33;female;38.9;3;no;southwest; R$ 5.972.378,00 ; R$ 597,24 
-46;female;30.2;2;no;southwest; R$ 8.825.086,00 ; R$ 882,51 
-46;female;28.05;1;no;southeast; R$ 82.330.975,00 ; R$ 8.233,10 
-53;male;31.35;0;no;southeast; R$ 2.734.604.207,00 ; R$ 273.460,42 
-34;female;38;3;no;southwest; R$ 6.196.448,00 ; R$ 619,64 
-20;female;31.79;2;no;southeast; R$ 30.563.881,00 ; R$ 3.056,39 
-63;female;36.3;0;no;southeast; R$ 13.887.204,00 ; R$ 1.388,72 
-54;female;47.41;0;yes;southeast; R$ 6.377.042.801,00 ; R$ 637.704,28 
-54;male;30.21;0;no;northwest; R$ 102.314.999,00 ; R$ 10.231,50 
-49;male;25.84;2;yes;northwest; R$ 238.072.406,00 ; R$ 23.807,24 
-28;male;35.435;0;no;northeast; R$ 326.884.665,00 ; R$ 32.688,47 
-54;female;46.7;2;no;southwest; R$ 11.538.421,00 ; R$ 1.153,84 
-25;female;28.595;0;no;northeast; R$ 321.362.205,00 ; R$ 32.136,22 
-43;female;46.2;0;yes;southeast; R$ 45.863.205,00 ; R$ 4.586,32 
-63;male;30.8;0;no;southwest; R$ 13.390.559,00 ; R$ 1.339,06 
-32;female;28.93;0;no;southeast; R$ 39.729.247,00 ; R$ 3.972,92 
-62;male;21.4;0;no;southwest; R$ 12.957.118,00 ; R$ 1.295,71 
-52;female;31.73;2;no;northwest; R$ 111.876.567,00 ; R$ 11.187,66 
-25;female;41.325;0;no;northeast; R$ 1.787.890.068,00 ; R$ 178.789,01 
-28;male;23.8;2;no;southwest; R$ 3.847.674,00 ; R$ 384,77 
-46;male;33.44;1;no;northeast; R$ 83.345.896,00 ; R$ 8.334,59 
-34;male;34.21;0;no;southeast; R$ 39.351.799,00 ; R$ 3.935,18 
-35;female;34.105;3;yes;northwest; R$ 3.998.342.595,00 ; R$ 399.834,26 
-19;male;35.53;0;no;northwest; R$ 16.464.297,00 ; R$ 1.646,43 
-46;female;19.95;2;no;northwest; R$ 91.938.385,00 ; R$ 9.193,84 
-54;female;32.68;0;no;northeast; R$ 109.239.332,00 ; R$ 10.923,93 
-27;male;30.5;0;no;southwest; R$ 2.494.022,00 ; R$ 249,40 
-50;male;44.77;1;no;southeast; R$ 90.587.303,00 ; R$ 9.058,73 
-18;female;32.12;2;no;southeast; R$ 28.012.588,00 ; R$ 2.801,26 
-19;female;30.495;0;no;northwest; R$ 212.843.105,00 ; R$ 21.284,31 
-38;female;40.565;1;no;northwest; R$ 637.355.735,00 ; R$ 63.735,57 
-41;male;30.59;2;no;northwest; R$ 72.567.231,00 ; R$ 7.256,72 
-49;female;31.9;5;no;southwest; R$ 11.552.904,00 ; R$ 1.155,29 
-48;male;40.565;2;yes;northwest; R$ 4.570.202.235,00 ; R$ 457.020,22 
-31;female;29.1;0;no;southwest; R$ 3.761.292,00 ; R$ 376,13 
-18;female;37.29;1;no;southeast; R$ 22.194.451,00 ; R$ 2.219,45 
-30;female;43.12;2;no;southeast; R$ 47.536.368,00 ; R$ 4.753,64 
-62;female;36.86;1;no;northeast; R$ 3.162.000.106,00 ; R$ 316.200,01 
-57;female;34.295;2;no;northeast; R$ 1.322.405.705,00 ; R$ 132.240,57 
-58;female;27.17;0;no;northwest; R$ 122.228.983,00 ; R$ 12.222,90 
-22;male;26.84;0;no;southeast; R$ 16.649.996,00 ; R$ 1.665,00 
-31;female;38.095;1;yes;northeast; R$ 5.857.107.448,00 ; R$ 585.710,74 
-52;male;30.2;1;no;southwest; R$ 9.724.530,00 ; R$ 972,45 
-25;female;23.465;0;no;northeast; R$ 320.649.135,00 ; R$ 32.064,91 
-59;male;25.46;1;no;northeast; R$ 129.139.924,00 ; R$ 12.913,99 
-19;male;30.59;0;no;northwest; R$ 16.395.631,00 ; R$ 1.639,56 
-39;male;45.43;2;no;southeast; R$ 63.562.707,00 ; R$ 6.356,27 
-32;female;23.65;1;no;southeast; R$ 1.762.623.951,00 ; R$ 176.262,40 
-19;male;20.7;0;no;southwest; R$ 1.242.816,00 ; R$ 124,28 
-33;female;28.27;1;no;southeast; R$ 47.796.023,00 ; R$ 4.779,60 
-21;male;20.235;3;no;northeast; R$ 386.120.965,00 ; R$ 38.612,10 
-34;female;30.21;1;yes;northwest; R$ 439.438.761,00 ; R$ 43.943,88 
-61;female;35.91;0;no;northeast; R$ 136.356.379,00 ; R$ 13.635,64 
-38;female;30.69;1;no;southeast; R$ 59.768.311,00 ; R$ 5.976,83 
-58;female;29;0;no;southwest; R$ 11.842.442,00 ; R$ 1.184,24 
-47;male;19.57;1;no;northwest; R$ 84.280.693,00 ; R$ 8.428,07 
-20;male;31.13;2;no;southeast; R$ 25.664.707,00 ; R$ 2.566,47 
-21;female;21.85;1;yes;northeast; R$ 153.591.045,00 ; R$ 15.359,10 
-41;male;40.26;0;no;southeast; R$ 57.091.644,00 ; R$ 5.709,16 
-46;female;33.725;1;no;northeast; R$ 882.398.575,00 ; R$ 88.239,86 
-42;female;29.48;2;no;southeast; R$ 76.403.092,00 ; R$ 7.640,31 
-34;female;33.25;1;no;northeast; R$ 55.948.455,00 ; R$ 5.594,85 
-43;male;32.6;2;no;southwest; R$ 7.441.501,00 ; R$ 744,15 
-52;female;37.525;2;no;northwest; R$ 3.347.197.189,00 ; R$ 334.719,72 
-18;female;39.16;0;no;southeast; R$ 16.330.444,00 ; R$ 1.633,04 
-51;male;31.635;0;no;northwest; R$ 917.413.565,00 ; R$ 91.741,36 
-56;female;25.3;0;no;southwest; R$ 11.070.535,00 ; R$ 1.107,05 
-64;female;39.05;3;no;southeast; R$ 160.851.275,00 ; R$ 16.085,13 
-19;female;28.31;0;yes;northwest; R$ 174.689.839,00 ; R$ 17.468,98 
-51;female;34.1;0;no;southeast; R$ 9.283.562,00 ; R$ 928,36 
-27;female;25.175;0;no;northeast; R$ 355.862.025,00 ; R$ 35.586,20 
-59;female;23.655;0;yes;northwest; R$ 2.567.877.845,00 ; R$ 256.787,78 
-28;male;26.98;2;no;northeast; R$ 44.350.942,00 ; R$ 4.435,09 
-30;male;37.8;2;yes;southwest; R$ 39.241.442,00 ; R$ 3.924,14 
-47;female;29.37;1;no;southeast; R$ 85.476.913,00 ; R$ 8.547,69 
-38;female;34.8;2;no;southwest; R$ 6.571.544,00 ; R$ 657,15 
-18;female;33.155;0;no;northeast; R$ 220.769.745,00 ; R$ 22.076,97 
-34;female;19;3;no;northeast; R$ 6.753.038,00 ; R$ 675,30 
-20;female;33;0;no;southeast; R$ 1.880.070,00 ; R$ 188,01 
-47;female;36.63;1;yes;southeast; R$ 429.698.527,00 ; R$ 42.969,85 
-56;female;28.595;0;no;northeast; R$ 1.165.811.505,00 ; R$ 116.581,15 
-49;male;25.6;2;yes;southwest; R$ 23.306.547,00 ; R$ 2.330,65 
-19;female;33.11;0;yes;southeast; R$ 344.398.559,00 ; R$ 34.439,86 
-55;female;37.1;0;no;southwest; R$ 10.713.644,00 ; R$ 1.071,36 
-30;male;31.4;1;no;southwest; R$ 3.659.346,00 ; R$ 365,93 
-37;male;34.1;4;yes;southwest; R$ 40.182.246,00 ; R$ 4.018,22 
-49;female;21.3;1;no;southwest; R$ 9.182.170,00 ; R$ 918,22 
-18;male;33.535;0;yes;northeast; R$ 3.461.784.065,00 ; R$ 346.178,41 
-59;male;28.785;0;no;northwest; R$ 1.212.961.415,00 ; R$ 121.296,14 
-29;female;26.03;0;no;northwest; R$ 37.364.647,00 ; R$ 3.736,46 
-36;male;28.88;3;no;northeast; R$ 67.485.912,00 ; R$ 6.748,59 
-33;male;42.46;1;no;southeast; R$ 1.132.671.487,00 ; R$ 113.267,15 
-58;male;38;0;no;southwest; R$ 11.365.952,00 ; R$ 1.136,60 
-44;female;38.95;0;yes;northwest; R$ 429.834.585,00 ; R$ 42.983,46 
-53;male;36.1;1;no;southwest; R$ 10.085.846,00 ; R$ 1.008,58 
-24;male;29.3;0;no;southwest; R$ 1.977.815,00 ; R$ 197,78 
-29;female;35.53;0;no;southeast; R$ 33.666.697,00 ; R$ 3.366,67 
-40;male;22.705;2;no;northeast; R$ 717.335.995,00 ; R$ 71.733,60 
-51;male;39.7;1;no;southwest; R$ 9.391.346,00 ; R$ 939,13 
-64;male;38.19;0;no;northeast; R$ 144.109.321,00 ; R$ 14.410,93 
-19;female;24.51;1;no;northwest; R$ 27.091.119,00 ; R$ 2.709,11 
-35;female;38.095;2;no;northeast; R$ 2.491.504.626,00 ; R$ 249.150,46 
-39;male;26.41;0;yes;northeast; R$ 201.493.229,00 ; R$ 20.149,32 
-56;male;33.66;4;no;southeast; R$ 129.491.554,00 ; R$ 12.949,16 
-33;male;42.4;5;no;southwest; R$ 6.666.243,00 ; R$ 666,62 
-42;male;28.31;3;yes;northwest; R$ 3.278.745.859,00 ; R$ 327.874,59 
-61;male;33.915;0;no;northeast; R$ 1.314.386.485,00 ; R$ 131.438,65 
-23;female;34.96;3;no;northwest; R$ 44.666.214,00 ; R$ 4.466,62 
-43;male;35.31;2;no;southeast; R$ 1.880.614.547,00 ; R$ 188.061,45 
-48;male;30.78;3;no;northeast; R$ 101.411.362,00 ; R$ 10.141,14 
-39;male;26.22;1;no;northwest; R$ 61.235.688,00 ; R$ 6.123,57 
-40;female;23.37;3;no;northeast; R$ 82.522.843,00 ; R$ 8.252,28 
-18;male;28.5;0;no;northeast; R$ 1.712.227,00 ; R$ 171,22 
-58;female;32.965;0;no;northeast; R$ 1.243.095.335,00 ; R$ 124.309,53 
-49;female;42.68;2;no;southeast; R$ 98.008.882,00 ; R$ 9.800,89 
-53;female;39.6;1;no;southeast; R$ 10.579.711,00 ; R$ 1.057,97 
-48;female;31.13;0;no;southeast; R$ 82.806.227,00 ; R$ 8.280,62 
-45;female;36.3;2;no;southeast; R$ 8.527.532,00 ; R$ 852,75 
-59;female;35.2;0;no;southeast; R$ 12.244.531,00 ; R$ 1.224,45 
-52;female;25.3;2;yes;southeast; R$ 24.667.419,00 ; R$ 2.466,74 
-26;female;42.4;1;no;southwest; R$ 3.410.324,00 ; R$ 341,03 
-27;male;33.155;2;no;northwest; R$ 405.871.245,00 ; R$ 40.587,12 
-48;female;35.91;1;no;northeast; R$ 2.639.226.029,00 ; R$ 263.922,60 
-57;female;28.785;4;no;northeast; R$ 1.439.439.815,00 ; R$ 143.943,98 
-37;male;46.53;3;no;southeast; R$ 64.356.237,00 ; R$ 6.435,62 
-57;female;23.98;1;no;southeast; R$ 2.219.243.711,00 ; R$ 221.924,37 
-32;female;31.54;1;no;northeast; R$ 51.485.526,00 ; R$ 5.148,55 
-18;male;33.66;0;no;southeast; R$ 11.363.994,00 ; R$ 1.136,40 
-64;female;22.99;0;yes;southeast; R$ 270.379.141,00 ; R$ 27.037,91 
-43;male;38.06;2;yes;southeast; R$ 425.604.304,00 ; R$ 42.560,43 
-49;male;28.7;1;no;southwest; R$ 8.703.456,00 ; R$ 870,35 
-40;female;32.775;2;yes;northwest; R$ 4.000.333.225,00 ; R$ 400.033,32 
-62;male;32.015;0;yes;northeast; R$ 4.571.020.785,00 ; R$ 457.102,08 
-40;female;29.81;1;no;southeast; R$ 65.002.359,00 ; R$ 6.500,24 
-30;male;31.57;3;no;southeast; R$ 48.375.823,00 ; R$ 4.837,58 
-29;female;31.16;0;no;northeast; R$ 39.435.954,00 ; R$ 3.943,60 
-36;male;29.7;0;no;southeast; R$ 4.399.731,00 ; R$ 439,97 
-41;female;31.02;0;no;southeast; R$ 61.853.208,00 ; R$ 6.185,32 
-44;female;43.89;2;yes;southeast; R$ 462.009.851,00 ; R$ 46.200,99 
-45;male;21.375;0;no;northwest; R$ 722.278.625,00 ; R$ 72.227,86 
-55;female;40.81;3;no;southeast; R$ 124.858.009,00 ; R$ 12.485,80 
-60;male;31.35;3;yes;northwest; R$ 461.305.265,00 ; R$ 46.130,53 
-56;male;36.1;3;no;southwest; R$ 12.363.547,00 ; R$ 1.236,35 
-49;female;23.18;2;no;northwest; R$ 101.567.832,00 ; R$ 10.156,78 
-21;female;17.4;1;no;southwest; R$ 2.585.269,00 ; R$ 258,53 
-19;male;20.3;0;no;southwest; R$ 1.242.260,00 ; R$ 124,23 
-39;male;35.3;2;yes;southwest; R$ 40.103.890,00 ; R$ 4.010,39 
-53;male;24.32;0;no;northwest; R$ 98.634.718,00 ; R$ 9.863,47 
-33;female;18.5;1;no;southwest; R$ 4.766.022,00 ; R$ 476,60 
-53;male;26.41;2;no;northeast; R$ 112.443.769,00 ; R$ 11.244,38 
-42;male;26.125;2;no;northeast; R$ 772.964.575,00 ; R$ 77.296,46 
-40;male;41.69;0;no;southeast; R$ 54.387.491,00 ; R$ 5.438,75 
-47;female;24.1;1;no;southwest; R$ 2.623.657.997,00 ; R$ 262.365,80 
-27;male;31.13;1;yes;southeast; R$ 348.064.677,00 ; R$ 34.806,47 
-21;male;27.36;0;no;northeast; R$ 21.041.134,00 ; R$ 2.104,11 
-47;male;36.2;1;no;southwest; R$ 8.068.185,00 ; R$ 806,82 
-20;male;32.395;1;no;northwest; R$ 236.222.905,00 ; R$ 23.622,29 
-24;male;23.655;0;no;northwest; R$ 235.296.845,00 ; R$ 23.529,68 
-27;female;34.8;1;no;southwest; R$ 3.577.999,00 ; R$ 357,80 
-26;female;40.185;0;no;northwest; R$ 320.124.515,00 ; R$ 32.012,45 
-53;female;32.3;2;no;northeast; R$ 2.918.648.236,00 ; R$ 291.864,82 
-41;male;35.75;1;yes;southeast; R$ 402.736.455,00 ; R$ 40.273,65 
-56;male;33.725;0;no;northwest; R$ 1.097.624.575,00 ; R$ 109.762,46 
-23;female;39.27;2;no;southeast; R$ 35.006.123,00 ; R$ 3.500,61 
-21;female;34.87;0;no;southeast; R$ 20.205.523,00 ; R$ 2.020,55 
-50;female;44.745;0;no;northeast; R$ 954.169.555,00 ; R$ 95.416,96 
-53;male;41.47;0;no;southeast; R$ 95.043.103,00 ; R$ 9.504,31 
-34;female;26.41;1;no;northwest; R$ 53.853.379,00 ; R$ 5.385,34 
-47;female;29.545;1;no;northwest; R$ 893.093.455,00 ; R$ 89.309,35 
-33;female;32.9;2;no;southwest; R$ 5.375.038,00 ; R$ 537,50 
-51;female;38.06;0;yes;southeast; R$ 444.004.064,00 ; R$ 44.400,41 
-49;male;28.69;3;no;northwest; R$ 102.644.421,00 ; R$ 10.264,44 
-31;female;30.495;3;no;northeast; R$ 611.323.105,00 ; R$ 61.132,31 
-36;female;27.74;0;no;northeast; R$ 54.690.066,00 ; R$ 5.469,01 
-18;male;35.2;1;no;southeast; R$ 1.727.540,00 ; R$ 172,75 
-50;female;23.54;2;no;southeast; R$ 101.072.206,00 ; R$ 10.107,22 
-43;female;30.685;2;no;northwest; R$ 831.083.915,00 ; R$ 83.108,39 
-20;male;40.47;0;no;northeast; R$ 19.844.533,00 ; R$ 1.984,45 
-24;female;22.6;0;no;southwest; R$ 2.457.502,00 ; R$ 245,75 
-60;male;28.9;0;no;southwest; R$ 12.146.971,00 ; R$ 1.214,70 
-49;female;22.61;1;no;northwest; R$ 95.669.909,00 ; R$ 9.566,99 
-60;male;24.32;1;no;northwest; R$ 131.126.048,00 ; R$ 13.112,60 
-51;female;36.67;2;no;northwest; R$ 108.481.343,00 ; R$ 10.848,13 
-58;female;33.44;0;no;northwest; R$ 122.316.136,00 ; R$ 12.231,61 
-51;female;40.66;0;no;northeast; R$ 98.756.804,00 ; R$ 9.875,68 
-53;male;36.6;3;no;southwest; R$ 11.264.541,00 ; R$ 1.126,45 
-62;male;37.4;0;no;southwest; R$ 12.979.358,00 ; R$ 1.297,94 
-19;male;35.4;0;no;southwest; R$ 1.263.249,00 ; R$ 126,32 
-50;female;27.075;1;no;northeast; R$ 1.010.613.425,00 ; R$ 101.061,34 
-30;female;39.05;3;yes;southeast; R$ 409.324.295,00 ; R$ 40.932,43 
-41;male;28.405;1;no;northwest; R$ 666.468.595,00 ; R$ 66.646,86 
-29;female;21.755;1;yes;northeast; R$ 1.665.771.745,00 ; R$ 166.577,17 
-18;female;40.28;0;no;northeast; R$ 22.176.012,00 ; R$ 2.217,60 
-41;female;36.08;1;no;southeast; R$ 67.813.542,00 ; R$ 6.781,35 
-35;male;24.42;3;yes;southeast; R$ 193.619.988,00 ; R$ 19.362,00 
-53;male;21.4;1;no;southwest; R$ 10.065.413,00 ; R$ 1.006,54 
-24;female;30.1;3;no;southwest; R$ 4.234.927,00 ; R$ 423,49 
-48;female;27.265;1;no;northeast; R$ 944.725.035,00 ; R$ 94.472,50 
-59;female;32.1;3;no;southwest; R$ 14.007.222,00 ; R$ 1.400,72 
-49;female;34.77;1;no;northwest; R$ 95.838.933,00 ; R$ 9.583,89 
-37;female;38.39;0;yes;southeast; R$ 404.190.191,00 ; R$ 40.419,02 
-26;male;23.7;2;no;southwest; R$ 3.484.331,00 ; R$ 348,43 
-23;male;31.73;3;yes;northeast; R$ 361.891.017,00 ; R$ 36.189,10 
-29;male;35.5;2;yes;southwest; R$ 4.458.545.587,00 ; R$ 445.854,56 
-45;male;24.035;2;no;northeast; R$ 860.448.365,00 ; R$ 86.044,84 
-27;male;29.15;0;yes;southeast; R$ 182.464.955,00 ; R$ 18.246,50 
-53;male;34.105;0;yes;northeast; R$ 4.325.441.795,00 ; R$ 432.544,18 
-31;female;26.62;0;no;southeast; R$ 37.578.448,00 ; R$ 3.757,84 
-50;male;26.41;0;no;northwest; R$ 88.272.099,00 ; R$ 8.827,21 
-50;female;30.115;1;no;northwest; R$ 991.035.985,00 ; R$ 99.103,60 
-34;male;27;2;no;southwest; R$ 1.173.784.884,00 ; R$ 117.378,49 
-19;male;21.755;0;no;northwest; R$ 162.728.245,00 ; R$ 16.272,82 
-47;female;36;1;no;southwest; R$ 8.556.907,00 ; R$ 855,69 
-28;male;30.875;0;no;northwest; R$ 306.250.825,00 ; R$ 30.625,08 
-37;female;26.4;0;yes;southeast; R$ 19.539.243,00 ; R$ 1.953,92 
-21;male;28.975;0;no;northwest; R$ 190.635.825,00 ; R$ 19.063,58 
-64;male;37.905;0;no;northwest; R$ 1.421.053.595,00 ; R$ 142.105,36 
-58;female;22.77;0;no;southeast; R$ 118.337.823,00 ; R$ 11.833,78 
-24;male;33.63;4;no;northeast; R$ 1.712.842.608,00 ; R$ 171.284,26 
-31;male;27.645;2;no;northeast; R$ 503.126.955,00 ; R$ 50.312,70 
-39;female;22.8;3;no;northeast; R$ 7.985.815,00 ; R$ 798,58 
-47;female;27.83;0;yes;southeast; R$ 230.654.207,00 ; R$ 23.065,42 
-30;male;37.43;3;no;northeast; R$ 54.287.277,00 ; R$ 5.428,73 
-18;male;38.17;0;yes;southeast; R$ 363.077.983,00 ; R$ 36.307,80 
-22;female;34.58;2;no;northeast; R$ 39.257.582,00 ; R$ 3.925,76 
-23;male;35.2;1;no;southwest; R$ 2.416.955,00 ; R$ 241,70 
-33;male;27.1;1;yes;southwest; R$ 19.040.876,00 ; R$ 1.904,09 
-27;male;26.03;0;no;northeast; R$ 30.708.087,00 ; R$ 3.070,81 
-45;female;25.175;2;no;northeast; R$ 909.506.825,00 ; R$ 90.950,68 
-57;female;31.825;0;no;northwest; R$ 1.184.262.375,00 ; R$ 118.426,24 
-47;male;32.3;1;no;southwest; R$ 8.062.764,00 ; R$ 806,28 
-42;female;29;1;no;southwest; R$ 7.050.642,00 ; R$ 705,06 
-64;female;39.7;0;no;southwest; R$ 14.319.031,00 ; R$ 1.431,90 
-38;female;19.475;2;no;northwest; R$ 693.324.225,00 ; R$ 69.332,42 
-61;male;36.1;3;no;southwest; R$ 2.794.128.758,00 ; R$ 279.412,88 
-53;female;26.7;2;no;southwest; R$ 11.150.780,00 ; R$ 1.115,08 
-44;female;36.48;0;no;northeast; R$ 1.279.720.962,00 ; R$ 127.972,10 
-19;female;28.88;0;yes;northwest; R$ 177.485.062,00 ; R$ 17.748,51 
-41;male;34.2;2;no;northwest; R$ 7.261.741,00 ; R$ 726,17 
-51;male;33.33;3;no;southeast; R$ 105.604.917,00 ; R$ 10.560,49 
-40;male;32.3;2;no;northwest; R$ 6.986.697,00 ; R$ 698,67 
-45;male;39.805;0;no;northeast; R$ 744.840.395,00 ; R$ 74.484,04 
-35;male;34.32;3;no;southeast; R$ 59.343.798,00 ; R$ 5.934,38 
-53;male;28.88;0;no;northwest; R$ 98.698.102,00 ; R$ 9.869,81 
-30;male;24.4;3;yes;southwest; R$ 18.259.216,00 ; R$ 1.825,92 
-18;male;41.14;0;no;southeast; R$ 11.467.966,00 ; R$ 1.146,80 
-51;male;35.97;1;no;southeast; R$ 93.861.613,00 ; R$ 9.386,16 
-50;female;27.6;1;yes;southwest; R$ 24.520.264,00 ; R$ 2.452,03 
-31;female;29.26;1;no;southeast; R$ 43.505.144,00 ; R$ 4.350,51 
-35;female;27.7;3;no;southwest; R$ 6.414.178,00 ; R$ 641,42 
-60;male;36.955;0;no;northeast; R$ 1.274.116.745,00 ; R$ 127.411,67 
-21;male;36.86;0;no;northwest; R$ 19.173.184,00 ; R$ 1.917,32 
-29;male;22.515;3;no;northeast; R$ 520.957.885,00 ; R$ 52.095,79 
-62;female;29.92;0;no;southeast; R$ 134.579.608,00 ; R$ 13.457,96 
-39;female;41.8;0;no;southeast; R$ 5.662.225,00 ; R$ 566,22 
-19;male;27.6;0;no;southwest; R$ 1.252.407,00 ; R$ 125,24 
-22;female;23.18;0;no;northeast; R$ 27.319.122,00 ; R$ 2.731,91 
-53;male;20.9;0;yes;southeast; R$ 21.195.818,00 ; R$ 2.119,58 
-39;female;31.92;2;no;northwest; R$ 72.094.918,00 ; R$ 7.209,49 
-27;male;28.5;0;yes;northwest; R$ 18.310.742,00 ; R$ 1.831,07 
-30;male;44.22;2;no;southeast; R$ 42.661.658,00 ; R$ 4.266,17 
-30;female;22.895;1;no;northeast; R$ 471.952.405,00 ; R$ 47.195,24 
-58;female;33.1;0;no;southwest; R$ 11.848.141,00 ; R$ 1.184,81 
-33;male;24.795;0;yes;northeast; R$ 1.790.452.705,00 ; R$ 179.045,27 
-42;female;26.18;1;no;southeast; R$ 70.467.222,00 ; R$ 7.046,72 
-64;female;35.97;0;no;southeast; R$ 143.138.463,00 ; R$ 14.313,85 
-21;male;22.3;1;no;southwest; R$ 2.103.080,00 ; R$ 210,31 
-18;female;42.24;0;yes;southeast; R$ 387.926.856,00 ; R$ 38.792,69 
-23;male;26.51;0;no;southeast; R$ 18.158.759,00 ; R$ 1.815,88 
-45;female;35.815;0;no;northwest; R$ 773.185.785,00 ; R$ 77.318,58 
-40;female;41.42;1;no;northwest; R$ 2.847.673.499,00 ; R$ 284.767,35 
-19;female;36.575;0;no;northwest; R$ 213.688.225,00 ; R$ 21.368,82 
-18;male;30.14;0;no;southeast; R$ 11.315.066,00 ; R$ 1.131,51 
-25;male;25.84;1;no;northeast; R$ 33.097.926,00 ; R$ 3.309,79 
-46;female;30.8;3;no;southwest; R$ 9.414.920,00 ; R$ 941,49 
-33;female;42.94;3;no;northwest; R$ 63.609.936,00 ; R$ 6.360,99 
-54;male;21.01;2;no;southeast; R$ 110.137.119,00 ; R$ 11.013,71 
-28;male;22.515;2;no;northeast; R$ 442.888.785,00 ; R$ 44.288,88 
-36;male;34.43;2;no;southeast; R$ 55.843.057,00 ; R$ 5.584,31 
-20;female;31.46;0;no;southeast; R$ 18.779.294,00 ; R$ 1.877,93 
-24;female;24.225;0;no;northwest; R$ 284.276.075,00 ; R$ 28.427,61 
-23;male;37.1;3;no;southwest; R$ 3.597.596,00 ; R$ 359,76 
-47;female;26.125;1;yes;northeast; R$ 2.340.130.575,00 ; R$ 234.013,06 
-33;female;35.53;0;yes;northwest; R$ 5.513.540.209,00 ; R$ 551.354,02 
-45;male;33.7;1;no;southwest; R$ 7.445.918,00 ; R$ 744,59 
-26;male;17.67;0;no;northwest; R$ 26.809.493,00 ; R$ 2.680,95 
-18;female;31.13;0;no;southeast; R$ 16.218.827,00 ; R$ 1.621,88 
-44;female;29.81;2;no;southeast; R$ 82.192.039,00 ; R$ 8.219,20 
-60;male;24.32;0;no;northwest; R$ 125.236.048,00 ; R$ 12.523,60 
-64;female;31.825;2;no;northeast; R$ 1.606.908.475,00 ; R$ 160.690,85 
-56;male;31.79;2;yes;southeast; R$ 438.138.661,00 ; R$ 43.813,87 
-36;male;28.025;1;yes;northeast; R$ 2.077.362.775,00 ; R$ 207.736,28 
-41;male;30.78;3;yes;northeast; R$ 395.974.072,00 ; R$ 39.597,41 
-39;male;21.85;1;no;northwest; R$ 61.174.945,00 ; R$ 6.117,49 
-63;male;33.1;0;no;southwest; R$ 13.393.756,00 ; R$ 1.339,38 
-36;female;25.84;0;no;northwest; R$ 52.663.656,00 ; R$ 5.266,37 
-28;female;23.845;2;no;northwest; R$ 471.973.655,00 ; R$ 47.197,37 
-58;male;34.39;0;no;northwest; R$ 117.439.341,00 ; R$ 11.743,93 
-36;male;33.82;1;no;northwest; R$ 53.774.578,00 ; R$ 5.377,46 
-42;male;35.97;2;no;southeast; R$ 71.603.303,00 ; R$ 7.160,33 
-36;male;31.5;0;no;southwest; R$ 4.402.233,00 ; R$ 440,22 
-56;female;28.31;0;no;northeast; R$ 116.577.189,00 ; R$ 11.657,72 
-35;female;23.465;2;no;northeast; R$ 640.229.135,00 ; R$ 64.022,91 
-59;female;31.35;0;no;northwest; R$ 126.221.795,00 ; R$ 12.622,18 
-21;male;31.1;0;no;southwest; R$ 1.526.312,00 ; R$ 152,63 
-59;male;24.7;0;no;northeast; R$ 12.323.936,00 ; R$ 1.232,39 
-23;female;32.78;2;yes;southeast; R$ 360.210.112,00 ; R$ 36.021,01 
-57;female;29.81;0;yes;southeast; R$ 275.339.129,00 ; R$ 27.533,91 
-53;male;30.495;0;no;northeast; R$ 1.007.205.505,00 ; R$ 100.720,55 
-60;female;32.45;0;yes;southeast; R$ 450.089.555,00 ; R$ 45.008,96 
-51;female;34.2;1;no;southwest; R$ 9.872.701,00 ; R$ 987,27 
-23;male;50.38;1;no;southeast; R$ 24.380.552,00 ; R$ 2.438,06 
-27;female;24.1;0;no;southwest; R$ 2.974.126,00 ; R$ 297,41 
-55;male;32.775;0;no;northwest; R$ 1.060.163.225,00 ; R$ 106.016,32 
-37;female;30.78;0;yes;northeast; R$ 372.701.512,00 ; R$ 37.270,15 
-61;male;32.3;2;no;northwest; R$ 1.411.962,00 ; R$ 141,20 
-46;female;35.53;0;yes;northeast; R$ 421.116.647,00 ; R$ 42.111,66 
-53;female;23.75;2;no;northeast; R$ 117.296.795,00 ; R$ 11.729,68 
-49;female;23.845;3;yes;northeast; R$ 2.410.691.255,00 ; R$ 241.069,13 
-20;female;29.6;0;no;southwest; R$ 1.875.344,00 ; R$ 187,53 
-48;female;33.11;0;yes;southeast; R$ 409.741.649,00 ; R$ 40.974,16 
-25;male;24.13;0;yes;northwest; R$ 158.179.857,00 ; R$ 15.817,99 
-25;female;32.23;1;no;southeast; R$ 1.821.816.139,00 ; R$ 182.181,61 
-57;male;28.1;0;no;southwest; R$ 10.965.446,00 ; R$ 1.096,54 
-37;female;47.6;2;yes;southwest; R$ 46.113.511,00 ; R$ 4.611,35 
-38;female;28;3;no;southwest; R$ 7.151.092,00 ; R$ 715,11 
-55;female;33.535;2;no;northwest; R$ 1.226.968.865,00 ; R$ 122.696,89 
-36;female;19.855;0;no;northeast; R$ 545.804.645,00 ; R$ 54.580,46 
-51;male;25.4;0;no;southwest; R$ 8.782.469,00 ; R$ 878,25 
-40;male;29.9;2;no;southwest; R$ 6.600.361,00 ; R$ 660,04 
-18;male;37.29;0;no;southeast; R$ 11.414.451,00 ; R$ 1.141,45 
-57;male;43.7;1;no;southwest; R$ 11.576.130,00 ; R$ 1.157,61 
-61;male;23.655;0;no;northeast; R$ 1.312.960.345,00 ; R$ 131.296,03 
-25;female;24.3;3;no;southwest; R$ 4.391.652,00 ; R$ 439,17 
-50;male;36.2;0;no;southwest; R$ 8.457.818,00 ; R$ 845,78 
-26;female;29.48;1;no;southeast; R$ 33.923.652,00 ; R$ 3.392,37 
-42;male;24.86;0;no;southeast; R$ 59.668.874,00 ; R$ 5.966,89 
-43;male;30.1;1;no;southwest; R$ 6.849.026,00 ; R$ 684,90 
-44;male;21.85;3;no;northeast; R$ 88.911.395,00 ; R$ 8.891,14 
-23;female;28.12;0;no;northwest; R$ 26.901.138,00 ; R$ 2.690,11 
-49;female;27.1;1;no;southwest; R$ 261.403.603,00 ; R$ 26.140,36 
-33;male;33.44;5;no;southeast; R$ 66.537.886,00 ; R$ 6.653,79 
-41;male;28.8;1;no;southwest; R$ 6.282.235,00 ; R$ 628,22 
-37;female;29.5;2;no;southwest; R$ 6.311.952,00 ; R$ 631,20 
-22;male;34.8;3;no;southwest; R$ 3.443.064,00 ; R$ 344,31 
-23;male;27.36;1;no;northwest; R$ 27.890.574,00 ; R$ 2.789,06 
-21;female;22.135;0;no;northeast; R$ 258.585.065,00 ; R$ 25.858,51 
-51;female;37.05;3;yes;northeast; R$ 462.551.125,00 ; R$ 46.255,11 
-25;male;26.695;4;no;northwest; R$ 487.798.105,00 ; R$ 48.779,81 
-32;male;28.93;1;yes;southeast; R$ 197.196.947,00 ; R$ 19.719,69 
-57;male;28.975;0;yes;northeast; R$ 2.721.843.725,00 ; R$ 272.184,37 
-36;female;30.02;0;no;northwest; R$ 52.721.758,00 ; R$ 5.272,18 
-22;male;39.5;0;no;southwest; R$ 1.682.597,00 ; R$ 168,26 
-57;male;33.63;1;no;northwest; R$ 119.451.327,00 ; R$ 11.945,13 
-64;female;26.885;0;yes;northwest; R$ 2.933.098.315,00 ; R$ 293.309,83 
-36;female;29.04;4;no;southeast; R$ 72.438.136,00 ; R$ 7.243,81 
-54;male;24.035;0;no;northeast; R$ 1.042.291.665,00 ; R$ 104.229,17 
-47;male;38.94;2;yes;southeast; R$ 442.026.536,00 ; R$ 44.202,65 
-62;male;32.11;0;no;northeast; R$ 135.550.049,00 ; R$ 13.555,00 
-61;female;44;0;no;southwest; R$ 13.063.883,00 ; R$ 1.306,39 
-43;female;20.045;2;yes;northeast; R$ 1.979.805.455,00 ; R$ 197.980,55 
-19;male;25.555;1;no;northwest; R$ 222.156.445,00 ; R$ 22.215,64 
-18;female;40.26;0;no;southeast; R$ 16.345.734,00 ; R$ 1.634,57 
-19;female;22.515;0;no;northwest; R$ 211.733.885,00 ; R$ 21.173,39 
-49;male;22.515;0;no;northeast; R$ 868.885.885,00 ; R$ 86.888,59 
-60;male;40.92;0;yes;southeast; R$ 486.735.588,00 ; R$ 48.673,56 
-26;male;27.265;3;no;northeast; R$ 466.128.635,00 ; R$ 46.612,86 
-49;male;36.85;0;no;southeast; R$ 81.257.845,00 ; R$ 8.125,78 
-60;female;35.1;0;no;southwest; R$ 12.644.589,00 ; R$ 1.264,46 
-26;female;29.355;2;no;northeast; R$ 456.419.145,00 ; R$ 45.641,91 
-27;male;32.585;3;no;northeast; R$ 484.692.015,00 ; R$ 48.469,20 
-44;female;32.34;1;no;southeast; R$ 76.337.206,00 ; R$ 7.633,72 
-63;male;39.8;3;no;southwest; R$ 15.170.069,00 ; R$ 1.517,01 
-32;female;24.6;0;yes;southwest; R$ 17.496.306,00 ; R$ 1.749,63 
-22;male;28.31;1;no;northwest; R$ 26.390.429,00 ; R$ 2.639,04 
-18;male;31.73;0;yes;northeast; R$ 337.326.867,00 ; R$ 33.732,69 
-59;female;26.695;3;no;northwest; R$ 1.438.270.905,00 ; R$ 143.827,09 
-44;female;27.5;1;no;southwest; R$ 7.626.993,00 ; R$ 762,70 
-33;male;24.605;2;no;northwest; R$ 525.750.795,00 ; R$ 52.575,08 
-24;female;33.99;0;no;southeast; R$ 24.733.341,00 ; R$ 2.473,33 
-43;female;26.885;0;yes;northwest; R$ 2.177.432.215,00 ; R$ 217.743,22 
-45;male;22.895;0;yes;northeast; R$ 3.506.937.452,00 ; R$ 350.693,75 
-61;female;28.2;0;no;southwest; R$ 13.041.921,00 ; R$ 1.304,19 
-35;female;34.21;1;no;southeast; R$ 52.452.269,00 ; R$ 5.245,23 
-62;female;25;0;no;southwest; R$ 13.451.122,00 ; R$ 1.345,11 
-62;female;33.2;0;no;southwest; R$ 1.346.252,00 ; R$ 134,63 
-38;male;31;1;no;southwest; R$ 5.488.262,00 ; R$ 548,83 
-34;male;35.815;0;no;northwest; R$ 432.041.085,00 ; R$ 43.204,11 
-43;male;23.2;0;no;southwest; R$ 6.250.435,00 ; R$ 625,04 
-50;male;32.11;2;no;northeast; R$ 2.533.333.284,00 ; R$ 253.333,33 
-19;female;23.4;2;no;southwest; R$ 2.913.569,00 ; R$ 291,36 
-57;female;20.1;1;no;southwest; R$ 12.032.326,00 ; R$ 1.203,23 
-62;female;39.16;0;no;southeast; R$ 134.708.044,00 ; R$ 13.470,80 
-41;male;34.21;1;no;southeast; R$ 62.897.549,00 ; R$ 6.289,75 
-26;male;46.53;1;no;southeast; R$ 29.270.647,00 ; R$ 2.927,06 
-39;female;32.5;1;no;southwest; R$ 6.238.298,00 ; R$ 623,83 
-46;male;25.8;5;no;southwest; R$ 1.009.697,00 ; R$ 100,97 
-45;female;35.3;0;no;southwest; R$ 7.348.142,00 ; R$ 734,81 
-32;male;37.18;2;no;southeast; R$ 46.733.922,00 ; R$ 4.673,39 
-59;female;27.5;0;no;southwest; R$ 12.233.828,00 ; R$ 1.223,38 
-44;male;29.735;2;no;northeast; R$ 3.210.866.282,00 ; R$ 321.086,63 
-39;female;24.225;5;no;northwest; R$ 896.579.575,00 ; R$ 89.657,96 
-18;male;26.18;2;no;southeast; R$ 23.040.022,00 ; R$ 2.304,00 
-53;male;29.48;0;no;southeast; R$ 94.876.442,00 ; R$ 9.487,64 
-18;male;23.21;0;no;southeast; R$ 11.218.739,00 ; R$ 1.121,87 
-50;female;46.09;1;no;southeast; R$ 95.495.651,00 ; R$ 9.549,57 
-18;female;40.185;0;no;northeast; R$ 221.746.915,00 ; R$ 22.174,69 
-19;male;22.61;0;no;northwest; R$ 16.284.709,00 ; R$ 1.628,47 
-62;male;39.93;0;no;southeast; R$ 129.828.747,00 ; R$ 12.982,87 
-56;female;35.8;1;no;southwest; R$ 11.674.130,00 ; R$ 1.167,41 
-42;male;35.8;2;no;southwest; R$ 7.160.094,00 ; R$ 716,01 
-37;male;34.2;1;yes;northeast; R$ 39.047.285,00 ; R$ 3.904,73 
-42;male;31.255;0;no;northwest; R$ 635.877.645,00 ; R$ 63.587,76 
-25;male;29.7;3;yes;southwest; R$ 19.933.458,00 ; R$ 1.993,35 
-57;male;18.335;0;no;northeast; R$ 1.153.487.265,00 ; R$ 115.348,73 
-51;male;42.9;2;yes;southeast; R$ 47.462.894,00 ; R$ 4.746,29 
-30;female;28.405;1;no;northwest; R$ 452.718.295,00 ; R$ 45.271,83 
-44;male;30.2;2;yes;southwest; R$ 38.998.546,00 ; R$ 3.899,85 
-34;male;27.835;1;yes;northwest; R$ 2.000.963.365,00 ; R$ 200.096,34 
-31;male;39.49;1;no;southeast; R$ 38.757.341,00 ; R$ 3.875,73 
-54;male;30.8;1;yes;southeast; R$ 4.199.952,00 ; R$ 420,00 
-24;male;26.79;1;no;northwest; R$ 1.260.988.702,00 ; R$ 126.098,87 
-43;male;34.96;1;yes;northeast; R$ 410.342.214,00 ; R$ 41.034,22 
-48;male;36.67;1;no;northwest; R$ 2.846.891.901,00 ; R$ 284.689,19 
-19;female;39.615;1;no;northwest; R$ 273.010.785,00 ; R$ 27.301,08 
-29;female;25.9;0;no;southwest; R$ 3.353.284,00 ; R$ 335,33 
-63;female;35.2;1;no;southeast; R$ 14.474.675,00 ; R$ 1.447,47 
-46;male;24.795;3;no;northeast; R$ 950.057.305,00 ; R$ 95.005,73 
-52;male;36.765;2;no;northwest; R$ 2.646.709.737,00 ; R$ 264.670,97 
-35;male;27.1;1;no;southwest; R$ 4.746.344,00 ; R$ 474,63 
-51;male;24.795;2;yes;northwest; R$ 2.396.738.305,00 ; R$ 239.673,83 
-44;male;25.365;1;no;northwest; R$ 751.802.535,00 ; R$ 75.180,25 
-21;male;25.745;2;no;northeast; R$ 327.986.855,00 ; R$ 32.798,69 
-39;female;34.32;5;no;southeast; R$ 85.968.278,00 ; R$ 8.596,83 
-50;female;28.16;3;no;southeast; R$ 107.026.424,00 ; R$ 10.702,64 
-34;female;23.56;0;no;northeast; R$ 49.923.764,00 ; R$ 4.992,38 
-22;female;20.235;0;no;northwest; R$ 252.781.865,00 ; R$ 25.278,19 
-19;female;40.5;0;no;southwest; R$ 1.759.338,00 ; R$ 175,93 
-26;male;35.42;0;no;southeast; R$ 23.226.218,00 ; R$ 2.322,62 
-29;male;22.895;0;yes;northeast; R$ 1.613.876.205,00 ; R$ 161.387,62 
-48;male;40.15;0;no;southeast; R$ 78.041.605,00 ; R$ 7.804,16 
-26;male;29.15;1;no;southeast; R$ 29.029.065,00 ; R$ 2.902,91 
-45;female;39.995;3;no;northeast; R$ 970.466.805,00 ; R$ 97.046,68 
-36;female;29.92;0;no;southeast; R$ 48.890.368,00 ; R$ 4.889,04 
-54;male;25.46;1;no;northeast; R$ 2.551.711.363,00 ; R$ 255.171,14 
-34;male;21.375;0;no;northeast; R$ 450.033.925,00 ; R$ 45.003,39 
-31;male;25.9;3;yes;southwest; R$ 19.199.944,00 ; R$ 1.919,99 
-27;female;30.59;1;no;northeast; R$ 1.679.641.194,00 ; R$ 167.964,12 
-20;male;30.115;5;no;northeast; R$ 491.505.985,00 ; R$ 49.150,60 
-44;female;25.8;1;no;southwest; R$ 7.624.630,00 ; R$ 762,46 
-43;male;30.115;3;no;northwest; R$ 841.004.685,00 ; R$ 84.100,47 
-45;female;27.645;1;no;northwest; R$ 2.834.018.885,00 ; R$ 283.401,89 
-34;male;34.675;0;no;northeast; R$ 451.882.625,00 ; R$ 45.188,26 
-24;female;20.52;0;yes;northeast; R$ 145.718.908,00 ; R$ 14.571,89 
-26;female;19.8;1;no;southwest; R$ 3.378.910,00 ; R$ 337,89 
-38;female;27.835;2;no;northeast; R$ 714.486.265,00 ; R$ 71.448,63 
-50;female;31.6;2;no;southwest; R$ 10.118.424,00 ; R$ 1.011,84 
-38;male;28.27;1;no;southeast; R$ 54.844.673,00 ; R$ 5.484,47 
-27;female;20.045;3;yes;northwest; R$ 1.642.049.455,00 ; R$ 164.204,95 
-39;female;23.275;3;no;northeast; R$ 798.647.525,00 ; R$ 79.864,75 
-39;female;34.1;3;no;southwest; R$ 7.418.522,00 ; R$ 741,85 
-63;female;36.85;0;no;southeast; R$ 138.879.685,00 ; R$ 13.887,97 
-33;female;36.29;3;no;northeast; R$ 65.517.501,00 ; R$ 6.551,75 
-36;female;26.885;0;no;northwest; R$ 526.781.815,00 ; R$ 52.678,18 
-30;male;22.99;2;yes;northwest; R$ 173.617.661,00 ; R$ 17.361,77 
-24;male;32.7;0;yes;southwest; R$ 34.472.841,00 ; R$ 3.447,28 
-24;male;25.8;0;no;southwest; R$ 1.972.950,00 ; R$ 197,30 
-48;male;29.6;0;no;southwest; R$ 2.123.218.226,00 ; R$ 212.321,82 
-47;male;19.19;1;no;northeast; R$ 86.275.411,00 ; R$ 8.627,54 
-29;male;31.73;2;no;northwest; R$ 44.333.877,00 ; R$ 4.433,39 
-28;male;29.26;2;no;northeast; R$ 44.382.634,00 ; R$ 4.438,26 
-47;male;28.215;3;yes;northwest; R$ 2.491.522.085,00 ; R$ 249.152,21 
-25;male;24.985;2;no;northeast; R$ 2.324.147.453,00 ; R$ 232.414,75 
-51;male;27.74;1;no;northeast; R$ 99.577.216,00 ; R$ 9.957,72 
-48;female;22.8;0;no;southwest; R$ 8.269.044,00 ; R$ 826,90 
-43;male;20.13;2;yes;southeast; R$ 187.677.377,00 ; R$ 18.767,74 
-61;female;33.33;4;no;southeast; R$ 3.658.028.216,00 ; R$ 365.802,82 
-48;male;32.3;1;no;northwest; R$ 8.765.249,00 ; R$ 876,52 
-38;female;27.6;0;no;southwest; R$ 5.383.536,00 ; R$ 538,35 
-59;male;25.46;0;no;northwest; R$ 121.249.924,00 ; R$ 12.124,99 
-19;female;24.605;1;no;northwest; R$ 270.924.395,00 ; R$ 27.092,44 
-26;female;34.2;2;no;southwest; R$ 3.987.926,00 ; R$ 398,79 
-54;female;35.815;3;no;northwest; R$ 1.249.529.085,00 ; R$ 124.952,91 
-21;female;32.68;2;no;northwest; R$ 2.601.895.052,00 ; R$ 260.189,51 
-51;male;37;0;no;southwest; R$ 8.798.593,00 ; R$ 879,86 
-22;female;31.02;3;yes;southeast; R$ 355.955.898,00 ; R$ 35.595,59 
-47;male;36.08;1;yes;southeast; R$ 422.111.382,00 ; R$ 42.211,14 
-18;male;23.32;1;no;southeast; R$ 17.110.268,00 ; R$ 1.711,03 
-47;female;45.32;1;no;southeast; R$ 85.698.618,00 ; R$ 8.569,86 
-21;female;34.6;0;no;southwest; R$ 2.020.177,00 ; R$ 202,02 
-19;male;26.03;1;yes;northwest; R$ 164.508.947,00 ; R$ 16.450,89 
-23;male;18.715;0;no;northwest; R$ 2.159.538.229,00 ; R$ 215.953,82 
-54;male;31.6;0;no;southwest; R$ 9.850.432,00 ; R$ 985,04 
-37;female;17.29;2;no;northeast; R$ 68.779.801,00 ; R$ 6.877,98 
-46;female;23.655;1;yes;northwest; R$ 2.167.728.345,00 ; R$ 216.772,83 
-55;female;35.2;0;yes;southeast; R$ 44.423.803,00 ; R$ 4.442,38 
-30;female;27.93;0;no;northeast; R$ 41.375.227,00 ; R$ 4.137,52 
-18;male;21.565;0;yes;northeast; R$ 1.374.787.235,00 ; R$ 137.478,72 
-61;male;38.38;0;no;northwest; R$ 129.500.712,00 ; R$ 12.950,07 
-54;female;23;3;no;southwest; R$ 12.094.478,00 ; R$ 1.209,45 
-22;male;37.07;2;yes;southeast; R$ 374.844.493,00 ; R$ 37.484,45 
-45;female;30.495;1;yes;northwest; R$ 3.972.551.805,00 ; R$ 397.255,18 
-22;male;28.88;0;no;northeast; R$ 22.508.352,00 ; R$ 2.250,84 
-19;male;27.265;2;no;northwest; R$ 2.249.365.964,00 ; R$ 224.936,60 
-35;female;28.025;0;yes;northwest; R$ 2.023.485.475,00 ; R$ 202.348,55 
-18;male;23.085;0;no;northeast; R$ 170.470.015,00 ; R$ 17.047,00 
-20;male;30.685;0;yes;northeast; R$ 3.347.581.715,00 ; R$ 334.758,17 
-28;female;25.8;0;no;southwest; R$ 3.161.454,00 ; R$ 316,15 
-55;male;35.245;1;no;northeast; R$ 1.139.406.555,00 ; R$ 113.940,66 
-43;female;24.7;2;yes;northwest; R$ 2.188.082,00 ; R$ 218,81 
-43;female;25.08;0;no;northeast; R$ 73.250.482,00 ; R$ 7.325,05 
-22;male;52.58;1;yes;southeast; R$ 445.013.982,00 ; R$ 44.501,40 
-25;female;22.515;1;no;northwest; R$ 359.417.085,00 ; R$ 35.941,71 
-49;male;30.9;0;yes;southwest; R$ 39.727.614,00 ; R$ 3.972,76 
-44;female;36.955;1;no;northwest; R$ 802.313.545,00 ; R$ 80.231,35 
-64;male;26.41;0;no;northeast; R$ 143.945.579,00 ; R$ 14.394,56 
-49;male;29.83;1;no;northeast; R$ 92.880.267,00 ; R$ 9.288,03 
-47;male;29.8;3;yes;southwest; R$ 25.309.489,00 ; R$ 2.530,95 
-27;female;21.47;0;no;northwest; R$ 33.534.703,00 ; R$ 3.353,47 
-55;male;27.645;0;no;northwest; R$ 1.059.450.155,00 ; R$ 105.945,02 
-48;female;28.9;0;no;southwest; R$ 8.277.523,00 ; R$ 827,75 
-45;female;31.79;0;no;southeast; R$ 1.792.930.337,00 ; R$ 179.293,03 
-24;female;39.49;0;no;southeast; R$ 24.809.791,00 ; R$ 2.480,98 
-32;male;33.82;1;no;northwest; R$ 44.627.218,00 ; R$ 4.462,72 
-24;male;32.01;0;no;southeast; R$ 19.815.819,00 ; R$ 1.981,58 
-57;male;27.94;1;no;southeast; R$ 115.542.236,00 ; R$ 11.554,22 
-59;male;41.14;1;yes;southeast; R$ 489.702.476,00 ; R$ 48.970,25 
-36;male;28.595;3;no;northwest; R$ 654.819.505,00 ; R$ 65.481,95 
-29;female;25.6;4;no;southwest; R$ 5.708.867,00 ; R$ 570,89 
-42;female;25.3;1;no;southwest; R$ 7.045.499,00 ; R$ 704,55 
-48;male;37.29;2;no;southeast; R$ 89.781.851,00 ; R$ 8.978,19 
-39;male;42.655;0;no;northeast; R$ 575.741.345,00 ; R$ 57.574,13 
-63;male;21.66;1;no;northwest; R$ 143.498.544,00 ; R$ 14.349,85 
-54;female;31.9;1;no;southeast; R$ 10.928.849,00 ; R$ 1.092,88 
-37;male;37.07;1;yes;southeast; R$ 398.717.043,00 ; R$ 39.871,70 
-63;male;31.445;0;no;northeast; R$ 1.397.445.555,00 ; R$ 139.744,56 
-21;male;31.255;0;no;northwest; R$ 190.952.745,00 ; R$ 19.095,27 
-54;female;28.88;2;no;northeast; R$ 120.966.512,00 ; R$ 12.096,65 
-60;female;18.335;0;no;northeast; R$ 1.320.428.565,00 ; R$ 132.042,86 
-32;female;29.59;1;no;southeast; R$ 45.628.421,00 ; R$ 4.562,84 
-47;female;32;1;no;southwest; R$ 8.551.347,00 ; R$ 855,13 
-21;male;26.03;0;no;northeast; R$ 21.022.647,00 ; R$ 2.102,26 
-28;male;31.68;0;yes;southeast; R$ 346.721.472,00 ; R$ 34.672,15 
-63;male;33.66;3;no;southeast; R$ 151.615.344,00 ; R$ 15.161,53 
-18;male;21.78;2;no;southeast; R$ 1.188.404.858,00 ; R$ 118.840,49 
-32;male;27.835;1;no;northwest; R$ 445.440.265,00 ; R$ 44.544,03 
-38;male;19.95;1;no;northwest; R$ 58.559.025,00 ; R$ 5.855,90 
-32;male;31.5;1;no;southwest; R$ 4.076.497,00 ; R$ 407,65 
-62;female;30.495;2;no;northwest; R$ 1.501.976.005,00 ; R$ 150.197,60 
-39;female;18.3;5;yes;southwest; R$ 1.902.326,00 ; R$ 190,23 
-55;male;28.975;0;no;northeast; R$ 1.079.635.025,00 ; R$ 107.963,50 
-57;male;31.54;0;no;northwest; R$ 113.532.276,00 ; R$ 11.353,23 
-52;male;47.74;1;no;southeast; R$ 97.489.106,00 ; R$ 9.748,91 
-56;male;22.1;0;no;southwest; R$ 10.577.087,00 ; R$ 1.057,71 
-47;male;36.19;0;yes;southeast; R$ 416.760.811,00 ; R$ 41.676,08 
-55;female;29.83;0;no;northeast; R$ 112.865.387,00 ; R$ 11.286,54 
-23;male;32.7;3;no;southwest; R$ 3.591.480,00 ; R$ 359,15 
-22;female;30.4;0;yes;northwest; R$ 33.907.548,00 ; R$ 3.390,75 
-50;female;33.7;4;no;southwest; R$ 11.299.343,00 ; R$ 1.129,93 
-18;female;31.35;4;no;northeast; R$ 45.611.885,00 ; R$ 4.561,19 
-51;female;34.96;2;yes;northeast; R$ 446.411.974,00 ; R$ 44.641,20 
-22;male;33.77;0;no;southeast; R$ 16.746.323,00 ; R$ 1.674,63 
-52;female;30.875;0;no;northeast; R$ 2.304.556.616,00 ; R$ 230.455,66 
-25;female;33.99;1;no;southeast; R$ 32.271.211,00 ; R$ 3.227,12 
-33;female;19.095;2;yes;northeast; R$ 1.677.630.405,00 ; R$ 167.763,04 
-53;male;28.6;3;no;southwest; R$ 11.253.421,00 ; R$ 1.125,34 
-29;male;38.94;1;no;southeast; R$ 34.714.096,00 ; R$ 3.471,41 
-58;male;36.08;0;no;southeast; R$ 113.632.832,00 ; R$ 11.363,28 
-37;male;29.8;0;no;southwest; R$ 2.042.060.465,00 ; R$ 204.206,05 
-54;female;31.24;0;no;southeast; R$ 103.389.316,00 ; R$ 10.338,93 
-49;female;29.925;0;no;northwest; R$ 898.815.875,00 ; R$ 89.881,59 
-50;female;26.22;2;no;northwest; R$ 104.939.458,00 ; R$ 10.493,95 
-26;male;30;1;no;southwest; R$ 2.904.088,00 ; R$ 290,41 
-45;male;20.35;3;no;southeast; R$ 86.053.615,00 ; R$ 8.605,36 
-54;female;32.3;1;no;northeast; R$ 11.512.405,00 ; R$ 1.151,24 
-38;male;38.39;3;yes;southeast; R$ 419.492.441,00 ; R$ 41.949,24 
-48;female;25.85;3;yes;southeast; R$ 241.809.335,00 ; R$ 24.180,93 
-28;female;26.315;3;no;northwest; R$ 531.216.985,00 ; R$ 53.121,70 
-23;male;24.51;0;no;northeast; R$ 23.960.959,00 ; R$ 2.396,10 
-55;male;32.67;1;no;southeast; R$ 108.074.863,00 ; R$ 10.807,49 
-41;male;29.64;5;no;northeast; R$ 92.224.026,00 ; R$ 9.222,40 
-25;male;33.33;2;yes;southeast; R$ 361.245.737,00 ; R$ 36.124,57 
-33;male;35.75;1;yes;southeast; R$ 382.827.495,00 ; R$ 38.282,75 
-30;female;19.95;3;no;northwest; R$ 56.934.305,00 ; R$ 5.693,43 
-23;female;31.4;0;yes;southwest; R$ 34.166.273,00 ; R$ 3.416,63 
-46;male;38.17;2;no;southeast; R$ 83.471.643,00 ; R$ 8.347,16 
-53;female;36.86;3;yes;northwest; R$ 466.614.424,00 ; R$ 46.661,44 
-27;female;32.395;1;no;northeast; R$ 1.890.349.141,00 ; R$ 189.034,91 
-23;female;42.75;1;yes;northeast; R$ 409.041.995,00 ; R$ 40.904,20 
-63;female;25.08;0;no;northwest; R$ 142.546.082,00 ; R$ 14.254,61 
-55;male;29.9;0;no;southwest; R$ 10.214.636,00 ; R$ 1.021,46 
-35;female;35.86;2;no;southeast; R$ 58.365.204,00 ; R$ 5.836,52 
-34;male;32.8;1;no;southwest; R$ 1.435.836.437,00 ; R$ 143.583,64 
-19;female;18.6;0;no;southwest; R$ 1.728.897,00 ; R$ 172,89 
-39;female;23.87;5;no;southeast; R$ 85.823.023,00 ; R$ 8.582,30 
-27;male;45.9;2;no;southwest; R$ 3.693.428,00 ; R$ 369,34 
-57;male;40.28;0;no;northeast; R$ 2.070.902.034,00 ; R$ 207.090,20 
-52;female;18.335;0;no;northwest; R$ 999.103.765,00 ; R$ 99.910,38 
-28;male;33.82;0;no;northwest; R$ 1.967.333.573,00 ; R$ 196.733,36 
-50;female;28.12;3;no;northwest; R$ 110.855.868,00 ; R$ 11.085,59 
-44;female;25;1;no;southwest; R$ 7.623.518,00 ; R$ 762,35 
-26;female;22.23;0;no;northwest; R$ 31.762.877,00 ; R$ 3.176,29 
-33;male;30.25;0;no;southeast; R$ 37.043.545,00 ; R$ 3.704,35 
-19;female;32.49;0;yes;northwest; R$ 3.689.873.308,00 ; R$ 368.987,33 
-50;male;37.07;1;no;southeast; R$ 90.480.273,00 ; R$ 9.048,03 
-41;female;32.6;3;no;southwest; R$ 7.954.517,00 ; R$ 795,45 
-52;female;24.86;0;no;southeast; R$ 2.711.799.378,00 ; R$ 271.179,94 
-39;male;32.34;2;no;southeast; R$ 63.380.756,00 ; R$ 6.338,08 
-50;male;32.3;2;no;southwest; R$ 9.630.397,00 ; R$ 963,04 
-52;male;32.775;3;no;northwest; R$ 1.128.910.925,00 ; R$ 112.891,09 
-60;male;32.8;0;yes;southwest; R$ 5.259.082.939,00 ; R$ 525.908,29 
-20;female;31.92;0;no;northwest; R$ 22.615.688,00 ; R$ 2.261,57 
-55;male;21.5;1;no;southwest; R$ 1.079.196,00 ; R$ 107,92 
-42;male;34.1;0;no;southwest; R$ 5.979.731,00 ; R$ 597,97 
-18;female;30.305;0;no;northeast; R$ 220.373.595,00 ; R$ 22.037,36 
-58;female;36.48;0;no;northwest; R$ 122.358.392,00 ; R$ 12.235,84 
-43;female;32.56;3;yes;southeast; R$ 409.412.854,00 ; R$ 40.941,29 
-35;female;35.815;1;no;northwest; R$ 563.045.785,00 ; R$ 56.304,58 
-48;female;27.93;4;no;northwest; R$ 110.151.747,00 ; R$ 11.015,17 
-36;female;22.135;3;no;northeast; R$ 722.821.565,00 ; R$ 72.282,16 
-19;male;44.88;0;yes;southeast; R$ 397.227.462,00 ; R$ 39.722,75 
-23;female;23.18;2;no;northwest; R$ 1.442.607.385,00 ; R$ 144.260,74 
-20;female;30.59;0;no;northeast; R$ 24.597.201,00 ; R$ 2.459,72 
-32;female;41.1;0;no;southwest; R$ 3.989.841,00 ; R$ 398,98 
-43;female;34.58;1;no;northwest; R$ 77.272.532,00 ; R$ 7.727,25 
-34;male;42.13;2;no;southeast; R$ 51.241.887,00 ; R$ 5.124,19 
-30;male;38.83;1;no;southeast; R$ 1.896.317.192,00 ; R$ 189.631,72 
-18;female;28.215;0;no;northeast; R$ 220.083.085,00 ; R$ 22.008,31 
-41;female;28.31;1;no;northwest; R$ 71.535.539,00 ; R$ 7.153,55 
-35;female;26.125;0;no;northeast; R$ 522.798.875,00 ; R$ 52.279,89 
-57;male;40.37;0;no;southeast; R$ 109.825.013,00 ; R$ 10.982,50 
-29;female;24.6;2;no;southwest; R$ 4.529.477,00 ; R$ 452,95 
-32;male;35.2;2;no;southwest; R$ 4.670.640,00 ; R$ 467,06 
-37;female;34.105;1;no;northwest; R$ 611.235.295,00 ; R$ 61.123,53 
-18;male;27.36;1;yes;northeast; R$ 171.786.824,00 ; R$ 17.178,68 
-43;female;26.7;2;yes;southwest; R$ 2.247.860,00 ; R$ 224,79 
-56;female;41.91;0;no;southeast; R$ 110.936.229,00 ; R$ 11.093,62 
-38;male;29.26;2;no;northwest; R$ 64.578.434,00 ; R$ 6.457,84 
-29;male;32.11;2;no;northwest; R$ 44.339.159,00 ; R$ 4.433,92 
-22;female;27.1;0;no;southwest; R$ 2.154.361,00 ; R$ 215,44 
-52;female;24.13;1;yes;northwest; R$ 238.876.627,00 ; R$ 23.887,66 
-40;female;27.4;1;no;southwest; R$ 6.496.886,00 ; R$ 649,69 
-23;female;34.865;0;no;northeast; R$ 289.948.935,00 ; R$ 28.994,89 
-31;male;29.81;0;yes;southeast; R$ 193.503.689,00 ; R$ 19.350,37 
-42;female;41.325;1;no;northeast; R$ 765.077.375,00 ; R$ 76.507,74 
-24;female;29.925;0;no;northwest; R$ 285.068.375,00 ; R$ 28.506,84 
-25;female;30.3;0;no;southwest; R$ 2.632.992,00 ; R$ 263,30 
-48;female;27.36;1;no;northeast; R$ 94.473.824,00 ; R$ 9.447,38 
-23;female;28.49;1;yes;southeast; R$ 183.282.381,00 ; R$ 18.328,24 
-45;male;23.56;2;no;northeast; R$ 86.038.234,00 ; R$ 8.603,82 
-20;male;35.625;3;yes;northwest; R$ 3.746.534.375,00 ; R$ 374.653,44 
-62;female;32.68;0;no;northwest; R$ 138.447.972,00 ; R$ 13.844,80 
-43;female;25.27;1;yes;northeast; R$ 217.713.423,00 ; R$ 21.771,34 
-23;female;28;0;no;southwest; R$ 1.312.667.745,00 ; R$ 131.266,77 
-31;female;32.775;2;no;northwest; R$ 532.740.025,00 ; R$ 53.274,00 
-41;female;21.755;1;no;northeast; R$ 1.372.547.184,00 ; R$ 137.254,72 
-58;female;32.395;1;no;northeast; R$ 1.301.916.105,00 ; R$ 130.191,61 
-48;female;36.575;0;no;northwest; R$ 867.119.125,00 ; R$ 86.711,91 
-31;female;21.755;0;no;northwest; R$ 413.408.245,00 ; R$ 41.340,82 
-19;female;27.93;3;no;northwest; R$ 1.883.870.366,00 ; R$ 188.387,04 
-19;female;30.02;0;yes;northwest; R$ 333.075.508,00 ; R$ 33.307,55 
-41;male;33.55;0;no;southeast; R$ 56.998.375,00 ; R$ 5.699,84 
-40;male;29.355;1;no;northwest; R$ 639.360.345,00 ; R$ 63.936,03 
-31;female;25.8;2;no;southwest; R$ 4.934.705,00 ; R$ 493,47 
-37;male;24.32;2;no;northwest; R$ 61.987.518,00 ; R$ 6.198,75 
-46;male;40.375;2;no;northwest; R$ 873.322.925,00 ; R$ 87.332,29 
-22;male;32.11;0;no;northwest; R$ 20.553.249,00 ; R$ 2.055,32 
-51;male;32.3;1;no;northeast; R$ 9.964.067,00 ; R$ 996,41 
-18;female;27.28;3;yes;southeast; R$ 182.234.512,00 ; R$ 18.223,45 
-35;male;17.86;1;no;northwest; R$ 51.165.004,00 ; R$ 5.116,50 
-59;female;34.8;2;no;southwest; R$ 3.691.060.803,00 ; R$ 369.106,08 
-36;male;33.4;2;yes;southwest; R$ 38.415.474,00 ; R$ 3.841,55 
-37;female;25.555;1;yes;northeast; R$ 2.029.686.345,00 ; R$ 202.968,63 
-59;male;37.1;1;no;southwest; R$ 12.347.172,00 ; R$ 1.234,72 
-36;male;30.875;1;no;northwest; R$ 537.336.425,00 ; R$ 53.733,64 
-39;male;34.1;2;no;southeast; R$ 2.356.301.618,00 ; R$ 235.630,16 
-18;male;21.47;0;no;northeast; R$ 17.024.553,00 ; R$ 1.702,46 
-52;female;33.3;2;no;southwest; R$ 10.806.839,00 ; R$ 1.080,68 
-27;female;31.255;1;no;northwest; R$ 395.607.145,00 ; R$ 39.560,71 
-18;male;39.14;0;no;northeast; R$ 1.289.005.765,00 ; R$ 128.900,58 
-40;male;25.08;0;no;southeast; R$ 54.156.612,00 ; R$ 5.415,66 
-29;male;37.29;2;no;southeast; R$ 40.581.161,00 ; R$ 4.058,12 
-46;female;34.6;1;yes;southwest; R$ 41.661.602,00 ; R$ 4.166,16 
-38;female;30.21;3;no;northwest; R$ 75.371.639,00 ; R$ 7.537,16 
-30;female;21.945;1;no;northeast; R$ 471.820.355,00 ; R$ 47.182,04 
-40;male;24.97;2;no;southeast; R$ 65.935.083,00 ; R$ 6.593,51 
-50;male;25.3;0;no;southeast; R$ 8.442.667,00 ; R$ 844,27 
-20;female;24.42;0;yes;southeast; R$ 2.612.567.477,00 ; R$ 261.256,75 
-41;male;23.94;1;no;northeast; R$ 68.584.796,00 ; R$ 6.858,48 
-33;female;39.82;1;no;southeast; R$ 47.956.568,00 ; R$ 4.795,66 
-38;male;16.815;2;no;northeast; R$ 664.054.485,00 ; R$ 66.405,45 
-42;male;37.18;2;no;southeast; R$ 71.620.122,00 ; R$ 7.162,01 
-56;male;34.43;0;no;southeast; R$ 105.942.257,00 ; R$ 10.594,23 
-58;male;30.305;0;no;northeast; R$ 1.193.825.595,00 ; R$ 119.382,56 
-52;male;34.485;3;yes;northwest; R$ 6.002.139.897,00 ; R$ 600.213,99 
-20;female;21.8;0;yes;southwest; R$ 2.016.733.603,00 ; R$ 201.673,36 
-54;female;24.605;3;no;northwest; R$ 1.247.970.895,00 ; R$ 124.797,09 
-58;male;23.3;0;no;southwest; R$ 11.345.519,00 ; R$ 1.134,55 
-45;female;27.83;2;no;southeast; R$ 85.157.587,00 ; R$ 8.515,76 
-26;male;31.065;0;no;northwest; R$ 269.956.835,00 ; R$ 26.995,68 
-63;female;21.66;0;no;northeast; R$ 144.498.544,00 ; R$ 14.449,85 
-58;female;28.215;0;no;northwest; R$ 1.222.435.085,00 ; R$ 122.243,51 
-37;male;22.705;3;no;northeast; R$ 698.550.695,00 ; R$ 69.855,07 
-25;female;42.13;1;no;southeast; R$ 32.384.357,00 ; R$ 3.238,44 
-52;male;41.8;2;yes;southeast; R$ 47.269.854,00 ; R$ 4.726,99 
-64;male;36.96;2;yes;southeast; R$ 495.776.624,00 ; R$ 49.577,66 
-22;female;21.28;3;no;northwest; R$ 42.962.712,00 ; R$ 4.296,27 
-28;female;33.11;0;no;southeast; R$ 31.716.149,00 ; R$ 3.171,61 
-18;male;33.33;0;no;southeast; R$ 11.359.407,00 ; R$ 1.135,94 
-28;male;24.3;5;no;southwest; R$ 5.615.369,00 ; R$ 561,54 
-45;female;25.7;3;no;southwest; R$ 9.101.798,00 ; R$ 910,18 
-33;male;29.4;4;no;southwest; R$ 6.059.173,00 ; R$ 605,92 
-18;female;39.82;0;no;southeast; R$ 16.339.618,00 ; R$ 1.633,96 
-32;male;33.63;1;yes;northeast; R$ 376.075.277,00 ; R$ 37.607,53 
-24;male;29.83;0;yes;northeast; R$ 186.484.217,00 ; R$ 18.648,42 
-19;male;19.8;0;no;southwest; R$ 1.241.565,00 ; R$ 124,16 
-20;male;27.3;0;yes;southwest; R$ 16.232.847,00 ; R$ 1.623,28 
-40;female;29.3;4;no;southwest; R$ 1.582.882.173,00 ; R$ 158.288,22 
-34;female;27.72;0;no;southeast; R$ 44.151.588,00 ; R$ 4.415,16 
-42;female;37.9;0;no;southwest; R$ 6.474.013,00 ; R$ 647,40 
-51;female;36.385;3;no;northwest; R$ 1.143.673.815,00 ; R$ 114.367,38 
-54;female;27.645;1;no;northwest; R$ 1.130.593.455,00 ; R$ 113.059,35 
-55;male;37.715;3;no;northwest; R$ 3.006.358.055,00 ; R$ 300.635,81 
-52;female;23.18;0;no;northeast; R$ 101.977.722,00 ; R$ 10.197,77 
-32;female;20.52;0;no;northeast; R$ 45.442.348,00 ; R$ 4.544,23 
-28;male;37.1;1;no;southwest; R$ 3.277.161,00 ; R$ 327,72 
-41;female;28.05;1;no;southeast; R$ 67.701.925,00 ; R$ 6.770,19 
-43;female;29.9;1;no;southwest; R$ 7.337.748,00 ; R$ 733,77 
-49;female;33.345;2;no;northeast; R$ 1.037.091.255,00 ; R$ 103.709,13 
-64;male;23.76;0;yes;southeast; R$ 269.265.144,00 ; R$ 26.926,51 
-55;female;30.5;0;no;southwest; R$ 10.704.470,00 ; R$ 1.070,45 
-24;male;31.065;0;yes;northeast; R$ 3.425.405.335,00 ; R$ 342.540,53 
-20;female;33.3;0;no;southwest; R$ 1.880.487,00 ; R$ 188,05 
-45;male;27.5;3;no;southwest; R$ 1.861.533,00 ; R$ 186,15 
-26;male;33.915;1;no;northwest; R$ 329.252.985,00 ; R$ 32.925,30 
-25;female;34.485;0;no;northwest; R$ 302.180.915,00 ; R$ 30.218,09 
-43;male;25.52;5;no;southeast; R$ 1.447.833.015,00 ; R$ 144.783,30 
-35;male;27.61;1;no;southeast; R$ 47.470.529,00 ; R$ 4.747,05 
-26;male;27.06;0;yes;southeast; R$ 170.433.414,00 ; R$ 17.043,34 
-57;male;23.7;0;no;southwest; R$ 1.095.933,00 ; R$ 109,59 
-22;female;30.4;0;no;northeast; R$ 2.741.948,00 ; R$ 274,19 
-32;female;29.735;0;no;northwest; R$ 435.704.365,00 ; R$ 43.570,44 
-39;male;29.925;1;yes;northeast; R$ 2.246.204.375,00 ; R$ 224.620,44 
-25;female;26.79;2;no;northwest; R$ 41.891.131,00 ; R$ 4.189,11 
-48;female;33.33;0;no;southeast; R$ 82.836.807,00 ; R$ 8.283,68 
-47;female;27.645;2;yes;northwest; R$ 2.453.569.855,00 ; R$ 245.356,99 
-18;female;21.66;0;yes;northeast; R$ 142.834.594,00 ; R$ 14.283,46 
-18;male;30.03;1;no;southeast; R$ 17.203.537,00 ; R$ 1.720,35 
-61;male;36.3;1;yes;southwest; R$ 4.740.300,88 ; R$ 474,03 
-47;female;24.32;0;no;northeast; R$ 85.346.718,00 ; R$ 8.534,67 
-28;female;17.29;0;no;northeast; R$ 37.326.251,00 ; R$ 3.732,63 
-36;female;25.9;1;no;southwest; R$ 5.472.449,00 ; R$ 547,24 
-20;male;39.4;2;yes;southwest; R$ 38.344.566,00 ; R$ 3.834,46 
-44;male;34.32;1;no;southeast; R$ 71.474.728,00 ; R$ 7.147,47 
-38;female;19.95;2;no;northeast; R$ 71.339.025,00 ; R$ 7.133,90 
-19;male;34.9;0;yes;southwest; R$ 34.828.654,00 ; R$ 3.482,87 
-21;male;23.21;0;no;southeast; R$ 15.153.449,00 ; R$ 1.515,34 
-46;male;25.745;3;no;northwest; R$ 930.189.355,00 ; R$ 93.018,94 
-58;male;25.175;0;no;northeast; R$ 1.193.112.525,00 ; R$ 119.311,25 
-20;male;22;1;no;southwest; R$ 1.960.478,00 ; R$ 196,05 
-18;male;26.125;0;no;northeast; R$ 170.892.575,00 ; R$ 17.089,26 
-28;female;26.51;2;no;southeast; R$ 43.404.409,00 ; R$ 4.340,44 
-33;male;27.455;2;no;northwest; R$ 526.146.945,00 ; R$ 52.614,69 
-19;female;25.745;1;no;northwest; R$ 271.082.855,00 ; R$ 27.108,29 
-45;male;30.36;0;yes;southeast; R$ 6.259.287.309,00 ; R$ 625.928,73 
-62;male;30.875;3;yes;northwest; R$ 4.671.816.325,00 ; R$ 467.181,63 
-25;female;20.8;1;no;southwest; R$ 3.208.787,00 ; R$ 320,88 
-43;male;27.8;0;yes;southwest; R$ 378.297.242,00 ; R$ 37.829,72 
-42;male;24.605;2;yes;northeast; R$ 2.125.937.795,00 ; R$ 212.593,78 
-24;female;27.72;0;no;southeast; R$ 24.646.188,00 ; R$ 2.464,62 
-29;female;21.85;0;yes;northeast; R$ 161.153.045,00 ; R$ 16.115,30 
-32;male;28.12;4;yes;northwest; R$ 214.724.788,00 ; R$ 21.472,48 
-25;female;30.2;0;yes;southwest; R$ 33.900.653,00 ; R$ 3.390,07 
-41;male;32.2;2;no;southwest; R$ 6.875.961,00 ; R$ 687,60 
-42;male;26.315;1;no;northwest; R$ 694.090.985,00 ; R$ 69.409,10 
-33;female;26.695;0;no;northwest; R$ 457.141.305,00 ; R$ 45.714,13 
-34;male;42.9;1;no;southwest; R$ 4.536.259,00 ; R$ 453,63 
-19;female;34.7;2;yes;southwest; R$ 36.397.576,00 ; R$ 3.639,76 
-30;female;23.655;3;yes;northwest; R$ 1.876.587.545,00 ; R$ 187.658,75 
-18;male;28.31;1;no;northeast; R$ 1.127.233.139,00 ; R$ 112.723,31 
-19;female;20.6;0;no;southwest; R$ 1.731.677,00 ; R$ 173,17 
-18;male;53.13;0;no;southeast; R$ 11.634.627,00 ; R$ 1.163,46 
-35;male;39.71;4;no;northeast; R$ 1.949.671.917,00 ; R$ 194.967,19 
-39;female;26.315;2;no;northwest; R$ 720.170.085,00 ; R$ 72.017,01 
-31;male;31.065;3;no;northwest; R$ 542.502.335,00 ; R$ 54.250,23 
-62;male;26.695;0;yes;northeast; R$ 2.810.133.305,00 ; R$ 281.013,33 
-62;male;38.83;0;no;southeast; R$ 129.813.457,00 ; R$ 12.981,35 
-42;female;40.37;2;yes;southeast; R$ 438.963.763,00 ; R$ 43.896,38 
-31;male;25.935;1;no;northwest; R$ 423.989.265,00 ; R$ 42.398,93 
-61;male;33.535;0;no;northeast; R$ 1.314.333.665,00 ; R$ 131.433,37 
-42;female;32.87;0;no;northeast; R$ 70.500.213,00 ; R$ 7.050,02 
-51;male;30.03;1;no;southeast; R$ 93.779.047,00 ; R$ 9.377,90 
-23;female;24.225;2;no;northeast; R$ 2.239.574.424,00 ; R$ 223.957,44 
-52;male;38.6;2;no;southwest; R$ 10.325.206,00 ; R$ 1.032,52 
-57;female;25.74;2;no;southeast; R$ 126.291.656,00 ; R$ 12.629,17 
-23;female;33.4;0;no;southwest; R$ 1.079.593.733,00 ; R$ 107.959,37 
-52;female;44.7;3;no;southwest; R$ 11.411.685,00 ; R$ 1.141,17 
-50;male;30.97;3;no;northwest; R$ 106.005.483,00 ; R$ 10.600,55 
-18;female;31.92;0;no;northeast; R$ 22.059.808,00 ; R$ 2.205,98 
-18;female;36.85;0;no;southeast; R$ 16.298.335,00 ; R$ 1.629,83 
-21;female;25.8;0;no;southwest; R$ 2.007.945,00 ; R$ 200,79 
-61;female;29.07;0;yes;northwest; R$ 291.413.603,00 ; R$ 29.141,36 
+bmi;children;smoker;region; charges 
+27.9;0;yes;southwest; R$ 168,85 
+33.77;1;no;southeast; R$ 1.725,55 
+33;3;no;southeast; R$ 444,95 
+22705;0;no;northwest; R$ 219.844,71 
+28.88;0;no;northwest; R$ 3.866,86 
+25.74;0;no;southeast; R$ 3.756,62 
+33.44;1;no;southeast; R$ 8.240,59 
+27.74;3;no;northwest; R$ 7.281,51 
+29.83;2;no;northeast; R$ 6.406,41 
+25.84;0;no;northwest; R$ 289.231,37 
+26.22;0;no;northeast; R$ 2.721,32 
+26.29;0;yes;southeast; R$ 27.808,73 
+34.4;0;no;southwest; R$ 182,68 
+39.82;0;no;southeast; R$ 11.090,72 
+42.13;0;yes;southeast; R$ 39.611,76 
+24.6;1;no;southwest; R$ 183,72 
+30.78;1;no;northeast; R$ 10.797,34 
+23845;0;no;northeast; R$ 23.951,72 
+40.3;0;no;southwest; R$ 1.060,24 
+35.3;0;yes;southwest; R$ 3.683,75 
+36005;0;no;northeast; R$ 132.288,47 
+32.4;1;no;southwest; R$ 414,97 
+34.1;0;no;southeast; R$ 113,70 
+31.92;1;yes;northeast; R$ 37.701,88 
+28025;2;no;northwest; R$ 62.039,02 
+27.72;3;no;southeast; R$ 14.001,13 
+23085;0;no;northeast; R$ 144.518,35 
+32775;2;no;northwest; R$ 122.686,32 
+17385;1;no;northwest; R$ 27.751,92 
+36.3;2;yes;southwest; R$ 3,87 
+35.6;0;yes;southwest; R$ 3.558,56 
+26315;0;no;northeast; R$ 21.981,90 
+28.6;5;no;southwest; R$ 468,78 
+28.31;0;no;northwest; R$ 13.770,10 
+36.4;1;yes;southwest; R$ 511.945,59 
+20425;0;no;northwest; R$ 16.254,34 
+32965;3;no;northwest; R$ 156.121,93 
+20.8;0;no;southwest; R$ 230,23 
+36.67;1;yes;northeast; R$ 39.774,28 
+39.9;0;yes;southwest; R$ 4.817,34 
+26.6;0;no;northeast; R$ 304,61 
+36.63;2;no;southeast; R$ 4.949,76 
+21.78;1;no;southeast; R$ 6.272,48 
+30.8;2;no;southeast; R$ 631,38 
+37.05;1;no;northeast; R$ 6.079,67 
+37.3;0;no;southwest; R$ 206.302,84 
+38665;2;no;northeast; R$ 33.933,56 
+34.77;0;no;northwest; R$ 3.556,92 
+24.53;0;no;southeast; R$ 12.629,90 
+35.2;1;yes;southeast; R$ 3.870,92 
+35625;0;no;northeast; R$ 22.111,31 
+33.63;2;no;northwest; R$ 3.579,83 
+28;1;yes;southwest; R$ 2.356,83 
+34.43;0;yes;southeast; R$ 37.742,58 
+28.69;3;no;northwest; R$ 8.059,68 
+36955;2;yes;northwest; R$ 474.964,94 
+31825;2;no;northeast; R$ 136.073,69 
+31.68;2;yes;southeast; R$ 34.303,17 
+22.88;1;yes;southeast; R$ 23.244,79 
+37335;2;no;northwest; R$ 59.895,24 
+27.36;3;no;northeast; R$ 8.606,22 
+33.66;4;no;southeast; R$ 4.504,66 
+24.7;1;no;northwest; R$ 301.666,18 
+25935;1;no;northwest; R$ 41.336,42 
+22.42;0;yes;northwest; R$ 14.711,74 
+28.9;0;no;southwest; R$ 174,32 
+39.1;2;no;southwest; R$ 1.423,51 
+26315;1;no;northwest; R$ 63.893,78 
+36.19;0;no;southeast; R$ 5.920,10 
+23.98;3;yes;southeast; R$ 17.663,14 
+24.75;0;yes;southeast; R$ 16.577,78 
+28.5;5;no;northeast; R$ 679,95 
+28.1;3;no;southwest; R$ 1.174,17 
+32.01;1;no;southeast; R$ 11.946,63 
+27.4;2;no;southwest; R$ 772,69 
+34.01;0;no;northwest; R$ 11.356,66 
+29.59;1;no;southeast; R$ 3.947,41 
+35.53;0;no;southeast; R$ 1.532,47 
+39805;0;no;northeast; R$ 27.550,21 
+32965;0;no;northwest; R$ 65.710,24 
+26885;1;no;northeast; R$ 44.412,13 
+38285;0;no;northeast; R$ 79.352,91 
+37.62;1;yes;southeast; R$ 37.165,16 
+41.23;4;no;northwest; R$ 11.033,66 
+34.8;2;yes;southwest; R$ 3.983,65 
+22895;2;yes;northwest; R$ 210.985,54 
+31.16;0;yes;northwest; R$ 43.578,94 
+27.2;0;no;southwest; R$ 1.107,32 
+27.74;0;no;northwest; R$ 8.026,67 
+26.98;0;no;northwest; R$ 11.082,58 
+39.49;0;no;southeast; R$ 2.026,97 
+24795;1;no;northwest; R$ 109.421,32 
+29.83;3;yes;northeast; R$ 30.184,94 
+34.77;2;no;northwest; R$ 5.729,01 
+31.3;2;yes;southwest; R$ 4.729,11 
+37.62;1;no;southeast; R$ 3.766,88 
+30.8;3;no;southwest; R$ 1.210,53 
+38.28;0;no;southeast; R$ 10.226,28 
+19.95;0;yes;northeast; R$ 22.412,65 
+19.3;0;yes;southwest; R$ 1.582,07 
+31.6;0;no;southwest; R$ 618,61 
+25.46;0;no;northeast; R$ 3.645,09 
+30115;0;no;northeast; R$ 21.344,85 
+29.92;3;yes;southeast; R$ 30.942,19 
+27.5;1;no;southwest; R$ 500,39 
+28025;1;yes;northwest; R$ 175.603,80 
+28.4;1;no;southwest; R$ 233,15 
+30875;2;no;northwest; R$ 38.773,04 
+27.94;0;no;southeast; R$ 2.867,12 
+35.09;0;yes;southeast; R$ 47.055,53 
+33.63;1;no;northwest; R$ 10.825,25 
+29.7;2;no;southwest; R$ 1.188,14 
+30.8;0;no;southwest; R$ 464,68 
+35.72;0;no;northwest; R$ 2.404,73 
+32205;3;no;northeast; R$ 114.883,17 
+28595;0;no;northeast; R$ 302.599,96 
+49.06;0;no;southeast; R$ 11.381,33 
+27.94;1;yes;southeast; R$ 19.107,78 
+27.17;0;no;southeast; R$ 8.601,33 
+23.37;2;no;northwest; R$ 6.686,43 
+37.1;2;no;southwest; R$ 774,03 
+23.75;0;no;northeast; R$ 1.705,62 
+28975;0;no;northwest; R$ 22.574,75 
+31.35;1;yes;northeast; R$ 39.556,49 
+33915;3;no;northwest; R$ 101.150,09 
+28785;0;no;northeast; R$ 33.853,99 
+28.3;0;yes;southwest; R$ 170,81 
+37.4;0;no;southwest; R$ 963,45 
+17765;2;yes;northwest; R$ 32.734,19 
+34.7;2;no;southwest; R$ 608,24 
+26505;0;no;northeast; R$ 128.154,45 
+22.04;0;no;northeast; R$ 13.616,36 
+35.9;2;no;southwest; R$ 1.116,36 
+25555;0;no;northwest; R$ 16.325,64 
+28785;0;no;northeast; R$ 24.572,11 
+28.05;0;no;southeast; R$ 2.155,68 
+34.1;0;no;southwest; R$ 126,14 
+25175;0;no;northwest; R$ 20.456,85 
+31.9;3;no;southeast; R$ 273.227,34 
+36;0;no;southwest; R$ 216,67 
+22.42;2;no;northeast; R$ 273.759,05 
+32.49;1;no;northeast; R$ 3.490,55 
+25.3;2;yes;southeast; R$ 1.897,25 
+29735;2;no;northwest; R$ 1.815,79 
+28.69;3;yes;northwest; R$ 20.745,99 
+38.83;3;no;southeast; R$ 5.138,26 
+30495;3;yes;northwest; R$ 407.205,51 
+37.73;1;no;southeast; R$ 9.877,61 
+37.43;1;no;northwest; R$ 10.959,69 
+28.4;1;no;southwest; R$ 184,25 
+24.13;1;no;northwest; R$ 5.125,22 
+29.7;0;no;southeast; R$ 778,96 
+37145;3;no;northeast; R$ 63.343,44 
+23.37;0;yes;northeast; R$ 19.964,75 
+25.46;1;no;northeast; R$ 7.077,19 
+39.52;0;no;northwest; R$ 6.948,70 
+24.42;0;yes;southeast; R$ 21.223,68 
+25175;0;yes;northeast; R$ 155.181,80 
+35.53;0;yes;southeast; R$ 36.950,26 
+27.83;3;no;southeast; R$ 197.493,83 
+26.6;0;yes;northwest; R$ 2.134,87 
+36.85;0;yes;southeast; R$ 36.149,48 
+39.6;1;no;southwest; R$ 1.045,06 
+29.8;2;no;southwest; R$ 515,21 
+29.64;0;no;northwest; R$ 5.028,15 
+28215;4;no;northeast; R$ 104.070,86 
+37;5;no;southwest; R$ 483,06 
+33155;3;no;northwest; R$ 61.287,97 
+31825;1;no;northwest; R$ 27.192,80 
+18905;3;no;northeast; R$ 48.279,05 
+41.47;0;no;southeast; R$ 13.405,39 
+30.3;0;no;southwest; R$ 811,67 
+15.96;0;no;northeast; R$ 1.694,80 
+34.8;1;no;southwest; R$ 524,60 
+33345;0;no;northwest; R$ 28.554,38 
+37.7;0;yes;southwest; R$ 488,24 
+27835;2;no;northwest; R$ 64.558,63 
+29.2;1;no;southwest; R$ 1.043,61 
+28.9;2;no;southwest; R$ 882,33 
+33155;3;no;northeast; R$ 85.382,88 
+28595;0;no;northwest; R$ 117.358,79 
+38.28;0;no;southeast; R$ 1.631,82 
+19.95;3;no;northeast; R$ 4.005,42 
+26.41;0;no;northwest; R$ 7.419,48 
+30.69;2;no;southeast; R$ 7.731,43 
+41895;3;yes;northeast; R$ 437.533,37 
+29.92;2;no;southeast; R$ 3.981,98 
+30.9;3;no;southwest; R$ 532,57 
+32.2;1;no;southwest; R$ 677,60 
+32.11;2;no;northwest; R$ 4.922,92 
+31.57;0;no;southeast; R$ 12.557,61 
+26.2;0;no;southwest; R$ 488,39 
+25.74;0;no;southeast; R$ 2.137,65 
+26.6;1;no;northwest; R$ 1.204,43 
+34.43;0;no;southeast; R$ 1.137,47 
+30.59;0;no;northwest; R$ 1.639,56 
+32.8;0;no;southwest; R$ 564,97 
+28.6;2;no;southeast; R$ 851,68 
+18.05;0;no;northwest; R$ 9.644,25 
+39.33;0;no;northeast; R$ 14.901,52 
+32.11;0;no;northwest; R$ 2.130,68 
+32.23;1;no;southeast; R$ 8.871,15 
+24035;0;no;northwest; R$ 130.122,09 
+36.08;0;yes;southeast; R$ 37.133,90 
+22.3;0;no;southwest; R$ 714,71 
+28.88;1;no;northeast; R$ 4.337,74 
+26.4;0;no;southeast; R$ 1.174,33 
+27.74;2;yes;northeast; R$ 20.984,09 
+31.8;0;no;southwest; R$ 1.388,09 
+41.23;1;no;northeast; R$ 6.610,11 
+33;1;no;southwest; R$ 198,01 
+30875;4;no;northwest; R$ 81.627,16 
+28.5;2;no;northwest; R$ 353,77 
+26.73;1;no;southeast; R$ 5.002,78 
+30.9;2;no;southwest; R$ 852,00 
+37.1;2;no;southwest; R$ 737,18 
+26.6;0;no;northwest; R$ 1.035,56 
+23.1;0;no;southeast; R$ 248,37 
+29.92;1;no;southeast; R$ 3.392,98 
+23.21;0;no;southeast; R$ 250.817,68 
+33.7;1;no;southwest; R$ 501,25 
+33.25;0;no;northeast; R$ 10.564,88 
+30.8;3;no;southwest; R$ 525,35 
+34.8;0;yes;southwest; R$ 3.477,96 
+24.64;0;yes;southeast; R$ 19.515,54 
+33.88;3;no;southeast; R$ 11.987,17 
+38.06;0;no;southeast; R$ 2.689,50 
+41.91;0;no;southeast; R$ 242.273,37 
+31635;1;no;northeast; R$ 73.581,76 
+25.46;2;no;northeast; R$ 9.225,26 
+36195;1;no;northwest; R$ 74.436,43 
+27.83;3;no;southeast; R$ 14.001,29 
+17.8;0;no;southwest; R$ 172,78 
+27.5;1;no;southwest; R$ 1.233,38 
+24.51;2;no;northwest; R$ 6.710,19 
+22.22;2;yes;southeast; R$ 19.444,27 
+26.73;0;no;southeast; R$ 1.615,77 
+38.39;2;no;southeast; R$ 4.463,21 
+29.07;0;yes;northwest; R$ 17.352,68 
+38.06;1;no;southeast; R$ 7.152,67 
+36.67;2;yes;northeast; R$ 38.511,63 
+22135;1;no;northeast; R$ 53.540,75 
+26.8;1;no;southwest; R$ 351.601,35 
+35.3;3;no;southwest; R$ 719,69 
+27.74;0;yes;northeast; R$ 29.523,17 
+30.02;0;no;northwest; R$ 244.764,79 
+38.06;0;no;southeast; R$ 12.648,70 
+35.86;0;no;southeast; R$ 1.986,93 
+20.9;1;no;southwest; R$ 183,21 
+28975;1;no;northeast; R$ 40.405,58 
+17.29;2;yes;northeast; R$ 12.829,46 
+32.2;2;yes;southwest; R$ 4.730,53 
+34.21;2;yes;southeast; R$ 44.260,75 
+30.3;3;no;southwest; R$ 426,07 
+31825;0;yes;northeast; R$ 410.971,62 
+25365;3;no;northeast; R$ 130.473,32 
+33.63;0;yes;northwest; R$ 43.921,18 
+40.15;0;no;southeast; R$ 5.400,98 
+24415;4;no;northwest; R$ 115.201,00 
+31.92;0;yes;northwest; R$ 33.750,29 
+25.2;0;no;southwest; R$ 118,37 
+26.84;1;yes;southeast; R$ 17.085,27 
+24.32;3;yes;northeast; R$ 24.869,84 
+36955;0;yes;northwest; R$ 362.194,05 
+38.06;3;no;southeast; R$ 204.629,98 
+42.35;3;yes;southeast; R$ 46.151,12 
+19.8;1;yes;southeast; R$ 1.717,95 
+32395;3;no;northeast; R$ 145.906,32 
+30.2;1;no;southwest; R$ 744,11 
+25.84;1;no;northeast; R$ 9.282,48 
+29.37;1;no;southeast; R$ 1.719,44 
+34.2;2;yes;southwest; R$ 4.285,68 
+37.05;2;no;northwest; R$ 7.265,70 
+27455;1;no;northeast; R$ 96.176,62 
+27.55;0;no;northwest; R$ 2.523,17 
+26.6;2;no;northeast; R$ 971,58 
+20615;2;no;northwest; R$ 28.036,98 
+24.3;0;no;southwest; R$ 215,05 
+31.79;2;no;southeast; R$ 12.928,79 
+21.56;1;no;southeast; R$ 9.855,13 
+28.12;1;yes;northeast; R$ 22.331,57 
+40565;3;yes;northeast; R$ 485.491,78 
+27645;1;no;northeast; R$ 42.371,27 
+32395;1;no;northeast; R$ 118.791,04 
+31.2;0;no;southwest; R$ 96,26 
+26.62;1;no;southeast; R$ 7.742,11 
+48.07;2;no;northeast; R$ 9.432,93 
+26.22;0;no;northwest; R$ 14.256,19 
+36765;1;yes;northeast; R$ 478.967,91 
+26.4;3;no;southeast; R$ 259.928,21 
+33.4;0;no;southwest; R$ 317,20 
+29.64;1;no;northeast; R$ 202.778,08 
+45.54;2;yes;southeast; R$ 42.112,24 
+28.82;0;no;southeast; R$ 2.156,75 
+26.8;3;no;southwest; R$ 390,61 
+22.99;0;no;northeast; R$ 1.704,57 
+27.7;0;yes;southwest; R$ 1.629,78 
+25.41;1;yes;southeast; R$ 21.978,68 
+34.39;3;yes;northwest; R$ 38.746,36 
+28.88;1;no;northwest; R$ 9.249,50 
+27.55;3;no;northeast; R$ 6.746,74 
+22.61;3;yes;northeast; R$ 24.873,38 
+37.51;2;no;southeast; R$ 12.265,51 
+33;2;no;southeast; R$ 434,95 
+38;2;no;southwest; R$ 1.264,62 
+33345;2;no;northwest; R$ 19.442,35 
+27.5;2;no;southwest; R$ 201.776,71 
+33.33;1;no;southeast; R$ 4.151,03 
+34865;0;no;northeast; R$ 119.445,94 
+33.06;2;no;northwest; R$ 7.749,16 
+26.6;0;no;southwest; R$ 844,45 
+24.7;0;no;southwest; R$ 173,74 
+35.97;3;yes;southeast; R$ 42.124,52 
+35.86;0;no;southeast; R$ 8.124,41 
+31.4;0;yes;southwest; R$ 3.483,89 
+33.25;0;no;northeast; R$ 9.722,77 
+32205;0;no;northwest; R$ 88.352,65 
+32775;0;no;northeast; R$ 104.350,65 
+27645;0;no;northwest; R$ 74.211,95 
+37335;1;no;northeast; R$ 46.676,08 
+25.27;1;no;northwest; R$ 4.894,75 
+29.64;4;no;northeast; R$ 246.716,63 
+30.8;0;yes;southwest; R$ 354,92 
+40945;0;no;northeast; R$ 115.663,01 
+27.2;0;no;southwest; R$ 286,61 
+34105;1;no;northeast; R$ 66.002,06 
+23.21;1;no;southeast; R$ 3.561,89 
+36.48;2;yes;northwest; R$ 42.760,50 
+33.8;1;yes;southwest; R$ 479,28 
+36.7;0;no;southwest; R$ 914,46 
+36385;1;yes;northeast; R$ 485.175,63 
+27.36;0;yes;northwest; R$ 24.393,62 
+31.16;0;no;northwest; R$ 13.429,04 
+28785;0;no;northeast; R$ 116.583,79 
+35.72;2;no;northeast; R$ 191.445,77 
+34.5;0;no;southwest; R$ 1.382,28 
+25.74;0;no;southeast; R$ 12.142,58 
+27.55;1;no;northwest; R$ 13.937,67 
+32.3;1;yes;northeast; R$ 4.191,91 
+27.72;1;no;southeast; R$ 8.232,64 
+27.6;0;no;southwest; R$ 189.552,20 
+30.02;0;no;northwest; R$ 13.352,10 
+27.55;0;no;northeast; R$ 13.217,09 
+36765;0;no;northeast; R$ 139.818,50 
+41.47;4;no;southeast; R$ 10.977,21 
+29.26;3;no;southeast; R$ 6.184,30 
+35.75;2;no;southeast; R$ 4.890,00 
+33345;1;no;northeast; R$ 83.344,58 
+29.92;1;no;southeast; R$ 5.478,04 
+27835;0;no;northwest; R$ 16.357,34 
+23.18;0;no;northwest; R$ 11.830,61 
+25.6;0;no;southwest; R$ 893,21 
+27.7;0;no;southwest; R$ 355,42 
+35245;0;no;northeast; R$ 12.404,88 
+38.28;0;no;southeast; R$ 141.330,38 
+27.6;0;no;southwest; R$ 246.030,48 
+43.89;3;no;southeast; R$ 8.944,12 
+29.83;3;no;northwest; R$ 9.620,33 
+41.91;0;no;southeast; R$ 1.837,28 
+20.79;0;no;southeast; R$ 1.607,51 
+32.3;2;no;northeast; R$ 1.004,32 
+30.5;1;no;southwest; R$ 475,11 
+21.7;0;yes;southwest; R$ 1.384,45 
+26.4;1;no;southwest; R$ 259,78 
+21.89;2;no;southeast; R$ 3.180,51 
+30.78;1;no;northeast; R$ 9.778,35 
+32.3;3;no;northeast; R$ 1.343,03 
+24985;2;no;northwest; R$ 80.170,61 
+32015;2;no;northwest; R$ 81.162,69 
+30.4;3;no;northeast; R$ 348,19 
+21.09;0;no;northwest; R$ 13.415,04 
+22.23;0;no;northeast; R$ 12.029,29 
+33155;1;no;northeast; R$ 76.394,17 
+32.9;2;yes;southwest; R$ 3.608,52 
+33.33;0;no;southeast; R$ 1.391,53 
+28.31;0;yes;northwest; R$ 18.033,97 
+24.89;3;yes;northeast; R$ 21.659,93 
+40.15;0;yes;southeast; R$ 38.126,25 
+30115;3;no;northwest; R$ 164.557,08 
+31.46;1;no;southeast; R$ 270.009,85 
+17955;2;yes;northeast; R$ 150.065,79 
+30685;0;yes;northeast; R$ 423.036,92 
+33;0;no;southeast; R$ 207.814,89 
+43.34;2;no;southeast; R$ 5.846,92 
+22135;2;no;northeast; R$ 83.025,36 
+34.4;0;no;southwest; R$ 126,19 
+39.05;0;no;southeast; R$ 11.856,41 
+25365;2;no;northwest; R$ 302.846,43 
+22.61;0;no;northwest; R$ 3.176,82 
+30.21;3;no;northwest; R$ 4.618,08 
+35625;4;no;northeast; R$ 107.368,71 
+37.43;0;no;northwest; R$ 2.138,07 
+31445;1;no;northeast; R$ 89.640,61 
+31.35;1;no;northeast; R$ 9.290,14 
+32.3;2;no;northeast; R$ 941,10 
+19855;0;no;northwest; R$ 75.267,06 
+34.4;3;no;southwest; R$ 852,20 
+31.02;0;no;southeast; R$ 165.864,98 
+25.6;2;no;southwest; R$ 1.498,84 
+38.17;0;no;southeast; R$ 1.631,67 
+20.6;0;no;southwest; R$ 926,48 
+47.52;1;no;southeast; R$ 8.083,92 
+32965;0;no;northwest; R$ 146.926,69 
+32.3;3;no;northwest; R$ 102,69 
+20.4;0;no;southwest; R$ 326,02 
+38.38;2;no;northeast; R$ 11.396,90 
+24.31;0;no;southeast; R$ 4.185,10 
+23.6;1;no;southwest; R$ 853,97 
+21.12;3;no;southeast; R$ 6.652,53 
+30.03;1;no;southeast; R$ 4.074,45 
+17.48;0;no;northwest; R$ 1.621,34 
+20235;1;yes;northeast; R$ 195.948,10 
+17195;2;yes;northeast; R$ 144.556,44 
+23.9;5;no;southwest; R$ 508,01 
+35.15;0;no;northwest; R$ 2.134,90 
+35.64;1;no;southeast; R$ 7.345,73 
+34.1;0;no;southeast; R$ 914,10 
+22.6;2;yes;southwest; R$ 1.860,83 
+39.16;1;no;southeast; R$ 14.418,28 
+26.98;0;yes;northwest; R$ 28.950,47 
+33.88;0;yes;southeast; R$ 46.889,26 
+35.86;0;yes;southeast; R$ 46.599,11 
+32775;1;yes;northeast; R$ 391.253,32 
+30.59;0;no;northeast; R$ 2.727,40 
+30.2;2;no;southwest; R$ 896,83 
+24.31;5;no;southeast; R$ 9.788,87 
+27265;1;no;northeast; R$ 65.550,70 
+29165;0;no;northeast; R$ 732.373,48 
+16815;1;no;northeast; R$ 31.674,56 
+30.4;3;no;northwest; R$ 18.804,75 
+33.1;0;no;southwest; R$ 230.829,55 
+20235;2;no;northwest; R$ 49.064,10 
+26.9;0;no;southwest; R$ 596,97 
+30.5;0;no;southwest; R$ 1.263,82 
+28595;1;no;northwest; R$ 42.435,90 
+33.11;3;no;southeast; R$ 13.919,82 
+31.73;0;no;northeast; R$ 2.254,80 
+28.9;3;no;southwest; R$ 592,68 
+46.75;5;no;southeast; R$ 12.592,53 
+29.45;0;no;northeast; R$ 2.897,32 
+32.68;1;no;northwest; R$ 4.738,27 
+33.5;0;yes;southwest; R$ 3.707,94 
+43.01;0;no;southeast; R$ 1.149,40 
+36.52;1;no;southeast; R$ 282.878,98 
+26695;1;yes;northwest; R$ 261.093,29 
+33.1;0;no;southwest; R$ 734,51 
+29.64;0;no;northeast; R$ 12.731,00 
+25.65;0;no;northwest; R$ 11.454,02 
+29.6;0;no;southwest; R$ 591,09 
+38.6;1;no;southwest; R$ 476,23 
+29.6;4;no;southwest; R$ 751,23 
+24.13;1;no;northwest; R$ 4.032,24 
+23.4;0;no;southwest; R$ 196,96 
+29735;0;no;northwest; R$ 17.695,32 
+46.53;2;no;southeast; R$ 4.686,39 
+37.4;0;no;southwest; R$ 21.797,00 
+30.14;2;no;southeast; R$ 11.881,97 
+30495;0;no;northwest; R$ 118.407,75 
+39.6;0;no;southwest; R$ 1.060,14 
+33;3;no;southeast; R$ 768,27 
+36.63;3;no;southeast; R$ 10.381,48 
+30;0;yes;southwest; R$ 2.214,40 
+38095;2;no;northeast; R$ 152.303,24 
+25935;0;no;northeast; R$ 111.654,18 
+25175;0;no;northwest; R$ 16.320,36 
+28.38;1;yes;southeast; R$ 19.521,97 
+28.7;1;no;southwest; R$ 1.322,47 
+33.82;2;no;northwest; R$ 12.643,38 
+24.32;1;no;northeast; R$ 23.288,93 
+24.09;1;no;southeast; R$ 2.201,10 
+32.67;0;no;southeast; R$ 2.497,04 
+30115;0;no;northeast; R$ 22.034,72 
+29.8;0;no;southwest; R$ 174,45 
+33345;0;no;northeast; R$ 208.787,84 
+25.1;3;yes;southwest; R$ 2.538,23 
+28.31;1;yes;northwest; R$ 28.868,66 
+28.5;0;yes;northeast; R$ 351.475,28 
+35625;0;no;northwest; R$ 25.343,94 
+36.85;0;no;southeast; R$ 1.534,30 
+32.56;0;no;southeast; R$ 1.824,29 
+41325;3;no;northwest; R$ 155.551,89 
+37.51;2;no;southeast; R$ 9.304,70 
+31.35;0;no;southeast; R$ 1.622,19 
+39.5;1;no;southwest; R$ 988,01 
+34.3;3;no;southwest; R$ 956,30 
+31065;0;no;northeast; R$ 43.470,23 
+21.47;3;no;northwest; R$ 12.475,35 
+28.7;0;no;southwest; R$ 125,39 
+38.06;0;yes;southeast; R$ 488.851,36 
+31.16;1;no;northwest; R$ 10.461,98 
+32.9;0;no;southwest; R$ 174,88 
+25.08;0;no;southeast; R$ 245.130,91 
+25.08;0;no;northeast; R$ 2.196,47 
+43.4;0;no;southwest; R$ 1.257,40 
+25.7;4;yes;southwest; R$ 1.794,21 
+27.93;0;no;northeast; R$ 1.967,02 
+23.6;2;no;southwest; R$ 493,16 
+28.7;2;no;southwest; R$ 802,80 
+23.98;2;no;southeast; R$ 8.211,10 
+39.2;0;no;southwest; R$ 134,71 
+34.4;0;yes;southwest; R$ 3.619,77 
+26.03;0;no;northeast; R$ 6.837,37 
+23.21;1;yes;southeast; R$ 22.218,11 
+30.25;0;yes;southeast; R$ 32.548,34 
+28.93;1;no;southeast; R$ 5.974,38 
+30875;3;no;northwest; R$ 67.968,63 
+31.35;1;no;northwest; R$ 2.643,27 
+23.75;2;no;northwest; R$ 3.077,10 
+25.27;0;no;northeast; R$ 3.044,21 
+28.7;0;no;southwest; R$ 114,55 
+32.11;1;no;northeast; R$ 11.763,00 
+33.66;0;no;southeast; R$ 2.498,41 
+22.42;0;no;northeast; R$ 9.361,33 
+30.4;0;no;southwest; R$ 125,63 
+28.3;1;yes;southwest; R$ 210,82 
+35.7;0;no;southwest; R$ 1.136,28 
+35.31;1;no;southeast; R$ 277.242,89 
+30495;2;no;northwest; R$ 84.134,63 
+31;1;no;southwest; R$ 524,08 
+30875;0;no;northeast; R$ 38.577,59 
+27.36;0;no;northeast; R$ 256.565,75 
+44.22;0;no;southeast; R$ 3.994,18 
+33915;0;no;northeast; R$ 98.663,05 
+37.73;0;no;southeast; R$ 5.397,62 
+26.07;1;yes;southeast; R$ 382.455,93 
+33.88;0;no;southeast; R$ 114.826,35 
+30.59;2;no;northwest; R$ 240.596,80 
+25.8;1;no;southwest; R$ 986,10 
+39425;1;no;northeast; R$ 83.429,09 
+25.46;0;no;northeast; R$ 1.708,00 
+42.13;1;yes;southeast; R$ 48.675,52 
+31.73;0;no;northeast; R$ 14.043,48 
+29.7;2;no;southeast; R$ 1.292,59 
+36.19;0;no;southeast; R$ 192.147,06 
+40.48;0;no;southeast; R$ 13.831,12 
+28025;1;no;northeast; R$ 60.671,27 
+38.9;3;no;southwest; R$ 597,24 
+30.2;2;no;southwest; R$ 882,51 
+28.05;1;no;southeast; R$ 8.233,10 
+31.35;0;no;southeast; R$ 273.460,42 
+38;3;no;southwest; R$ 619,64 
+31.79;2;no;southeast; R$ 3.056,39 
+36.3;0;no;southeast; R$ 1.388,72 
+47.41;0;yes;southeast; R$ 637.704,28 
+30.21;0;no;northwest; R$ 10.231,50 
+25.84;2;yes;northwest; R$ 23.807,24 
+35435;0;no;northeast; R$ 32.688,47 
+46.7;2;no;southwest; R$ 1.153,84 
+28595;0;no;northeast; R$ 32.136,22 
+46.2;0;yes;southeast; R$ 4.586,32 
+30.8;0;no;southwest; R$ 1.339,06 
+28.93;0;no;southeast; R$ 3.972,92 
+21.4;0;no;southwest; R$ 1.295,71 
+31.73;2;no;northwest; R$ 11.187,66 
+41325;0;no;northeast; R$ 178.789,01 
+23.8;2;no;southwest; R$ 384,77 
+33.44;1;no;northeast; R$ 8.334,59 
+34.21;0;no;southeast; R$ 3.935,18 
+34105;3;yes;northwest; R$ 399.834,26 
+35.53;0;no;northwest; R$ 1.646,43 
+19.95;2;no;northwest; R$ 9.193,84 
+32.68;0;no;northeast; R$ 10.923,93 
+30.5;0;no;southwest; R$ 249,40 
+44.77;1;no;southeast; R$ 9.058,73 
+32.12;2;no;southeast; R$ 2.801,26 
+30495;0;no;northwest; R$ 21.284,31 
+40565;1;no;northwest; R$ 63.735,57 
+30.59;2;no;northwest; R$ 7.256,72 
+31.9;5;no;southwest; R$ 1.155,29 
+40565;2;yes;northwest; R$ 457.020,22 
+29.1;0;no;southwest; R$ 376,13 
+37.29;1;no;southeast; R$ 2.219,45 
+43.12;2;no;southeast; R$ 4.753,64 
+36.86;1;no;northeast; R$ 316.200,01 
+34295;2;no;northeast; R$ 132.240,57 
+27.17;0;no;northwest; R$ 12.222,90 
+26.84;0;no;southeast; R$ 1.665,00 
+38095;1;yes;northeast; R$ 585.710,74 
+30.2;1;no;southwest; R$ 972,45 
+23465;0;no;northeast; R$ 32.064,91 
+25.46;1;no;northeast; R$ 12.913,99 
+30.59;0;no;northwest; R$ 1.639,56 
+45.43;2;no;southeast; R$ 6.356,27 
+23.65;1;no;southeast; R$ 176.262,40 
+20.7;0;no;southwest; R$ 124,28 
+28.27;1;no;southeast; R$ 4.779,60 
+20235;3;no;northeast; R$ 38.612,10 
+30.21;1;yes;northwest; R$ 43.943,88 
+35.91;0;no;northeast; R$ 13.635,64 
+30.69;1;no;southeast; R$ 5.976,83 
+29;0;no;southwest; R$ 1.184,24 
+19.57;1;no;northwest; R$ 8.428,07 
+31.13;2;no;southeast; R$ 2.566,47 
+21.85;1;yes;northeast; R$ 15.359,10 
+40.26;0;no;southeast; R$ 5.709,16 
+33725;1;no;northeast; R$ 88.239,86 
+29.48;2;no;southeast; R$ 7.640,31 
+33.25;1;no;northeast; R$ 5.594,85 
+32.6;2;no;southwest; R$ 744,15 
+37525;2;no;northwest; R$ 334.719,72 
+39.16;0;no;southeast; R$ 1.633,04 
+31635;0;no;northwest; R$ 91.741,36 
+25.3;0;no;southwest; R$ 1.107,05 
+39.05;3;no;southeast; R$ 16.085,13 
+28.31;0;yes;northwest; R$ 17.468,98 
+34.1;0;no;southeast; R$ 928,36 
+25175;0;no;northeast; R$ 35.586,20 
+23655;0;yes;northwest; R$ 256.787,78 
+26.98;2;no;northeast; R$ 4.435,09 
+37.8;2;yes;southwest; R$ 3.924,14 
+29.37;1;no;southeast; R$ 8.547,69 
+34.8;2;no;southwest; R$ 657,15 
+33155;0;no;northeast; R$ 22.076,97 
+19;3;no;northeast; R$ 675,30 
+33;0;no;southeast; R$ 188,01 
+36.63;1;yes;southeast; R$ 42.969,85 
+28595;0;no;northeast; R$ 116.581,15 
+25.6;2;yes;southwest; R$ 2.330,65 
+33.11;0;yes;southeast; R$ 34.439,86 
+37.1;0;no;southwest; R$ 1.071,36 
+31.4;1;no;southwest; R$ 365,93 
+34.1;4;yes;southwest; R$ 4.018,22 
+21.3;1;no;southwest; R$ 918,22 
+33535;0;yes;northeast; R$ 346.178,41 
+28785;0;no;northwest; R$ 121.296,14 
+26.03;0;no;northwest; R$ 3.736,46 
+28.88;3;no;northeast; R$ 6.748,59 
+42.46;1;no;southeast; R$ 113.267,15 
+38;0;no;southwest; R$ 1.136,60 
+38.95;0;yes;northwest; R$ 42.983,46 
+36.1;1;no;southwest; R$ 1.008,58 
+29.3;0;no;southwest; R$ 197,78 
+35.53;0;no;southeast; R$ 3.366,67 
+22705;2;no;northeast; R$ 71.733,60 
+39.7;1;no;southwest; R$ 939,13 
+38.19;0;no;northeast; R$ 14.410,93 
+24.51;1;no;northwest; R$ 2.709,11 
+38095;2;no;northeast; R$ 249.150,46 
+26.41;0;yes;northeast; R$ 20.149,32 
+33.66;4;no;southeast; R$ 12.949,16 
+42.4;5;no;southwest; R$ 666,62 
+28.31;3;yes;northwest; R$ 327.874,59 
+33915;0;no;northeast; R$ 131.438,65 
+34.96;3;no;northwest; R$ 4.466,62 
+35.31;2;no;southeast; R$ 188.061,45 
+30.78;3;no;northeast; R$ 10.141,14 
+26.22;1;no;northwest; R$ 6.123,57 
+23.37;3;no;northeast; R$ 8.252,28 
+28.5;0;no;northeast; R$ 171,22 
+32965;0;no;northeast; R$ 124.309,53 
+42.68;2;no;southeast; R$ 9.800,89 
+39.6;1;no;southeast; R$ 1.057,97 
+31.13;0;no;southeast; R$ 8.280,62 
+36.3;2;no;southeast; R$ 852,75 
+35.2;0;no;southeast; R$ 1.224,45 
+25.3;2;yes;southeast; R$ 2.466,74 
+42.4;1;no;southwest; R$ 341,03 
+33155;2;no;northwest; R$ 40.587,12 
+35.91;1;no;northeast; R$ 263.922,60 
+28785;4;no;northeast; R$ 143.943,98 
+46.53;3;no;southeast; R$ 6.435,62 
+23.98;1;no;southeast; R$ 221.924,37 
+31.54;1;no;northeast; R$ 5.148,55 
+33.66;0;no;southeast; R$ 1.136,40 
+22.99;0;yes;southeast; R$ 27.037,91 
+38.06;2;yes;southeast; R$ 42.560,43 
+28.7;1;no;southwest; R$ 870,35 
+32775;2;yes;northwest; R$ 400.033,32 
+32015;0;yes;northeast; R$ 457.102,08 
+29.81;1;no;southeast; R$ 6.500,24 
+31.57;3;no;southeast; R$ 4.837,58 
+31.16;0;no;northeast; R$ 3.943,60 
+29.7;0;no;southeast; R$ 439,97 
+31.02;0;no;southeast; R$ 6.185,32 
+43.89;2;yes;southeast; R$ 46.200,99 
+21375;0;no;northwest; R$ 72.227,86 
+40.81;3;no;southeast; R$ 12.485,80 
+31.35;3;yes;northwest; R$ 46.130,53 
+36.1;3;no;southwest; R$ 1.236,35 
+23.18;2;no;northwest; R$ 10.156,78 
+17.4;1;no;southwest; R$ 258,53 
+20.3;0;no;southwest; R$ 124,23 
+35.3;2;yes;southwest; R$ 4.010,39 
+24.32;0;no;northwest; R$ 9.863,47 
+18.5;1;no;southwest; R$ 476,60 
+26.41;2;no;northeast; R$ 11.244,38 
+26125;2;no;northeast; R$ 77.296,46 
+41.69;0;no;southeast; R$ 5.438,75 
+24.1;1;no;southwest; R$ 262.365,80 
+31.13;1;yes;southeast; R$ 34.806,47 
+27.36;0;no;northeast; R$ 2.104,11 
+36.2;1;no;southwest; R$ 806,82 
+32395;1;no;northwest; R$ 23.622,29 
+23655;0;no;northwest; R$ 23.529,68 
+34.8;1;no;southwest; R$ 357,80 
+40185;0;no;northwest; R$ 32.012,45 
+32.3;2;no;northeast; R$ 291.864,82 
+35.75;1;yes;southeast; R$ 40.273,65 
+33725;0;no;northwest; R$ 109.762,46 
+39.27;2;no;southeast; R$ 3.500,61 
+34.87;0;no;southeast; R$ 2.020,55 
+44745;0;no;northeast; R$ 95.416,96 
+41.47;0;no;southeast; R$ 9.504,31 
+26.41;1;no;northwest; R$ 5.385,34 
+29545;1;no;northwest; R$ 89.309,35 
+32.9;2;no;southwest; R$ 537,50 
+38.06;0;yes;southeast; R$ 44.400,41 
+28.69;3;no;northwest; R$ 10.264,44 
+30495;3;no;northeast; R$ 61.132,31 
+27.74;0;no;northeast; R$ 5.469,01 
+35.2;1;no;southeast; R$ 172,75 
+23.54;2;no;southeast; R$ 10.107,22 
+30685;2;no;northwest; R$ 83.108,39 
+40.47;0;no;northeast; R$ 1.984,45 
+22.6;0;no;southwest; R$ 245,75 
+28.9;0;no;southwest; R$ 1.214,70 
+22.61;1;no;northwest; R$ 9.566,99 
+24.32;1;no;northwest; R$ 13.112,60 
+36.67;2;no;northwest; R$ 10.848,13 
+33.44;0;no;northwest; R$ 12.231,61 
+40.66;0;no;northeast; R$ 9.875,68 
+36.6;3;no;southwest; R$ 1.126,45 
+37.4;0;no;southwest; R$ 1.297,94 
+35.4;0;no;southwest; R$ 126,32 
+27075;1;no;northeast; R$ 101.061,34 
+39.05;3;yes;southeast; R$ 40.932,43 
+28405;1;no;northwest; R$ 66.646,86 
+21755;1;yes;northeast; R$ 166.577,17 
+40.28;0;no;northeast; R$ 2.217,60 
+36.08;1;no;southeast; R$ 6.781,35 
+24.42;3;yes;southeast; R$ 19.362,00 
+21.4;1;no;southwest; R$ 1.006,54 
+30.1;3;no;southwest; R$ 423,49 
+27265;1;no;northeast; R$ 94.472,50 
+32.1;3;no;southwest; R$ 1.400,72 
+34.77;1;no;northwest; R$ 9.583,89 
+38.39;0;yes;southeast; R$ 40.419,02 
+23.7;2;no;southwest; R$ 348,43 
+31.73;3;yes;northeast; R$ 36.189,10 
+35.5;2;yes;southwest; R$ 445.854,56 
+24035;2;no;northeast; R$ 86.044,84 
+29.15;0;yes;southeast; R$ 18.246,50 
+34105;0;yes;northeast; R$ 432.544,18 
+26.62;0;no;southeast; R$ 3.757,84 
+26.41;0;no;northwest; R$ 8.827,21 
+30115;1;no;northwest; R$ 99.103,60 
+27;2;no;southwest; R$ 117.378,49 
+21755;0;no;northwest; R$ 16.272,82 
+36;1;no;southwest; R$ 855,69 
+30875;0;no;northwest; R$ 30.625,08 
+26.4;0;yes;southeast; R$ 1.953,92 
+28975;0;no;northwest; R$ 19.063,58 
+37905;0;no;northwest; R$ 142.105,36 
+22.77;0;no;southeast; R$ 11.833,78 
+33.63;4;no;northeast; R$ 171.284,26 
+27645;2;no;northeast; R$ 50.312,70 
+22.8;3;no;northeast; R$ 798,58 
+27.83;0;yes;southeast; R$ 23.065,42 
+37.43;3;no;northeast; R$ 5.428,73 
+38.17;0;yes;southeast; R$ 36.307,80 
+34.58;2;no;northeast; R$ 3.925,76 
+35.2;1;no;southwest; R$ 241,70 
+27.1;1;yes;southwest; R$ 1.904,09 
+26.03;0;no;northeast; R$ 3.070,81 
+25175;2;no;northeast; R$ 90.950,68 
+31825;0;no;northwest; R$ 118.426,24 
+32.3;1;no;southwest; R$ 806,28 
+29;1;no;southwest; R$ 705,06 
+39.7;0;no;southwest; R$ 1.431,90 
+19475;2;no;northwest; R$ 69.332,42 
+36.1;3;no;southwest; R$ 279.412,88 
+26.7;2;no;southwest; R$ 1.115,08 
+36.48;0;no;northeast; R$ 127.972,10 
+28.88;0;yes;northwest; R$ 17.748,51 
+34.2;2;no;northwest; R$ 726,17 
+33.33;3;no;southeast; R$ 10.560,49 
+32.3;2;no;northwest; R$ 698,67 
+39805;0;no;northeast; R$ 74.484,04 
+34.32;3;no;southeast; R$ 5.934,38 
+28.88;0;no;northwest; R$ 9.869,81 
+24.4;3;yes;southwest; R$ 1.825,92 
+41.14;0;no;southeast; R$ 1.146,80 
+35.97;1;no;southeast; R$ 9.386,16 
+27.6;1;yes;southwest; R$ 2.452,03 
+29.26;1;no;southeast; R$ 4.350,51 
+27.7;3;no;southwest; R$ 641,42 
+36955;0;no;northeast; R$ 127.411,67 
+36.86;0;no;northwest; R$ 1.917,32 
+22515;3;no;northeast; R$ 52.095,79 
+29.92;0;no;southeast; R$ 13.457,96 
+41.8;0;no;southeast; R$ 566,22 
+27.6;0;no;southwest; R$ 125,24 
+23.18;0;no;northeast; R$ 2.731,91 
+20.9;0;yes;southeast; R$ 2.119,58 
+31.92;2;no;northwest; R$ 7.209,49 
+28.5;0;yes;northwest; R$ 1.831,07 
+44.22;2;no;southeast; R$ 4.266,17 
+22895;1;no;northeast; R$ 47.195,24 
+33.1;0;no;southwest; R$ 1.184,81 
+24795;0;yes;northeast; R$ 179.045,27 
+26.18;1;no;southeast; R$ 7.046,72 
+35.97;0;no;southeast; R$ 14.313,85 
+22.3;1;no;southwest; R$ 210,31 
+42.24;0;yes;southeast; R$ 38.792,69 
+26.51;0;no;southeast; R$ 1.815,88 
+35815;0;no;northwest; R$ 77.318,58 
+41.42;1;no;northwest; R$ 284.767,35 
+36575;0;no;northwest; R$ 21.368,82 
+30.14;0;no;southeast; R$ 1.131,51 
+25.84;1;no;northeast; R$ 3.309,79 
+30.8;3;no;southwest; R$ 941,49 
+42.94;3;no;northwest; R$ 6.360,99 
+21.01;2;no;southeast; R$ 11.013,71 
+22515;2;no;northeast; R$ 44.288,88 
+34.43;2;no;southeast; R$ 5.584,31 
+31.46;0;no;southeast; R$ 1.877,93 
+24225;0;no;northwest; R$ 28.427,61 
+37.1;3;no;southwest; R$ 359,76 
+26125;1;yes;northeast; R$ 234.013,06 
+35.53;0;yes;northwest; R$ 551.354,02 
+33.7;1;no;southwest; R$ 744,59 
+17.67;0;no;northwest; R$ 2.680,95 
+31.13;0;no;southeast; R$ 1.621,88 
+29.81;2;no;southeast; R$ 8.219,20 
+24.32;0;no;northwest; R$ 12.523,60 
+31825;2;no;northeast; R$ 160.690,85 
+31.79;2;yes;southeast; R$ 43.813,87 
+28025;1;yes;northeast; R$ 207.736,28 
+30.78;3;yes;northeast; R$ 39.597,41 
+21.85;1;no;northwest; R$ 6.117,49 
+33.1;0;no;southwest; R$ 1.339,38 
+25.84;0;no;northwest; R$ 5.266,37 
+23845;2;no;northwest; R$ 47.197,37 
+34.39;0;no;northwest; R$ 11.743,93 
+33.82;1;no;northwest; R$ 5.377,46 
+35.97;2;no;southeast; R$ 7.160,33 
+31.5;0;no;southwest; R$ 440,22 
+28.31;0;no;northeast; R$ 11.657,72 
+23465;2;no;northeast; R$ 64.022,91 
+31.35;0;no;northwest; R$ 12.622,18 
+31.1;0;no;southwest; R$ 152,63 
+24.7;0;no;northeast; R$ 1.232,39 
+32.78;2;yes;southeast; R$ 36.021,01 
+29.81;0;yes;southeast; R$ 27.533,91 
+30495;0;no;northeast; R$ 100.720,55 
+32.45;0;yes;southeast; R$ 45.008,96 
+34.2;1;no;southwest; R$ 987,27 
+50.38;1;no;southeast; R$ 2.438,06 
+24.1;0;no;southwest; R$ 297,41 
+32775;0;no;northwest; R$ 106.016,32 
+30.78;0;yes;northeast; R$ 37.270,15 
+32.3;2;no;northwest; R$ 141,20 
+35.53;0;yes;northeast; R$ 42.111,66 
+23.75;2;no;northeast; R$ 11.729,68 
+23845;3;yes;northeast; R$ 241.069,13 
+29.6;0;no;southwest; R$ 187,53 
+33.11;0;yes;southeast; R$ 40.974,16 
+24.13;0;yes;northwest; R$ 15.817,99 
+32.23;1;no;southeast; R$ 182.181,61 
+28.1;0;no;southwest; R$ 1.096,54 
+47.6;2;yes;southwest; R$ 4.611,35 
+28;3;no;southwest; R$ 715,11 
+33535;2;no;northwest; R$ 122.696,89 
+19855;0;no;northeast; R$ 54.580,46 
+25.4;0;no;southwest; R$ 878,25 
+29.9;2;no;southwest; R$ 660,04 
+37.29;0;no;southeast; R$ 1.141,45 
+43.7;1;no;southwest; R$ 1.157,61 
+23655;0;no;northeast; R$ 131.296,03 
+24.3;3;no;southwest; R$ 439,17 
+36.2;0;no;southwest; R$ 845,78 
+29.48;1;no;southeast; R$ 3.392,37 
+24.86;0;no;southeast; R$ 5.966,89 
+30.1;1;no;southwest; R$ 684,90 
+21.85;3;no;northeast; R$ 8.891,14 
+28.12;0;no;northwest; R$ 2.690,11 
+27.1;1;no;southwest; R$ 26.140,36 
+33.44;5;no;southeast; R$ 6.653,79 
+28.8;1;no;southwest; R$ 628,22 
+29.5;2;no;southwest; R$ 631,20 
+34.8;3;no;southwest; R$ 344,31 
+27.36;1;no;northwest; R$ 2.789,06 
+22135;0;no;northeast; R$ 25.858,51 
+37.05;3;yes;northeast; R$ 46.255,11 
+26695;4;no;northwest; R$ 48.779,81 
+28.93;1;yes;southeast; R$ 19.719,69 
+28975;0;yes;northeast; R$ 272.184,37 
+30.02;0;no;northwest; R$ 5.272,18 
+39.5;0;no;southwest; R$ 168,26 
+33.63;1;no;northwest; R$ 11.945,13 
+26885;0;yes;northwest; R$ 293.309,83 
+29.04;4;no;southeast; R$ 7.243,81 
+24035;0;no;northeast; R$ 104.229,17 
+38.94;2;yes;southeast; R$ 44.202,65 
+32.11;0;no;northeast; R$ 13.555,00 
+44;0;no;southwest; R$ 1.306,39 
+20045;2;yes;northeast; R$ 197.980,55 
+25555;1;no;northwest; R$ 22.215,64 
+40.26;0;no;southeast; R$ 1.634,57 
+22515;0;no;northwest; R$ 21.173,39 
+22515;0;no;northeast; R$ 86.888,59 
+40.92;0;yes;southeast; R$ 48.673,56 
+27265;3;no;northeast; R$ 46.612,86 
+36.85;0;no;southeast; R$ 8.125,78 
+35.1;0;no;southwest; R$ 1.264,46 
+29355;2;no;northeast; R$ 45.641,91 
+32585;3;no;northeast; R$ 48.469,20 
+32.34;1;no;southeast; R$ 7.633,72 
+39.8;3;no;southwest; R$ 1.517,01 
+24.6;0;yes;southwest; R$ 1.749,63 
+28.31;1;no;northwest; R$ 2.639,04 
+31.73;0;yes;northeast; R$ 33.732,69 
+26695;3;no;northwest; R$ 143.827,09 
+27.5;1;no;southwest; R$ 762,70 
+24605;2;no;northwest; R$ 52.575,08 
+33.99;0;no;southeast; R$ 2.473,33 
+26885;0;yes;northwest; R$ 217.743,22 
+22895;0;yes;northeast; R$ 350.693,75 
+28.2;0;no;southwest; R$ 1.304,19 
+34.21;1;no;southeast; R$ 5.245,23 
+25;0;no;southwest; R$ 1.345,11 
+33.2;0;no;southwest; R$ 134,63 
+31;1;no;southwest; R$ 548,83 
+35815;0;no;northwest; R$ 43.204,11 
+23.2;0;no;southwest; R$ 625,04 
+32.11;2;no;northeast; R$ 253.333,33 
+23.4;2;no;southwest; R$ 291,36 
+20.1;1;no;southwest; R$ 1.203,23 
+39.16;0;no;southeast; R$ 13.470,80 
+34.21;1;no;southeast; R$ 6.289,75 
+46.53;1;no;southeast; R$ 2.927,06 
+32.5;1;no;southwest; R$ 623,83 
+25.8;5;no;southwest; R$ 100,97 
+35.3;0;no;southwest; R$ 734,81 
+37.18;2;no;southeast; R$ 4.673,39 
+27.5;0;no;southwest; R$ 1.223,38 
+29735;2;no;northeast; R$ 321.086,63 
+24225;5;no;northwest; R$ 89.657,96 
+26.18;2;no;southeast; R$ 2.304,00 
+29.48;0;no;southeast; R$ 9.487,64 
+23.21;0;no;southeast; R$ 1.121,87 
+46.09;1;no;southeast; R$ 9.549,57 
+40185;0;no;northeast; R$ 22.174,69 
+22.61;0;no;northwest; R$ 1.628,47 
+39.93;0;no;southeast; R$ 12.982,87 
+35.8;1;no;southwest; R$ 1.167,41 
+35.8;2;no;southwest; R$ 716,01 
+34.2;1;yes;northeast; R$ 3.904,73 
+31255;0;no;northwest; R$ 63.587,76 
+29.7;3;yes;southwest; R$ 1.993,35 
+18335;0;no;northeast; R$ 115.348,73 
+42.9;2;yes;southeast; R$ 4.746,29 
+28405;1;no;northwest; R$ 45.271,83 
+30.2;2;yes;southwest; R$ 3.899,85 
+27835;1;yes;northwest; R$ 200.096,34 
+39.49;1;no;southeast; R$ 3.875,73 
+30.8;1;yes;southeast; R$ 420,00 
+26.79;1;no;northwest; R$ 126.098,87 
+34.96;1;yes;northeast; R$ 41.034,22 
+36.67;1;no;northwest; R$ 284.689,19 
+39615;1;no;northwest; R$ 27.301,08 
+25.9;0;no;southwest; R$ 335,33 
+35.2;1;no;southeast; R$ 1.447,47 
+24795;3;no;northeast; R$ 95.005,73 
+36765;2;no;northwest; R$ 264.670,97 
+27.1;1;no;southwest; R$ 474,63 
+24795;2;yes;northwest; R$ 239.673,83 
+25365;1;no;northwest; R$ 75.180,25 
+25745;2;no;northeast; R$ 32.798,69 
+34.32;5;no;southeast; R$ 8.596,83 
+28.16;3;no;southeast; R$ 10.702,64 
+23.56;0;no;northeast; R$ 4.992,38 
+20235;0;no;northwest; R$ 25.278,19 
+40.5;0;no;southwest; R$ 175,93 
+35.42;0;no;southeast; R$ 2.322,62 
+22895;0;yes;northeast; R$ 161.387,62 
+40.15;0;no;southeast; R$ 7.804,16 
+29.15;1;no;southeast; R$ 2.902,91 
+39995;3;no;northeast; R$ 97.046,68 
+29.92;0;no;southeast; R$ 4.889,04 
+25.46;1;no;northeast; R$ 255.171,14 
+21375;0;no;northeast; R$ 45.003,39 
+25.9;3;yes;southwest; R$ 1.919,99 
+30.59;1;no;northeast; R$ 167.964,12 
+30115;5;no;northeast; R$ 49.150,60 
+25.8;1;no;southwest; R$ 762,46 
+30115;3;no;northwest; R$ 84.100,47 
+27645;1;no;northwest; R$ 283.401,89 
+34675;0;no;northeast; R$ 45.188,26 
+20.52;0;yes;northeast; R$ 14.571,89 
+19.8;1;no;southwest; R$ 337,89 
+27835;2;no;northeast; R$ 71.448,63 
+31.6;2;no;southwest; R$ 1.011,84 
+28.27;1;no;southeast; R$ 5.484,47 
+20045;3;yes;northwest; R$ 164.204,95 
+23275;3;no;northeast; R$ 79.864,75 
+34.1;3;no;southwest; R$ 741,85 
+36.85;0;no;southeast; R$ 13.887,97 
+36.29;3;no;northeast; R$ 6.551,75 
+26885;0;no;northwest; R$ 52.678,18 
+22.99;2;yes;northwest; R$ 17.361,77 
+32.7;0;yes;southwest; R$ 3.447,28 
+25.8;0;no;southwest; R$ 197,30 
+29.6;0;no;southwest; R$ 212.321,82 
+19.19;1;no;northeast; R$ 8.627,54 
+31.73;2;no;northwest; R$ 4.433,39 
+29.26;2;no;northeast; R$ 4.438,26 
+28215;3;yes;northwest; R$ 249.152,21 
+24985;2;no;northeast; R$ 232.414,75 
+27.74;1;no;northeast; R$ 9.957,72 
+22.8;0;no;southwest; R$ 826,90 
+20.13;2;yes;southeast; R$ 18.767,74 
+33.33;4;no;southeast; R$ 365.802,82 
+32.3;1;no;northwest; R$ 876,52 
+27.6;0;no;southwest; R$ 538,35 
+25.46;0;no;northwest; R$ 12.124,99 
+24605;1;no;northwest; R$ 27.092,44 
+34.2;2;no;southwest; R$ 398,79 
+35815;3;no;northwest; R$ 124.952,91 
+32.68;2;no;northwest; R$ 260.189,51 
+37;0;no;southwest; R$ 879,86 
+31.02;3;yes;southeast; R$ 35.595,59 
+36.08;1;yes;southeast; R$ 42.211,14 
+23.32;1;no;southeast; R$ 1.711,03 
+45.32;1;no;southeast; R$ 8.569,86 
+34.6;0;no;southwest; R$ 202,02 
+26.03;1;yes;northwest; R$ 16.450,89 
+18715;0;no;northwest; R$ 215.953,82 
+31.6;0;no;southwest; R$ 985,04 
+17.29;2;no;northeast; R$ 6.877,98 
+23655;1;yes;northwest; R$ 216.772,83 
+35.2;0;yes;southeast; R$ 4.442,38 
+27.93;0;no;northeast; R$ 4.137,52 
+21565;0;yes;northeast; R$ 137.478,72 
+38.38;0;no;northwest; R$ 12.950,07 
+23;3;no;southwest; R$ 1.209,45 
+37.07;2;yes;southeast; R$ 37.484,45 
+30495;1;yes;northwest; R$ 397.255,18 
+28.88;0;no;northeast; R$ 2.250,84 
+27265;2;no;northwest; R$ 224.936,60 
+28025;0;yes;northwest; R$ 202.348,55 
+23085;0;no;northeast; R$ 17.047,00 
+30685;0;yes;northeast; R$ 334.758,17 
+25.8;0;no;southwest; R$ 316,15 
+35245;1;no;northeast; R$ 113.940,66 
+24.7;2;yes;northwest; R$ 218,81 
+25.08;0;no;northeast; R$ 7.325,05 
+52.58;1;yes;southeast; R$ 44.501,40 
+22515;1;no;northwest; R$ 35.941,71 
+30.9;0;yes;southwest; R$ 3.972,76 
+36955;1;no;northwest; R$ 80.231,35 
+26.41;0;no;northeast; R$ 14.394,56 
+29.83;1;no;northeast; R$ 9.288,03 
+29.8;3;yes;southwest; R$ 2.530,95 
+21.47;0;no;northwest; R$ 3.353,47 
+27645;0;no;northwest; R$ 105.945,02 
+28.9;0;no;southwest; R$ 827,75 
+31.79;0;no;southeast; R$ 179.293,03 
+39.49;0;no;southeast; R$ 2.480,98 
+33.82;1;no;northwest; R$ 4.462,72 
+32.01;0;no;southeast; R$ 1.981,58 
+27.94;1;no;southeast; R$ 11.554,22 
+41.14;1;yes;southeast; R$ 48.970,25 
+28595;3;no;northwest; R$ 65.481,95 
+25.6;4;no;southwest; R$ 570,89 
+25.3;1;no;southwest; R$ 704,55 
+37.29;2;no;southeast; R$ 8.978,19 
+42655;0;no;northeast; R$ 57.574,13 
+21.66;1;no;northwest; R$ 14.349,85 
+31.9;1;no;southeast; R$ 1.092,88 
+37.07;1;yes;southeast; R$ 39.871,70 
+31445;0;no;northeast; R$ 139.744,56 
+31255;0;no;northwest; R$ 19.095,27 
+28.88;2;no;northeast; R$ 12.096,65 
+18335;0;no;northeast; R$ 132.042,86 
+29.59;1;no;southeast; R$ 4.562,84 
+32;1;no;southwest; R$ 855,13 
+26.03;0;no;northeast; R$ 2.102,26 
+31.68;0;yes;southeast; R$ 34.672,15 
+33.66;3;no;southeast; R$ 15.161,53 
+21.78;2;no;southeast; R$ 118.840,49 
+27835;1;no;northwest; R$ 44.544,03 
+19.95;1;no;northwest; R$ 5.855,90 
+31.5;1;no;southwest; R$ 407,65 
+30495;2;no;northwest; R$ 150.197,60 
+18.3;5;yes;southwest; R$ 190,23 
+28975;0;no;northeast; R$ 107.963,50 
+31.54;0;no;northwest; R$ 11.353,23 
+47.74;1;no;southeast; R$ 9.748,91 
+22.1;0;no;southwest; R$ 1.057,71 
+36.19;0;yes;southeast; R$ 41.676,08 
+29.83;0;no;northeast; R$ 11.286,54 
+32.7;3;no;southwest; R$ 359,15 
+30.4;0;yes;northwest; R$ 3.390,75 
+33.7;4;no;southwest; R$ 1.129,93 
+31.35;4;no;northeast; R$ 4.561,19 
+34.96;2;yes;northeast; R$ 44.641,20 
+33.77;0;no;southeast; R$ 1.674,63 
+30875;0;no;northeast; R$ 230.455,66 
+33.99;1;no;southeast; R$ 3.227,12 
+19095;2;yes;northeast; R$ 167.763,04 
+28.6;3;no;southwest; R$ 1.125,34 
+38.94;1;no;southeast; R$ 3.471,41 
+36.08;0;no;southeast; R$ 11.363,28 
+29.8;0;no;southwest; R$ 204.206,05 
+31.24;0;no;southeast; R$ 10.338,93 
+29925;0;no;northwest; R$ 89.881,59 
+26.22;2;no;northwest; R$ 10.493,95 
+30;1;no;southwest; R$ 290,41 
+20.35;3;no;southeast; R$ 8.605,36 
+32.3;1;no;northeast; R$ 1.151,24 
+38.39;3;yes;southeast; R$ 41.949,24 
+25.85;3;yes;southeast; R$ 24.180,93 
+26315;3;no;northwest; R$ 53.121,70 
+24.51;0;no;northeast; R$ 2.396,10 
+32.67;1;no;southeast; R$ 10.807,49 
+29.64;5;no;northeast; R$ 9.222,40 
+33.33;2;yes;southeast; R$ 36.124,57 
+35.75;1;yes;southeast; R$ 38.282,75 
+19.95;3;no;northwest; R$ 5.693,43 
+31.4;0;yes;southwest; R$ 3.416,63 
+38.17;2;no;southeast; R$ 8.347,16 
+36.86;3;yes;northwest; R$ 46.661,44 
+32395;1;no;northeast; R$ 189.034,91 
+42.75;1;yes;northeast; R$ 40.904,20 
+25.08;0;no;northwest; R$ 14.254,61 
+29.9;0;no;southwest; R$ 1.021,46 
+35.86;2;no;southeast; R$ 5.836,52 
+32.8;1;no;southwest; R$ 143.583,64 
+18.6;0;no;southwest; R$ 172,89 
+23.87;5;no;southeast; R$ 8.582,30 
+45.9;2;no;southwest; R$ 369,34 
+40.28;0;no;northeast; R$ 207.090,20 
+18335;0;no;northwest; R$ 99.910,38 
+33.82;0;no;northwest; R$ 196.733,36 
+28.12;3;no;northwest; R$ 11.085,59 
+25;1;no;southwest; R$ 762,35 
+22.23;0;no;northwest; R$ 3.176,29 
+30.25;0;no;southeast; R$ 3.704,35 
+32.49;0;yes;northwest; R$ 368.987,33 
+37.07;1;no;southeast; R$ 9.048,03 
+32.6;3;no;southwest; R$ 795,45 
+24.86;0;no;southeast; R$ 271.179,94 
+32.34;2;no;southeast; R$ 6.338,08 
+32.3;2;no;southwest; R$ 963,04 
+32775;3;no;northwest; R$ 112.891,09 
+32.8;0;yes;southwest; R$ 525.908,29 
+31.92;0;no;northwest; R$ 2.261,57 
+21.5;1;no;southwest; R$ 107,92 
+34.1;0;no;southwest; R$ 597,97 
+30305;0;no;northeast; R$ 22.037,36 
+36.48;0;no;northwest; R$ 12.235,84 
+32.56;3;yes;southeast; R$ 40.941,29 
+35815;1;no;northwest; R$ 56.304,58 
+27.93;4;no;northwest; R$ 11.015,17 
+22135;3;no;northeast; R$ 72.282,16 
+44.88;0;yes;southeast; R$ 39.722,75 
+23.18;2;no;northwest; R$ 144.260,74 
+30.59;0;no;northeast; R$ 2.459,72 
+41.1;0;no;southwest; R$ 398,98 
+34.58;1;no;northwest; R$ 7.727,25 
+42.13;2;no;southeast; R$ 5.124,19 
+38.83;1;no;southeast; R$ 189.631,72 
+28215;0;no;northeast; R$ 22.008,31 
+28.31;1;no;northwest; R$ 7.153,55 
+26125;0;no;northeast; R$ 52.279,89 
+40.37;0;no;southeast; R$ 10.982,50 
+24.6;2;no;southwest; R$ 452,95 
+35.2;2;no;southwest; R$ 467,06 
+34105;1;no;northwest; R$ 61.123,53 
+27.36;1;yes;northeast; R$ 17.178,68 
+26.7;2;yes;southwest; R$ 224,79 
+41.91;0;no;southeast; R$ 11.093,62 
+29.26;2;no;northwest; R$ 6.457,84 
+32.11;2;no;northwest; R$ 4.433,92 
+27.1;0;no;southwest; R$ 215,44 
+24.13;1;yes;northwest; R$ 23.887,66 
+27.4;1;no;southwest; R$ 649,69 
+34865;0;no;northeast; R$ 28.994,89 
+29.81;0;yes;southeast; R$ 19.350,37 
+41325;1;no;northeast; R$ 76.507,74 
+29925;0;no;northwest; R$ 28.506,84 
+30.3;0;no;southwest; R$ 263,30 
+27.36;1;no;northeast; R$ 9.447,38 
+28.49;1;yes;southeast; R$ 18.328,24 
+23.56;2;no;northeast; R$ 8.603,82 
+35625;3;yes;northwest; R$ 374.653,44 
+32.68;0;no;northwest; R$ 13.844,80 
+25.27;1;yes;northeast; R$ 21.771,34 
+28;0;no;southwest; R$ 131.266,77 
+32775;2;no;northwest; R$ 53.274,00 
+21755;1;no;northeast; R$ 137.254,72 
+32395;1;no;northeast; R$ 130.191,61 
+36575;0;no;northwest; R$ 86.711,91 
+21755;0;no;northwest; R$ 41.340,82 
+27.93;3;no;northwest; R$ 188.387,04 
+30.02;0;yes;northwest; R$ 33.307,55 
+33.55;0;no;southeast; R$ 5.699,84 
+29355;1;no;northwest; R$ 63.936,03 
+25.8;2;no;southwest; R$ 493,47 
+24.32;2;no;northwest; R$ 6.198,75 
+40375;2;no;northwest; R$ 87.332,29 
+32.11;0;no;northwest; R$ 2.055,32 
+32.3;1;no;northeast; R$ 996,41 
+27.28;3;yes;southeast; R$ 18.223,45 
+17.86;1;no;northwest; R$ 5.116,50 
+34.8;2;no;southwest; R$ 369.106,08 
+33.4;2;yes;southwest; R$ 3.841,55 
+25555;1;yes;northeast; R$ 202.968,63 
+37.1;1;no;southwest; R$ 1.234,72 
+30875;1;no;northwest; R$ 53.733,64 
+34.1;2;no;southeast; R$ 235.630,16 
+21.47;0;no;northeast; R$ 1.702,46 
+33.3;2;no;southwest; R$ 1.080,68 
+31255;1;no;northwest; R$ 39.560,71 
+39.14;0;no;northeast; R$ 128.900,58 
+25.08;0;no;southeast; R$ 5.415,66 
+37.29;2;no;southeast; R$ 4.058,12 
+34.6;1;yes;southwest; R$ 4.166,16 
+30.21;3;no;northwest; R$ 7.537,16 
+21945;1;no;northeast; R$ 47.182,04 
+24.97;2;no;southeast; R$ 6.593,51 
+25.3;0;no;southeast; R$ 844,27 
+24.42;0;yes;southeast; R$ 261.256,75 
+23.94;1;no;northeast; R$ 6.858,48 
+39.82;1;no;southeast; R$ 4.795,66 
+16815;2;no;northeast; R$ 66.405,45 
+37.18;2;no;southeast; R$ 7.162,01 
+34.43;0;no;southeast; R$ 10.594,23 
+30305;0;no;northeast; R$ 119.382,56 
+34485;3;yes;northwest; R$ 600.213,99 
+21.8;0;yes;southwest; R$ 201.673,36 
+24605;3;no;northwest; R$ 124.797,09 
+23.3;0;no;southwest; R$ 1.134,55 
+27.83;2;no;southeast; R$ 8.515,76 
+31065;0;no;northwest; R$ 26.995,68 
+21.66;0;no;northeast; R$ 14.449,85 
+28215;0;no;northwest; R$ 122.243,51 
+22705;3;no;northeast; R$ 69.855,07 
+42.13;1;no;southeast; R$ 3.238,44 
+41.8;2;yes;southeast; R$ 4.726,99 
+36.96;2;yes;southeast; R$ 49.577,66 
+21.28;3;no;northwest; R$ 4.296,27 
+33.11;0;no;southeast; R$ 3.171,61 
+33.33;0;no;southeast; R$ 1.135,94 
+24.3;5;no;southwest; R$ 561,54 
+25.7;3;no;southwest; R$ 910,18 
+29.4;4;no;southwest; R$ 605,92 
+39.82;0;no;southeast; R$ 1.633,96 
+33.63;1;yes;northeast; R$ 37.607,53 
+29.83;0;yes;northeast; R$ 18.648,42 
+19.8;0;no;southwest; R$ 124,16 
+27.3;0;yes;southwest; R$ 1.623,28 
+29.3;4;no;southwest; R$ 158.288,22 
+27.72;0;no;southeast; R$ 4.415,16 
+37.9;0;no;southwest; R$ 647,40 
+36385;3;no;northwest; R$ 114.367,38 
+27645;1;no;northwest; R$ 113.059,35 
+37715;3;no;northwest; R$ 300.635,81 
+23.18;0;no;northeast; R$ 10.197,77 
+20.52;0;no;northeast; R$ 4.544,23 
+37.1;1;no;southwest; R$ 327,72 
+28.05;1;no;southeast; R$ 6.770,19 
+29.9;1;no;southwest; R$ 733,77 
+33345;2;no;northeast; R$ 103.709,13 
+23.76;0;yes;southeast; R$ 26.926,51 
+30.5;0;no;southwest; R$ 1.070,45 
+31065;0;yes;northeast; R$ 342.540,53 
+33.3;0;no;southwest; R$ 188,05 
+27.5;3;no;southwest; R$ 186,15 
+33915;1;no;northwest; R$ 32.925,30 
+34485;0;no;northwest; R$ 30.218,09 
+25.52;5;no;southeast; R$ 144.783,30 
+27.61;1;no;southeast; R$ 4.747,05 
+27.06;0;yes;southeast; R$ 17.043,34 
+23.7;0;no;southwest; R$ 109,59 
+30.4;0;no;northeast; R$ 274,19 
+29735;0;no;northwest; R$ 43.570,44 
+29925;1;yes;northeast; R$ 224.620,44 
+26.79;2;no;northwest; R$ 4.189,11 
+33.33;0;no;southeast; R$ 8.283,68 
+27645;2;yes;northwest; R$ 245.356,99 
+21.66;0;yes;northeast; R$ 14.283,46 
+30.03;1;no;southeast; R$ 1.720,35 
+36.3;1;yes;southwest; R$ 474,03 
+24.32;0;no;northeast; R$ 8.534,67 
+17.29;0;no;northeast; R$ 3.732,63 
+25.9;1;no;southwest; R$ 547,24 
+39.4;2;yes;southwest; R$ 3.834,46 
+34.32;1;no;southeast; R$ 7.147,47 
+19.95;2;no;northeast; R$ 7.133,90 
+34.9;0;yes;southwest; R$ 3.482,87 
+23.21;0;no;southeast; R$ 1.515,34 
+25745;3;no;northwest; R$ 93.018,94 
+25175;0;no;northeast; R$ 119.311,25 
+22;1;no;southwest; R$ 196,05 
+26125;0;no;northeast; R$ 17.089,26 
+26.51;2;no;southeast; R$ 4.340,44 
+27455;2;no;northwest; R$ 52.614,69 
+25745;1;no;northwest; R$ 27.108,29 
+30.36;0;yes;southeast; R$ 625.928,73 
+30875;3;yes;northwest; R$ 467.181,63 
+20.8;1;no;southwest; R$ 320,88 
+27.8;0;yes;southwest; R$ 37.829,72 
+24605;2;yes;northeast; R$ 212.593,78 
+27.72;0;no;southeast; R$ 2.464,62 
+21.85;0;yes;northeast; R$ 16.115,30 
+28.12;4;yes;northwest; R$ 21.472,48 
+30.2;0;yes;southwest; R$ 3.390,07 
+32.2;2;no;southwest; R$ 687,60 
+26315;1;no;northwest; R$ 69.409,10 
+26695;0;no;northwest; R$ 45.714,13 
+42.9;1;no;southwest; R$ 453,63 
+34.7;2;yes;southwest; R$ 3.639,76 
+23655;3;yes;northwest; R$ 187.658,75 
+28.31;1;no;northeast; R$ 112.723,31 
+20.6;0;no;southwest; R$ 173,17 
+53.13;0;no;southeast; R$ 1.163,46 
+39.71;4;no;northeast; R$ 194.967,19 
+26315;2;no;northwest; R$ 72.017,01 
+31065;3;no;northwest; R$ 54.250,23 
+26695;0;yes;northeast; R$ 281.013,33 
+38.83;0;no;southeast; R$ 12.981,35 
+40.37;2;yes;southeast; R$ 43.896,38 
+25935;1;no;northwest; R$ 42.398,93 
+33535;0;no;northeast; R$ 131.433,37 
+32.87;0;no;northeast; R$ 7.050,02 
+30.03;1;no;southeast; R$ 9.377,90 
+24225;2;no;northeast; R$ 223.957,44 
+38.6;2;no;southwest; R$ 1.032,52 
+25.74;2;no;southeast; R$ 12.629,17 
+33.4;0;no;southwest; R$ 107.959,37 
+44.7;3;no;southwest; R$ 1.141,17 
+30.97;3;no;northwest; R$ 10.600,55 
+31.92;0;no;northeast; R$ 2.205,98 
+36.85;0;no;southeast; R$ 1.629,83 
+25.8;0;no;southwest; R$ 200,79 
+29.07;0;yes;northwest; R$ 29.141,36 
